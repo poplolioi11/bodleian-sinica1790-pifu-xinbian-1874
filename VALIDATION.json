@@ -1,0 +1,81 @@
+{
+  "schema": "publication-format-checks/1",
+  "checked_at": "2026-11-11T12:48:58.132549+00:00",
+  "scope": "117 declared original-print faces, fixed initial strings only",
+  "json_txt_tei_exact_unit_strings_and_order": "passed",
+  "faces": 117,
+  "units": 1660,
+  "unicode_codepoints": 27319,
+  "uncertainty_records": 472,
+  "gaiji_records": 62,
+  "table_cell_strings": 274,
+  "source_face_and_parent_mapping": "117of117 matched;61distinct official derivative byte objects",
+  "original_five_initial_pages_unchanged": true,
+  "tei_relaxng": {
+    "status": "passed",
+    "edition": "P5 4.12.0",
+    "schema_sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
+    "edition_url": "https://www.tei-c.org/Vault/P5/4.12.0/",
+    "validation_used_existing_official_schema_cache": true,
+    "schema_refetched_in_this_phase": false
+  },
+  "cff": {
+    "status": "passed",
+    "version": "1.2.0",
+    "schema_url": "https://citation-file-format.github.io/1.2.0/schema.json",
+    "schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
+    "validation_used_existing_official_schema_cache": true
+  },
+  "notes_row_pairing_figure_labels_and_offsets": "passed",
+  "negative_checks_once_each": [
+    {
+      "case": "changed-character",
+      "rejected": true
+    },
+    {
+      "case": "missing-unit",
+      "rejected": true
+    },
+    {
+      "case": "changed-order",
+      "rejected": true
+    },
+    {
+      "case": "changed-source",
+      "rejected": true
+    },
+    {
+      "case": "duplicate-id",
+      "rejected": true
+    },
+    {
+      "case": "changed-uncertainty-offset",
+      "rejected": true
+    },
+    {
+      "case": "external-entity",
+      "rejected": true
+    }
+  ],
+  "public_allowlist": "passed",
+  "source_images_crops_programs_prompts_private_paths_full_logs": "not included in checked package",
+  "private_annotation_check": {
+    "status": "incomplete",
+    "exit_code": 3,
+    "unit_output_bindings": 1660,
+    "events": 472,
+    "base_result_legacy_links": 944,
+    "pending_types": {
+      "unknown-model": 1660
+    },
+    "complete_traceability_claimed": false
+  },
+  "text_publication_purpose_gate": "allowed-as-recorded; source-specific SB-SINICA1790; not legal certification",
+  "independent_work": "not-applied-in-this-initial-release",
+  "human_full_double_collation": "not-run",
+  "expert_review": "not-run",
+  "peer_review": "not-run",
+  "accuracy_measurement": "not-run",
+  "scholarly_accuracy_certified": false,
+  "full_tei_apparatus_odd_schematron": "not-run"
+}

@@ -1,0 +1,286 @@
+page_id,unit_id,block_id,row_id,language,role,text
+f059-L,f059-L-category-papular,,,en,category-heading,PAPULAR DISEASES.
+f059-L,f059-L-lichen-0-zh,lichen,lichen-0,lzh,cell,汗癬
+f059-L,f059-L-lichen-0-en,lichen,lichen-0,en,cell,Lichen.
+f059-L,f059-L-lichen-1-zh,lichen,lichen-1,lzh,cell,一金錢汗癬
+f059-L,f059-L-lichen-1-en,lichen,lichen-1,en,cell,„ circumscriptus.
+f059-L,f059-L-lichen-2-zh,lichen,lichen-2,lzh,cell,一紅熱汗癬
+f059-L,f059-L-lichen-2-en,lichen,lichen-2,en,cell,„ agrius.
+f059-L,f059-L-lichen-3-zh,lichen,lichen-3,lzh,cell,一彼此相連汗癬
+f059-L,f059-L-lichen-3-en,lichen,lichen-3,en,cell,„ gyratus.
+f059-L,f059-L-lichen-4-zh,lichen,lichen-4,lzh,cell,一熱沸
+f059-L,f059-L-lichen-4-en,lichen,lichen-4,en,cell,„ tropicus.
+f059-L,f059-L-prurigo-0-zh,prurigo,prurigo-0,lzh,cell,癢癬
+f059-L,f059-L-prurigo-0-en,prurigo,prurigo-0,en,cell,Prurigo.
+f059-L,f059-L-prurigo-1-zh,prurigo,prurigo-1,lzh,cell,一小癢癬
+f059-L,f059-L-prurigo-1-en,prurigo,prurigo-1,en,cell,„ mitis.
+f059-L,f059-L-prurigo-2-zh,prurigo,prurigo-2,lzh,cell,一大癢癬
+f059-L,f059-L-prurigo-2-en,prurigo,prurigo-2,en,cell,„ formicans.
+f059-L,f059-L-prurigo-3-zh,prurigo,prurigo-3,lzh,cell,一老者癢癬
+f059-L,f059-L-prurigo-3-en,prurigo,prurigo-3,en,cell,„ senilis.
+f059-L,f059-L-prurigo-4-zh,prurigo,prurigo-4,lzh,cell,一糞門癢癬
+f059-L,f059-L-prurigo-4-en,prurigo,prurigo-4,en,cell,„ podicis.
+f059-L,f059-L-prurigo-5-zh,prurigo,prurigo-5,lzh,cell,一陰戶癢癬
+f059-L,f059-L-prurigo-5-en,prurigo,prurigo-5,en,cell,„ pudendi.
+f059-L,f059-L-prurigo-6-zh,prurigo,prurigo-6,lzh,cell,一腎囊癢癬
+f059-L,f059-L-prurigo-6-en,prurigo,prurigo-6,en,cell,„ scroti.
+f059-L,f059-L-category-squamous,,,en,category-heading,SQUAMOUS DISEASES.
+f059-L,f059-L-squamous-zh,,,lzh,category-heading,皮膚生鱗症
+f059-L,f059-L-psoriasis-0-zh,psoriasis,psoriasis-0,lzh,cell,魚鱗癬
+f059-L,f059-L-psoriasis-0-en,psoriasis,psoriasis-0,en,cell,Psoriasis or Lepra.
+f059-L,f059-L-psoriasis-1-zh,psoriasis,psoriasis-1,lzh,cell,一白點魚鱗癬
+f059-L,f059-L-psoriasis-1-en,psoriasis,psoriasis-1,en,cell,„ guttata.
+f059-L,f059-L-psoriasis-2-zh,psoriasis,psoriasis-2,lzh,cell,一大幅魚鱗癬
+f059-L,f059-L-psoriasis-2-en,psoriasis,psoriasis-2,en,cell,„ diffusa.
+f059-L,f059-L-psoriasis-3-zh,psoriasis,psoriasis-3,lzh,cell,一彼此相連魚鱗癬
+f059-L,f059-L-psoriasis-3-en,psoriasis,psoriasis-3,en,cell,„ gyrata.
+f059-L,f059-L-psoriasis-4-zh,psoriasis,psoriasis-4,lzh,cell,一延纏重症魚鱗癬
+f059-L,f059-L-psoriasis-4-en,psoriasis,psoriasis-4,en,cell,„ inveterata.
+f059-L,f059-L-psoriasis-5-zh,psoriasis,psoriasis-5,lzh,cell,一頭上魚鱗癬
+f059-L,f059-L-psoriasis-5-en,psoriasis,psoriasis-5,en,cell,„ capitis.
+f059-L,f059-L-psoriasis-6-zh,psoriasis,psoriasis-6,lzh,cell,一掌內魚鱗癬鵝掌瘋
+f059-L,f059-L-psoriasis-6-en,psoriasis,psoriasis-6,en,cell,"„ palmaris et
+plantaris."
+f059-L,f059-L-psoriasis-7-zh,psoriasis,psoriasis-7,lzh,cell,一指甲魚鱗癬
+f059-L,f059-L-psoriasis-7-en,psoriasis,psoriasis-7,en,cell,„ unguium.
+f060-R,f060-R-category-squamous,,,en,category-heading,SQUAMOUS DISEASES.
+f060-R,f060-R-ichthyosis-0-zh,ichthyosis,ichthyosis-0,lzh,cell,牛皮癬
+f060-R,f060-R-ichthyosis-0-en,ichthyosis,ichthyosis-0,en,cell,Ichthyosis
+f060-R,f060-R-ichthyosis-1-zh,ichthyosis,ichthyosis-1,lzh,cell,一生鱗牛皮癬
+f060-R,f060-R-ichthyosis-1-en,ichthyosis,ichthyosis-1,en,cell,„ squamosa.
+f060-R,f060-R-ichthyosis-2-zh,ichthyosis,ichthyosis-2,lzh,cell,一生粗皮牛皮癬
+f060-R,f060-R-ichthyosis-2-en,ichthyosis,ichthyosis-2,en,cell,„ spinosa.
+f060-R,f060-R-ichthyosis-3-zh,ichthyosis,ichthyosis-3,lzh,cell,一生角牛皮癬
+f060-R,f060-R-ichthyosis-3-en,ichthyosis,ichthyosis-3,en,cell,„ cornea.
+f060-R,f060-R-pityriasis-0-zh,pityriasis,pityriasis-0,lzh,cell,蛇皮癬
+f060-R,f060-R-pityriasis-0-en,pityriasis,pityriasis-0,en,cell,Pityriasis
+f060-R,f060-R-pityriasis-1-zh,pityriasis,pityriasis-1,lzh,cell,一輕蛇皮癬
+f060-R,f060-R-pityriasis-1-en,pityriasis,pityriasis-1,en,cell,„ simplex.
+f060-R,f060-R-pityriasis-2-zh,pityriasis,pityriasis-2,lzh,cell,一紅熱蛇皮癬
+f060-R,f060-R-pityriasis-2-en,pityriasis,pityriasis-2,en,cell,„ ruber.
+f060-R,f060-R-pityriasis-3-zh,pityriasis,pityriasis-3,lzh,cell,一頭上蛇皮癬
+f060-R,f060-R-pityriasis-3-en,pityriasis,pityriasis-3,en,cell,„ capitis.
+f060-R,f060-R-pityriasis-4-en,pityriasis,pityriasis-4,en,cell,„ pilaris.
+f060-R,f060-R-pityriasis-5-zh,pityriasis,pityriasis-5,lzh,cell,一棕色蛇皮癬
+f060-R,f060-R-pityriasis-5-en,pityriasis,pityriasis-5,en,cell,„ versicolor.
+f060-R,f060-R-pityriasis-6-zh,pityriasis,pityriasis-6,lzh,cell,如有枝相連的
+f060-R,f060-R-pityriasis-6-en,pityriasis,pityriasis-6,en,cell,(parasitic.)
+f060-R,f060-R-category-exanthematous,,,en,category-heading,"EXANTHEMATOUS
+DISEASES."
+f060-R,f060-R-roseola-0-zh,roseola,roseola-0,lzh,cell,梅桂紅症
+f060-R,f060-R-roseola-0-en,roseola,roseola-0,en,cell,Roseola.
+f060-R,f060-R-erythema-0-zh,erythema,erythema-0,lzh,cell,紫癜風
+f060-R,f060-R-erythema-0-en,erythema,erythema-0,en,cell,Erythema.
+f060-R,f060-R-urticaria-0-zh,urticaria,urticaria-0,lzh,cell,風團
+f060-R,f060-R-urticaria-0-en,urticaria,urticaria-0,en,cell,Urticaria.
+f060-R,f060-R-urticaria-1-zh,urticaria,urticaria-1,lzh,cell,風癢
+f060-R,f060-R-urticaria-1-en,urticaria,urticaria-1,en,cell,„ chronic.
+f060-L,f060-L-category-vesicular,,,en,category-heading,VESICULAR DISEASES.
+f060-L,f060-L-eczema-0-zh,eczema,eczema-0,lzh,cell,水蛭癩
+f060-L,f060-L-eczema-0-en,eczema,eczema-0,en,cell,Eczema.
+f060-L,f060-L-eczema-1-zh,eczema,eczema-1,lzh,cell,輕水蛭癩
+f060-L,f060-L-eczema-1-en,eczema,eczema-1,en,cell,„ simplex.
+f060-L,f060-L-eczema-2-zh,eczema,eczema-2,lzh,cell,紅熱水蛭癩
+f060-L,f060-L-eczema-2-en,eczema,eczema-2,en,cell,„ rubrum.
+f060-L,f060-L-eczema-3-zh,eczema,eczema-3,lzh,cell,"水蛭癩與天
+泡瘡並生"
+f060-L,f060-L-eczema-3-en,eczema,eczema-3,en,cell,„ impetiginoides.
+f060-L,f060-L-eczema-4-zh,eczema,eczema-4,lzh,cell,頭上水蛭癩
+f060-L,f060-L-eczema-4-en,eczema,eczema-4,en,cell,„ capitis.
+f060-L,f060-L-eczema-5-zh,eczema,eczema-5,lzh,cell,面上水蛭癩
+f060-L,f060-L-eczema-5-en,eczema,eczema-5,en,cell,„ faciei.
+f060-L,f060-L-eczema-6-zh,eczema,eczema-6,lzh,cell,耳上水蛭癩
+f060-L,f060-L-eczema-6-en,eczema,eczema-6,en,cell,„ aurium.
+f060-L,f060-L-eczema-7-zh,eczema,eczema-7,lzh,cell,乳上水蛭癩
+f060-L,f060-L-eczema-7-en,eczema,eczema-7,en,cell,„ mammae.
+f060-L,f060-L-eczema-8-zh,eczema,eczema-8,lzh,cell,手足水蛭癩
+f060-L,f060-L-eczema-8-en,eczema,eczema-8,en,cell,„ manum et pedum.
+f060-L,f060-L-eczema-9-zh,eczema,eczema-9,lzh,cell,下陰水蛭癩
+f060-L,f060-L-eczema-9-en,eczema,eczema-9,en,cell,„ genitale.
+f060-L,f060-L-category-bullous,,,en,category-heading,BULLOUS DISEASES.
+f060-L,f060-L-herpes-0-zh,herpes,herpes-0,lzh,cell,大水蛭癩
+f060-L,f060-L-herpes-0-en,herpes,herpes-0,en,cell,Herpes.
+f060-L,f060-L-herpes-1-zh,herpes,herpes-1,lzh,cell,生蛇繞腰龍
+f060-L,f060-L-herpes-1-en,herpes,herpes-1,en,cell,„ zoster (shingles.)
+f060-L,f060-L-herpes-2-zh,herpes,herpes-2,lzh,cell,唇上大水蛭癩
+f060-L,f060-L-herpes-2-en,herpes,herpes-2,en,cell,„ labialis.
+f060-L,f060-L-herpes-3-zh,herpes,herpes-3,lzh,cell,前陰大水蛭癩
+f060-L,f060-L-herpes-3-en,herpes,herpes-3,en,cell,„ preputialis.
+f060-L,f060-L-herpes-4-zh,herpes,herpes-4,lzh,cell,金錢癬有枝相連的
+f060-L,f060-L-herpes-4-en,herpes,herpes-4,en,cell,"„ circinatus (Tinea-
+circinata.)"
+f060-L,f060-L-miliaria-0-zh,miliaria,miliaria-0,lzh,cell,似粟水蛭癩
+f060-L,f060-L-miliaria-0-en,miliaria,miliaria-0,en,cell,Miliaria.
+f060-L,f060-L-scabies-0-zh,scabies,scabies-0,lzh,cell,濕癩
+f060-L,f060-L-scabies-0-en,scabies,scabies-0,en,cell,Scabies.
+f061-R,f061-R-pemphigus-0-zh,pemphigus,pemphigus-0,lzh,cell,大膿泡
+f061-R,f061-R-pemphigus-0-en,pemphigus,pemphigus-0,en,cell,Pemphigus.
+f061-R,f061-R-pemphigus-1-zh,pemphigus,pemphigus-1,lzh,cell,大膿泡淺症
+f061-R,f061-R-pemphigus-1-en,pemphigus,pemphigus-1,en,cell,„ acute.
+f061-R,f061-R-pemphigus-2-zh,pemphigus,pemphigus-2,lzh,cell,大膿泡緩症
+f061-R,f061-R-pemphigus-2-en,pemphigus,pemphigus-2,en,cell,„ chronic.
+f061-R,f061-R-pemphigus-3-zh,pemphigus,pemphigus-3,lzh,cell,嬰兒大膿泡
+f061-R,f061-R-pemphigus-3-en,pemphigus,pemphigus-3,en,cell,„ neonatorum.
+f061-R,f061-R-category-pustular,,,en,category-heading,PUSTULAR DISEASES.
+f061-R,f061-R-impetigo-0-zh,impetigo,impetigo-0,lzh,cell,天泡瘡
+f061-R,f061-R-impetigo-0-en,impetigo,impetigo-0,en,cell,Impetigo.
+f061-R,f061-R-impetigo-1-zh,impetigo,impetigo-1,lzh,cell,一聚而生的天泡瘡
+f061-R,f061-R-impetigo-1-en,impetigo,impetigo-1,en,cell,„ figurata.
+f061-R,f061-R-impetigo-2-zh,impetigo,impetigo-2,lzh,cell,一散而生的天泡瘡
+f061-R,f061-R-impetigo-2-en,impetigo,impetigo-2,en,cell,„ sparsa.
+f061-R,f061-R-impetigo-3-zh,impetigo,impetigo-3,lzh,cell,一結大膠的天泡瘡
+f061-R,f061-R-impetigo-3-en,impetigo,impetigo-3,en,cell,„ scabida.
+f061-R,f061-R-impetigo-4-zh,impetigo,impetigo-4,lzh,cell,一頭上天泡瘡
+f061-R,f061-R-impetigo-4-en,impetigo,impetigo-4,en,cell,„ capitis.
+f061-R,f061-R-ecthyma-0-zh,ecthyma,ecthyma-0,lzh,cell,大瘡頭
+f061-R,f061-R-ecthyma-0-en,ecthyma,ecthyma-0,en,cell,Ecthyma.
+f061-R,f061-R-ecthyma-1-zh,ecthyma,ecthyma-1,lzh,cell,一屬淺症大瘡頭
+f061-R,f061-R-ecthyma-1-en,ecthyma,ecthyma-1,en,cell,„ acute.
+f061-R,f061-R-ecthyma-2-zh,ecthyma,ecthyma-2,lzh,cell,一嬰兒大瘡頭
+f061-R,f061-R-ecthyma-2-en,ecthyma,ecthyma-2,en,cell,„ infantile.
+f061-R,f061-R-ecthyma-3-zh,ecthyma,ecthyma-3,lzh,cell,一老者大瘡頭
+f061-R,f061-R-ecthyma-3-en,ecthyma,ecthyma-3,en,cell,"„ luridum vel
+cachecticum."
+f061-R,f061-R-furunculus-0-zh,furunculus,furunculus-0,lzh,cell,膿瘡
+f061-R,f061-R-furunculus-0-en,furunculus,furunculus-0,en,cell,Furunculus (Boil.)
+f061-R,f061-R-furunculus-1-zh,furunculus,furunculus-1,lzh,cell,背癰
+f061-R,f061-R-furunculus-1-en,furunculus,furunculus-1,en,cell,„ anthrax.
+f061-R,f061-R-acne-0-zh,acne,acne-0,lzh,cell,酒蛟
+f061-R,f061-R-acne-0-en,acne,acne-0,en,cell,Acne.
+f061-R,f061-R-acne-1-zh,acne,acne-1,lzh,cell,一小粒之頭生黑點
+f061-R,f061-R-acne-1-en,acne,acne-1,en,cell,„ simplex.
+f061-R,f061-R-acne-2-zh,acne,acne-2,lzh,cell,一小粒之頭發膿
+f061-R,f061-R-acne-2-en,acne,acne-2,en,cell,„ indurata.
+f061-R,f061-R-acne-3-zh,acne,acne-3,lzh,cell,一無小粒而只發紅
+f061-R,f061-R-acne-3-en,acne,acne-3,en,cell,„ rosacea.
+f061-R,f061-R-acne-4-zh,acne,acne-4,lzh,cell,一紅酒蛟
+f061-R,f061-R-acne-4-en,acne,acne-4,en,cell,„ hypertrophica.
+f061-L,f061-L-rupia-zh-head,rupia,,lzh,heading,銅鼓疔
+f061-L,f061-L-rupia-en-head,rupia,,en,heading,Rupia.
+f061-L,f061-L-rupia-zh1,rupia,rupia-1,lzh,cell,一薄膿銅鼓疔
+f061-L,f061-L-rupia-en1,rupia,rupia-1,en,cell,„ simplex.
+f061-L,f061-L-rupia-zh2,rupia,rupia-2,lzh,cell,一厚膿銅鼓疔
+f061-L,f061-L-rupia-en2,rupia,rupia-2,en,cell,„ prominens.
+f061-L,f061-L-tubercular-heading,molluscum,,en,category-heading,TUBERCULAR DISEASES.
+f061-L,f061-L-molluscum-zh-head,molluscum,,lzh,heading,滿身疣贅狀
+f061-L,f061-L-molluscum-en-head,molluscum,,en,heading,Molluscum.
+f061-L,f061-L-molluscum-zh1,molluscum,molluscum-1,lzh,cell,一小兒傳染疣贅症
+f061-L,f061-L-molluscum-en1,molluscum,molluscum-1,en,cell,„ contagiosum.
+f061-L,f061-L-molluscum-zh2,molluscum,molluscum-2,lzh,cell,一延縋下疣贅症
+f061-L,f061-L-molluscum-en2,molluscum,molluscum-2,en,cell,„ fibrosum.
+f061-L,f061-L-molluscum-zh3,molluscum,molluscum-3,lzh,cell,一垂下疣贅症
+f061-L,f061-L-molluscum-en3,molluscum,molluscum-3,en,cell,„ pendulum.
+f061-L,f061-L-lupus-zh-head,lupus,,lzh,heading,蠶食桑症
+f061-L,f061-L-lupus-en-head,lupus,,en,heading,Lupus.
+f061-L,f061-L-lupus-zh1,lupus,lupus-1,lzh,cell,一輕食皮之症
+f061-L,f061-L-lupus-en1,lupus,lupus-1,en,cell,„ erythematosus.
+f061-L,f061-L-lupus-zh2,lupus,lupus-2,lzh,cell,一蠶食壞皮之症
+f061-L,f061-L-lupus-en2,lupus,lupus-2,en,cell,„ non-exedens.
+f061-L,f061-L-lupus-zh3,lupus,lupus-3,lzh,cell,一蠶食壞肉之症
+f061-L,f061-L-lupus-en3,lupus,lupus-3,en,cell,„ exedens.
+f061-L,f061-L-purpura-zh-head,purpura,,lzh,heading,斑點
+f061-L,f061-L-purpura-en-head,purpura,,en,heading,Purpura.
+f061-L,f061-L-purpura-zh1,purpura,purpura-1,lzh,cell,一種發出細點紅黑
+f061-L,f061-L-purpura-en1,purpura,purpura-1,en,cell,„ simplex.
+f061-L,f061-L-purpura-zh2,purpura,purpura-2,lzh,cell,一種發出大點紅黑
+f061-L,f061-L-purpura-en2,purpura,purpura-2,en,cell,„ hemorrhagica.
+f061-L,f061-L-purpura-zh3,purpura,purpura-3,lzh,cell,一種發出浮腫圓泡
+f061-L,f061-L-purpura-en3,purpura,purpura-3,en,cell,„ urticans.
+f061-L,f061-L-hairy-category,hairy,,en,category-heading,Diseases of hairy parts.
+f061-L,f061-L-tinea-transliteration,tinea,,lzh,transliteration,天呢丫化
+f061-L,f061-L-tinea-zh-head,tinea,,lzh,heading,癬
+f061-L,f061-L-tinea-en-head,tinea,,en,heading,Tinea favosa.
+f061-L,f061-L-tinea-zh1,tinea,tinea-1,lzh,cell,"一種生于毛
+髮之裏"
+f061-L,f061-L-tinea-en1,tinea,tinea-1,en,cell,„ or favus pilaris.
+f062-R,f062-R-tinea-cont-1-zh,tinea-cont,tinea-cont-1,lzh,cell,"一種不必專生
+毛髮之處"
+f062-R,f062-R-tinea-cont-1-en,tinea-cont,tinea-cont-1,en,cell,Tinea epidermidis
+f062-R,f062-R-tinea-cont-2-zh,tinea-cont,tinea-cont-2,lzh,cell,"一種生於手甲
+足甲等處"
+f062-R,f062-R-tinea-cont-2-en,tinea-cont,tinea-cont-2,en,cell,„ unguium.
+f062-R,f062-R-tinea-tonsorans-0-zh,tinea-tonsorans,tinea-tonsorans-0,lzh,cell,"天呢丫丹
+蘇欄症"
+f062-R,f062-R-tinea-tonsorans-0-en,tinea-tonsorans,tinea-tonsorans-0,en,cell,Tinea tonsorans (on scalp.)
+f062-R,f062-R-tinea-sycosis-0-zh,tinea-sycosis,tinea-sycosis-0,lzh,cell,天呢丫西高士
+f062-R,f062-R-tinea-sycosis-0-en,tinea-sycosis,tinea-sycosis-0,en,cell,„ sycosis.
+f062-R,f062-R-tinea-circinata-0-zh,tinea-circinata,tinea-circinata-0,lzh,cell,金錢癬
+f062-R,f062-R-tinea-circinata-0-en,tinea-circinata,tinea-circinata-0,en,cell,"„ circinata (herpes-
+circinatus.)"
+f062-R,f062-R-alopecia-0-zh,alopecia,alopecia-0,lzh,cell,脫髮症
+f062-R,f062-R-alopecia-0-en,alopecia,alopecia-0,en,cell,Alopecia areata.
+f062-R,f062-R-alopecia-1-zh,alopecia,alopecia-1,lzh,cell,老人髮禿
+f062-R,f062-R-alopecia-1-en,alopecia,alopecia-1,en,cell,„ senile.
+f062-R,f062-R-elephantiasis-0-zh,elephantiasis,elephantiasis-0,lzh,cell,大沙蹄
+f062-R,f062-R-elephantiasis-0-en,elephantiasis,elephantiasis-0,en,cell,Elephantiasis Arabum.
+f062-R,f062-R-keloid-0-zh,keloid,keloid-0,lzh,cell,欲贅
+f062-R,f062-R-keloid-0-en,keloid,keloid-0,en,cell,Keloid.
+f062-R,f062-R-epithelioma-0-zh,epithelioma,epithelioma-0,lzh,cell,間沙
+f062-R,f062-R-epithelioma-0-en,epithelioma,epithelioma-0,en,cell,Epithelioma (Cancer.)
+f062-L,f062-L-syphilis-1-zh,syphilis,syphilis-1,lzh,cell,皮生棕白之點
+f062-L,f062-L-syphilis-1-en,syphilis,syphilis-1,en,cell,Maculae Syphiliticae.
+f062-L,f062-L-syphilis-2-zh,syphilis,syphilis-2,lzh,cell,梅桂紅症
+f062-L,f062-L-syphilis-2-en,syphilis,syphilis-2,en,cell,Exanthematous syphilide.
+f062-L,f062-L-syphilis-3-zh,syphilis,syphilis-3,lzh,cell,紫癜風
+f062-L,f062-L-syphilis-3-en,syphilis,syphilis-3,en,cell,Erythematous „
+f062-L,f062-L-syphilis-4-zh,syphilis,syphilis-4,lzh,cell,風團
+f062-L,f062-L-syphilis-4-en,syphilis,syphilis-4,en,cell,Syphilitic urticaria.
+f062-L,f062-L-syphilis-5-zh,syphilis,syphilis-5,lzh,cell,汗癬淺症
+f062-L,f062-L-syphilis-5-en,syphilis,syphilis-5,en,cell,Syphilitic lichen (acute.)
+f062-L,f062-L-syphilis-6-zh,syphilis,syphilis-6,lzh,cell,汗癬緩症
+f062-L,f062-L-syphilis-6-en,syphilis,syphilis-6,en,cell,„ „ (chronic.)
+f062-L,f062-L-syphilis-7-zh,syphilis,syphilis-7,lzh,cell,水蛭癩
+f062-L,f062-L-syphilis-7-en,syphilis,syphilis-7,en,cell,„ eczema.
+f062-L,f062-L-syphilis-8-zh,syphilis,syphilis-8,lzh,cell,大水蛭癩
+f062-L,f062-L-syphilis-8-en,syphilis,syphilis-8,en,cell,„ herpes.
+f062-L,f062-L-syphilis-9-zh,syphilis,syphilis-9,lzh,cell,大膿泡
+f062-L,f062-L-syphilis-9-en,syphilis,syphilis-9,en,cell,„ pemphigus.
+f062-L,f062-L-syphilis-10-zh,syphilis,syphilis-10,lzh,cell,天泡瘡
+f062-L,f062-L-syphilis-10-en,syphilis,syphilis-10,en,cell,„ impetigo.
+f062-L,f062-L-syphilis-11-zh,syphilis,syphilis-11,lzh,cell,大瘡頭
+f062-L,f062-L-syphilis-11-en,syphilis,syphilis-11,en,cell,„ ecthyma.
+f062-L,f062-L-syphilis-12-zh,syphilis,syphilis-12,lzh,cell,銅鼓疔
+f062-L,f062-L-syphilis-12-en,syphilis,syphilis-12,en,cell,„ rupia.
+f062-L,f062-L-syphilis-13-zh,syphilis,syphilis-13,lzh,cell,魚鱗癬
+f062-L,f062-L-syphilis-13-en,syphilis,syphilis-13,en,cell,„ lepra.
+f062-L,f062-L-syphilis-14-zh,syphilis,syphilis-14,lzh,cell,浮腫發膿
+f062-L,f062-L-syphilis-14-en,syphilis,syphilis-14,en,cell,„ tubercle ulcerated.
+f062-L,f062-L-syphilis-15-zh,syphilis,syphilis-15,lzh,cell,浮腫不發膿
+f062-L,f062-L-syphilis-15-en,syphilis,syphilis-15,en,cell,"„ „ non-ulcer-
+ated."
+f062-L,f062-L-syphilis-16-zh,syphilis,syphilis-16,lzh,cell,此柳胎毒
+f062-L,f062-L-syphilis-16-en,syphilis,syphilis-16,en,cell,Hereditary Syphilis.
+f062-L,f062-L-leprosy-0-zh,leprosy,leprosy-0,lzh,cell,痲瘋
+f062-L,f062-L-leprosy-0-en,leprosy,leprosy-0,en,cell,Leprosy Tubercular.
+f062-L,f062-L-leprosy-1-zh,leprosy,leprosy-1,lzh,cell,雞爪瘋
+f062-L,f062-L-leprosy-1-en,leprosy,leprosy-1,en,cell,„ anaesthetic.
+f062-L,f062-L-leprosy-2-zh,leprosy,leprosy-2,lzh,cell,紅雲血瘤
+f062-L,f062-L-leprosy-2-en,leprosy,leprosy-2,en,cell,„ leonti.
+f062-L,f062-L-verrucae-0-zh,verrucae,verrucae-0,lzh,cell,飯疣
+f062-L,f062-L-verrucae-0-en,verrucae,verrucae-0,en,cell,Verrucae (warts.)
+f062-L,f062-L-clavus-0-zh,clavus,clavus-0,lzh,cell,雞眼
+f062-L,f062-L-clavus-0-en,clavus,clavus-0,en,cell,Clavus (corns.)
+f062-L,f062-L-tylosis-0-zh,tylosis,tylosis-0,lzh,cell,足指丫雞眼
+f062-L,f062-L-tylosis-0-en,tylosis,tylosis-0,en,cell,Tylosis (soft corns.)
+f063-R,f063-R-naevi-0-zh,naevi,naevi-0,lzh,cell,血痣
+f063-R,f063-R-naevi-0-en,naevi,naevi-0,en,cell,Naevi.
+f063-R,f063-R-varicose-0-zh,varicose,varicose-0,lzh,cell,迴血管長大　青筋
+f063-R,f063-R-varicose-0-en,varicose,varicose-0,en,cell,Varicose veins.
+f063-R,f063-R-leucopathia-0-zh,leucopathia,leucopathia-0,lzh,cell,生白食
+f063-R,f063-R-leucopathia-0-en,leucopathia,leucopathia-0,en,cell,Leucopathia (Albino.)
+f063-R,f063-R-melanopathia-0-zh,melanopathia,melanopathia-0,lzh,cell,黑痣
+f063-R,f063-R-melanopathia-0-en,melanopathia,melanopathia-0,en,cell,Melanopathia.
+f063-R,f063-R-ephelis-0-zh,ephelis,ephelis-0,lzh,cell,麻雀班
+f063-R,f063-R-ephelis-0-en,ephelis,ephelis-0,en,cell,Ephelis.
+f063-R,f063-R-moles-0-zh,moles,moles-0,lzh,cell,癍
+f063-R,f063-R-moles-0-en,moles,moles-0,en,cell,"Moles, Pigmentary naevi."
+f063-R,f063-R-idrosis-0-zh,idrosis,idrosis-0,lzh,cell,汗出大多
+f063-R,f063-R-idrosis-0-en,idrosis,idrosis-0,en,cell,Idriosis.
+f063-R,f063-R-anidrosis-0-zh,anidrosis,anidrosis-0,lzh,cell,並無汗出
+f063-R,f063-R-anidrosis-0-en,anidrosis,anidrosis-0,en,cell,Anidrosis.
+f063-R,f063-R-stearrhoea-0-zh,stearrhoea,stearrhoea-0,lzh,cell,油管發油過多
+f063-R,f063-R-stearrhoea-0-en,stearrhoea,stearrhoea-0,en,cell,Stearrhoea.
+f063-R,f063-R-xeroderma-0-zh,xeroderma,xeroderma-0,lzh,cell,油管無油發出
+f063-R,f063-R-xeroderma-0-en,xeroderma,xeroderma-0,en,cell,Xeroderma.
+f063-R,f063-R-comedones-0-zh,comedones,comedones-0,lzh,cell,油管有蟲
+f063-R,f063-R-comedones-0-en,comedones,comedones-0,en,cell,Comedones.

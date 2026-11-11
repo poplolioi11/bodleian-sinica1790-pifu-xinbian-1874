@@ -1,0 +1,88 @@
+{
+  "declared_original_print_faces": 117,
+  "unprocessed_declared_faces": [],
+  "required_layers_pending": [],
+  "unresolved_reading_records": 472,
+  "unresolved_is_not_unprocessed": true,
+  "independent_work": "not-applied-in-this-initial-release",
+  "excluded_binding_blank_modern_surfaces": [
+    {
+      "face_id": "f001-cover",
+      "frame_id": "f001",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6152f310-988b-4af7-8eab-d765510b5f86.json",
+      "role": "binding-marks-described-only",
+      "reason": "裝幀/館藏標記面，與原書印刷文字層分開；未轉錄。"
+    },
+    {
+      "face_id": "f002-R",
+      "frame_id": "f002",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ea79eca-1223-4ed7-96b0-45ce454c135a.json",
+      "role": "inside-cover-blank",
+      "reason": "封內無目標原印正文。"
+    },
+    {
+      "face_id": "f002-L",
+      "frame_id": "f002",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7ea79eca-1223-4ed7-96b0-45ce454c135a.json",
+      "role": "flyleaf-blank",
+      "reason": "空白/細微斑點，非原印正文。"
+    },
+    {
+      "face_id": "f003-R",
+      "frame_id": "f003",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c4ded559-9225-412e-9bde-29e042aa5911.json",
+      "role": "reverse-title-showthrough",
+      "reason": "背面透印，不鏡像還原或重複初錄。"
+    },
+    {
+      "face_id": "f004-R",
+      "frame_id": "f004",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/07d02c5d-1e68-42f0-a2fd-34bcae2856c6.json",
+      "role": "blank",
+      "reason": "近空白/輕透印，無目標原印正文。"
+    },
+    {
+      "face_id": "f005-R",
+      "frame_id": "f005",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0970fb5f-e761-4315-b8a2-6ad4818c4318.json",
+      "role": "blank",
+      "reason": "空白，非原印正文。"
+    },
+    {
+      "face_id": "f059-R",
+      "frame_id": "f059",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bb6e343e-cdd6-46fb-8a11-fd8c8420dbcf.json",
+      "role": "blank",
+      "reason": "右側空白；表文在左側。"
+    },
+    {
+      "face_id": "f063-L",
+      "frame_id": "f063",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3edbbeb1-7fb2-4efc-abee-6ffb11c205a8.json",
+      "role": "blank",
+      "reason": "左側空白；非遺漏正文。"
+    },
+    {
+      "face_id": "f064-R",
+      "frame_id": "f064",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f3c2fe2e-b3db-42d8-8f85-9bd4f9fa8120.json",
+      "role": "blank-flyleaf",
+      "reason": "紙面空白，靠書脊細裂/折痕不含目標原印文字。"
+    },
+    {
+      "face_id": "f064-L",
+      "frame_id": "f064",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f3c2fe2e-b3db-42d8-8f85-9bd4f9fa8120.json",
+      "role": "inside-lower-cover",
+      "reason": "封內裝幀面，與原書印刷目標分開。"
+    },
+    {
+      "face_id": "f065-cover",
+      "frame_id": "f065",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fd23b93c-7e01-4380-a798-16e2e0e14530.json",
+      "role": "binding-marks-described-only",
+      "reason": "裝幀/館藏標記面，與原書印刷文字層分開；未轉錄。"
+    }
+  ],
+  "exclusions_are_not_source_text_loss": true
+}

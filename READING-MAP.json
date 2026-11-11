@@ -1,0 +1,5569 @@
+{
+  "faithful_text_unchanged": true,
+  "continuous_reading_layer_produced": false,
+  "position_convention": "0-based Unicode codepoints, end exclusive in each identified unit.",
+  "pages": [
+    {
+      "page_id": "f003-L",
+      "unit_order": [
+        "f003-L-date",
+        "f003-L-title",
+        "f003-L-imprint"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f004-L",
+      "unit_order": [
+        "f004-L-title",
+        "f004-L-par01",
+        "f004-L-par02",
+        "f004-L-par03",
+        "f004-L-par04",
+        "f004-L-par05",
+        "f004-L-par06",
+        "f004-L-signature",
+        "f004-L-place",
+        "f004-L-date"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f005-L",
+      "unit_order": [
+        "f005-L-book-title",
+        "f005-L-section",
+        "f005-L-c01",
+        "f005-L-c02",
+        "f005-L-c03",
+        "f005-L-c04",
+        "f005-L-c05",
+        "f005-L-c06",
+        "f005-L-c07",
+        "f005-L-c08",
+        "f005-L-running-title",
+        "f005-L-printed-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f006-R",
+      "unit_order": [
+        "f006-R-c01",
+        "f006-R-c02",
+        "f006-R-c03",
+        "f006-R-c04",
+        "f006-R-c05",
+        "f006-R-c06",
+        "f006-R-c07",
+        "f006-R-c08",
+        "f006-R-c09",
+        "f006-R-c10",
+        "f006-R-edge-paratext"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f006-L",
+      "unit_order": [
+        "f006-L-c01",
+        "f006-L-c02",
+        "f006-L-c03",
+        "f006-L-c04",
+        "f006-L-c05",
+        "f006-L-c06",
+        "f006-L-c07",
+        "f006-L-c08",
+        "f006-L-c09",
+        "f006-L-c10",
+        "f006-L-running-title",
+        "f006-L-printed-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f007-R",
+      "unit_order": [
+        "f007-R-c01",
+        "f007-R-c02",
+        "f007-R-c03",
+        "f007-R-c04",
+        "f007-R-c05",
+        "f007-R-c06",
+        "f007-R-c07",
+        "f007-R-c08",
+        "f007-R-c09",
+        "f007-R-c10",
+        "f007-R-margin"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f007-L",
+      "unit_order": [
+        "f007-L-c01",
+        "f007-L-c02",
+        "f007-L-c03",
+        "f007-L-c04",
+        "f007-L-c05",
+        "f007-L-c06",
+        "f007-L-c07",
+        "f007-L-c08",
+        "f007-L-c09",
+        "f007-L-c10",
+        "f007-L-running-title",
+        "f007-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f008-R",
+      "unit_order": [
+        "f008-R-c01",
+        "f008-R-c02",
+        "f008-R-c03",
+        "f008-R-edge-print",
+        "f008-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f008-L",
+      "unit_order": [
+        "f008-L-title",
+        "f008-L-overview",
+        "f008-L-toc1-head",
+        "f008-L-toc1-main",
+        "f008-L-toc1-wrap",
+        "f008-L-toc2-head",
+        "f008-L-toc2-main",
+        "f008-L-toc2-wrap",
+        "f008-L-toc3-head",
+        "f008-L-toc3-main",
+        "f008-L-toc3-wrap",
+        "f008-L-toc4-head",
+        "f008-L-toc4-main",
+        "f008-L-toc4-wrap",
+        "f008-L-running-title",
+        "f008-L-printed-page"
+      ],
+      "source_note": "每項head→main→wrap；小字wrap印在heading下側，是該項句尾，不接到冊名後再讀main。保持忠實單位，另列閱讀順序；未在忠實層補標點。"
+    },
+    {
+      "page_id": "f009-R",
+      "unit_order": [
+        "f009-R-toc5-head",
+        "f009-R-toc5-main",
+        "f009-R-toc5-wrap",
+        "f009-R-toc6-head",
+        "f009-R-toc6-main",
+        "f009-R-toc6-wrap",
+        "f009-R-toc7-head",
+        "f009-R-toc7-main",
+        "f009-R-toc7-wrap",
+        "f009-R-toc8-head",
+        "f009-R-toc8-main",
+        "f009-R-toc8-wrap",
+        "f009-R-appended-formulas",
+        "f009-R-edge-print",
+        "f009-R-page"
+      ],
+      "source_note": "每冊head→main→wrap；兩個長wrap仍是原印小字區，不接到冊名後先讀。"
+    },
+    {
+      "page_id": "f009-L",
+      "unit_order": [
+        "f009-L-book-title",
+        "f009-L-author-kerr",
+        "f009-L-author-lin",
+        "f009-L-overview",
+        "f009-L-book1",
+        "f009-L-section1",
+        "f009-L-c01",
+        "f009-L-c02",
+        "f009-L-c03",
+        "f009-L-c04",
+        "f009-L-c05",
+        "f009-L-running-title",
+        "f009-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f010-R",
+      "unit_order": [
+        "f010-R-c01",
+        "f010-R-c02",
+        "f010-R-c03",
+        "f010-R-c04",
+        "f010-R-c05",
+        "f010-R-c06",
+        "f010-R-c07",
+        "f010-R-c08",
+        "f010-R-c09",
+        "f010-R-c10",
+        "f010-R-edge-print",
+        "f010-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f010-L",
+      "unit_order": [
+        "f010-L-c01",
+        "f010-L-c02",
+        "f010-L-c03",
+        "f010-L-c04",
+        "f010-L-c05",
+        "f010-L-c06",
+        "f010-L-c07",
+        "f010-L-c08",
+        "f010-L-c09",
+        "f010-L-c10",
+        "f010-L-c03-note",
+        "f010-L-running-title",
+        "f010-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f011-R",
+      "unit_order": [
+        "f011-R-c01",
+        "f011-R-c02",
+        "f011-R-c03",
+        "f011-R-c04",
+        "f011-R-c05",
+        "f011-R-c06",
+        "f011-R-c07",
+        "f011-R-c08",
+        "f011-R-c09",
+        "f011-R-c10",
+        "f011-R-fig1",
+        "f011-R-fig2",
+        "f011-R-name",
+        "f011-R-fig3",
+        "f011-R-edge-print",
+        "f011-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f011-L",
+      "unit_order": [
+        "f011-L-c01",
+        "f011-L-c02",
+        "f011-L-c03",
+        "f011-L-c04",
+        "f011-L-c05",
+        "f011-L-c06",
+        "f011-L-c07",
+        "f011-L-c08",
+        "f011-L-c09",
+        "f011-L-c10",
+        "f011-L-c04-fig4",
+        "f011-L-c10-note",
+        "f011-L-running-title",
+        "f011-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f012-R",
+      "unit_order": [
+        "f012-R-c01",
+        "f012-R-c02",
+        "f012-R-c03",
+        "f012-R-c04",
+        "f012-R-c05",
+        "f012-R-c06",
+        "f012-R-c07",
+        "f012-R-c08",
+        "f012-R-c09",
+        "f012-R-c10",
+        "f012-R-edge-print",
+        "f012-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f012-L",
+      "unit_order": [
+        "f012-L-c01",
+        "f012-L-c02",
+        "f012-L-c03",
+        "f012-L-c04",
+        "f012-L-c05",
+        "f012-L-c06",
+        "f012-L-c07",
+        "f012-L-c08",
+        "f012-L-c09",
+        "f012-L-c10",
+        "f012-L-running-title",
+        "f012-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f013-R",
+      "unit_order": [
+        "f013-R-c01",
+        "f013-R-c02",
+        "f013-R-c03",
+        "f013-R-c04",
+        "f013-R-c05",
+        "f013-R-c06",
+        "f013-R-c07",
+        "f013-R-c08",
+        "f013-R-c09",
+        "f013-R-c10",
+        "f013-R-c03-note",
+        "f013-R-c04-note",
+        "f013-R-c03-ending",
+        "f013-R-edge-print",
+        "f013-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f013-L",
+      "unit_order": [
+        "f013-L-c01",
+        "f013-L-c02",
+        "f013-L-c03",
+        "f013-L-c04",
+        "f013-L-c05",
+        "f013-L-c06",
+        "f013-L-c07",
+        "f013-L-c08",
+        "f013-L-c09",
+        "f013-L-c10",
+        "f013-L-c08-note",
+        "f013-L-running-title",
+        "f013-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f014-R",
+      "unit_order": [
+        "f014-R-c01",
+        "f014-R-c02",
+        "f014-R-c03",
+        "f014-R-c04",
+        "f014-R-c05",
+        "f014-R-c06",
+        "f014-R-c07",
+        "f014-R-c08",
+        "f014-R-c09",
+        "f014-R-c10",
+        "f014-R-edge-print",
+        "f014-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f014-L",
+      "unit_order": [
+        "f014-L-c01",
+        "f014-L-c02",
+        "f014-L-c03",
+        "f014-L-c04",
+        "f014-L-c05",
+        "f014-L-c06",
+        "f014-L-c07",
+        "f014-L-c08",
+        "f014-L-c09",
+        "f014-L-c10",
+        "f014-L-running-title",
+        "f014-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f015-R",
+      "unit_order": [
+        "f015-R-c01",
+        "f015-R-c02",
+        "f015-R-c03",
+        "f015-R-c04",
+        "f015-R-c05",
+        "f015-R-c06",
+        "f015-R-c07",
+        "f015-R-c08",
+        "f015-R-c09",
+        "f015-R-c10",
+        "f015-R-edge-print",
+        "f015-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f015-L",
+      "unit_order": [
+        "f015-L-c01",
+        "f015-L-c02",
+        "f015-L-c03",
+        "f015-L-c04",
+        "f015-L-c05",
+        "f015-L-c06",
+        "f015-L-c07",
+        "f015-L-c08",
+        "f015-L-c09",
+        "f015-L-c10",
+        "f015-L-running-title",
+        "f015-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f016-R",
+      "unit_order": [
+        "f016-R-c01",
+        "f016-R-c02",
+        "f016-R-c03",
+        "f016-R-c04",
+        "f016-R-c05",
+        "f016-R-c06",
+        "f016-R-c07",
+        "f016-R-c08",
+        "f016-R-c09",
+        "f016-R-c10",
+        "f016-R-edge-print",
+        "f016-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f016-L",
+      "unit_order": [
+        "f016-L-c01",
+        "f016-L-c02",
+        "f016-L-c03",
+        "f016-L-c04",
+        "f016-L-c05",
+        "f016-L-c06",
+        "f016-L-c07",
+        "f016-L-c08",
+        "f016-L-c09",
+        "f016-L-c10",
+        "f016-L-c10-note",
+        "f016-L-running-title",
+        "f016-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f017-R",
+      "unit_order": [
+        "f017-R-c01",
+        "f017-R-c02",
+        "f017-R-c03",
+        "f017-R-c04",
+        "f017-R-c05",
+        "f017-R-c06",
+        "f017-R-c07",
+        "f017-R-c08",
+        "f017-R-c09",
+        "f017-R-c10",
+        "f017-R-c02-note",
+        "f017-R-c04-note",
+        "f017-R-edge-print",
+        "f017-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f017-L",
+      "unit_order": [
+        "f017-L-c01",
+        "f017-L-c02",
+        "f017-L-c03",
+        "f017-L-c04",
+        "f017-L-c05",
+        "f017-L-c06",
+        "f017-L-c07",
+        "f017-L-c08",
+        "f017-L-c09",
+        "f017-L-c10",
+        "f017-L-c02-note",
+        "f017-L-c03-note1",
+        "f017-L-c03-note2",
+        "f017-L-running-title",
+        "f017-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f018-R",
+      "unit_order": [
+        "f018-R-c01",
+        "f018-R-c02",
+        "f018-R-c03",
+        "f018-R-c04",
+        "f018-R-c05",
+        "f018-R-c06",
+        "f018-R-c07",
+        "f018-R-c08",
+        "f018-R-c09",
+        "f018-R-c10",
+        "f018-R-c03-note",
+        "f018-R-edge-print",
+        "f018-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f018-L",
+      "unit_order": [
+        "f018-L-c01",
+        "f018-L-c02",
+        "f018-L-c03",
+        "f018-L-c04",
+        "f018-L-c05",
+        "f018-L-c06",
+        "f018-L-c07",
+        "f018-L-c08",
+        "f018-L-c09",
+        "f018-L-c10",
+        "f018-L-running-title",
+        "f018-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f019-R",
+      "unit_order": [
+        "f019-R-c01",
+        "f019-R-c02",
+        "f019-R-c03",
+        "f019-R-c04",
+        "f019-R-c05",
+        "f019-R-c06",
+        "f019-R-c07",
+        "f019-R-c08",
+        "f019-R-c09",
+        "f019-R-c10",
+        "f019-R-edge-print",
+        "f019-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f019-L",
+      "unit_order": [
+        "f019-L-c01",
+        "f019-L-c02",
+        "f019-L-c03",
+        "f019-L-c04",
+        "f019-L-c05",
+        "f019-L-c06",
+        "f019-L-c07",
+        "f019-L-c08",
+        "f019-L-c09",
+        "f019-L-c10",
+        "f019-L-running-title",
+        "f019-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f020-R",
+      "unit_order": [
+        "f020-R-c01",
+        "f020-R-c02",
+        "f020-R-c03",
+        "f020-R-c04",
+        "f020-R-c05",
+        "f020-R-c06",
+        "f020-R-c07",
+        "f020-R-c08",
+        "f020-R-c09",
+        "f020-R-c10",
+        "f020-R-edge-print",
+        "f020-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f020-L",
+      "unit_order": [
+        "f020-L-c01",
+        "f020-L-c02",
+        "f020-L-c03",
+        "f020-L-c04",
+        "f020-L-c05",
+        "f020-L-c06",
+        "f020-L-c07",
+        "f020-L-c08",
+        "f020-L-c09",
+        "f020-L-c10",
+        "f020-L-c08-figure5",
+        "f020-L-running-title",
+        "f020-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f021-R",
+      "unit_order": [
+        "f021-R-c01",
+        "f021-R-c02",
+        "f021-R-c03",
+        "f021-R-c04",
+        "f021-R-c05",
+        "f021-R-c06",
+        "f021-R-c07",
+        "f021-R-c08",
+        "f021-R-c09",
+        "f021-R-c10",
+        "f021-R-edge-print",
+        "f021-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f021-L",
+      "unit_order": [
+        "f021-L-c01",
+        "f021-L-c02",
+        "f021-L-c03",
+        "f021-L-c04",
+        "f021-L-c05",
+        "f021-L-c06",
+        "f021-L-c07",
+        "f021-L-c08",
+        "f021-L-c09",
+        "f021-L-c10",
+        "f021-L-running-title",
+        "f021-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f022-R",
+      "unit_order": [
+        "f022-R-c01",
+        "f022-R-c02",
+        "f022-R-c03",
+        "f022-R-c04",
+        "f022-R-c05",
+        "f022-R-c06",
+        "f022-R-c07",
+        "f022-R-c08",
+        "f022-R-c09",
+        "f022-R-c10",
+        "f022-R-c02-note",
+        "f022-R-edge-print",
+        "f022-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f022-L",
+      "unit_order": [
+        "f022-L-c01",
+        "f022-L-c02",
+        "f022-L-c03",
+        "f022-L-c04",
+        "f022-L-c05",
+        "f022-L-c06",
+        "f022-L-c07",
+        "f022-L-c08",
+        "f022-L-c09",
+        "f022-L-c10",
+        "f022-L-running-title",
+        "f022-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f023-R",
+      "unit_order": [
+        "f023-R-c01",
+        "f023-R-c02",
+        "f023-R-c03",
+        "f023-R-c04",
+        "f023-R-c05",
+        "f023-R-c06",
+        "f023-R-c07",
+        "f023-R-c08",
+        "f023-R-c09",
+        "f023-R-c10",
+        "f023-R-c03-note",
+        "f023-R-edge-print",
+        "f023-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f023-L",
+      "unit_order": [
+        "f023-L-c01",
+        "f023-L-c02",
+        "f023-L-c03",
+        "f023-L-c04",
+        "f023-L-c05",
+        "f023-L-c06",
+        "f023-L-c07",
+        "f023-L-c08",
+        "f023-L-c09",
+        "f023-L-c10",
+        "f023-L-running-title",
+        "f023-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f024-R",
+      "unit_order": [
+        "f024-R-c01",
+        "f024-R-c02",
+        "f024-R-c03",
+        "f024-R-c04",
+        "f024-R-c05",
+        "f024-R-c06",
+        "f024-R-c07",
+        "f024-R-c08",
+        "f024-R-c09",
+        "f024-R-c10",
+        "f024-R-c02-note",
+        "f024-R-edge-print",
+        "f024-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f024-L",
+      "unit_order": [
+        "f024-L-c01",
+        "f024-L-c02",
+        "f024-L-c03",
+        "f024-L-c04",
+        "f024-L-c05",
+        "f024-L-c06",
+        "f024-L-c07",
+        "f024-L-c08",
+        "f024-L-c09",
+        "f024-L-c10",
+        "f024-L-running-title",
+        "f024-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f025-R",
+      "unit_order": [
+        "f025-R-c01",
+        "f025-R-c02",
+        "f025-R-c03",
+        "f025-R-c04",
+        "f025-R-c05",
+        "f025-R-c06",
+        "f025-R-c07",
+        "f025-R-c08",
+        "f025-R-c09",
+        "f025-R-c10",
+        "f025-R-edge-print",
+        "f025-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f025-L",
+      "unit_order": [
+        "f025-L-c01",
+        "f025-L-c02",
+        "f025-L-c03",
+        "f025-L-c04",
+        "f025-L-c05",
+        "f025-L-c06",
+        "f025-L-c07",
+        "f025-L-c08",
+        "f025-L-c09",
+        "f025-L-c10",
+        "f025-L-running-title",
+        "f025-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f026-R",
+      "unit_order": [
+        "f026-R-c01",
+        "f026-R-c02",
+        "f026-R-c03",
+        "f026-R-c04",
+        "f026-R-c05",
+        "f026-R-c06",
+        "f026-R-c07",
+        "f026-R-c08",
+        "f026-R-c09",
+        "f026-R-c10",
+        "f026-R-edge-print",
+        "f026-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f026-L",
+      "unit_order": [
+        "f026-L-c01",
+        "f026-L-c02",
+        "f026-L-c03",
+        "f026-L-c04",
+        "f026-L-c05",
+        "f026-L-c06",
+        "f026-L-c07",
+        "f026-L-c08",
+        "f026-L-c09",
+        "f026-L-c10",
+        "f026-L-running-title",
+        "f026-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f027-R",
+      "unit_order": [
+        "f027-R-c01",
+        "f027-R-c02",
+        "f027-R-c03",
+        "f027-R-c04",
+        "f027-R-c05",
+        "f027-R-c06",
+        "f027-R-c07",
+        "f027-R-c08",
+        "f027-R-c09",
+        "f027-R-c10",
+        "f027-R-edge-print",
+        "f027-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f027-L",
+      "unit_order": [
+        "f027-L-c01",
+        "f027-L-c02",
+        "f027-L-c03",
+        "f027-L-c03-note",
+        "f027-L-c04",
+        "f027-L-c05",
+        "f027-L-c06",
+        "f027-L-c07",
+        "f027-L-c08",
+        "f027-L-c09",
+        "f027-L-c10",
+        "f027-L-running-title",
+        "f027-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f028-R",
+      "unit_order": [
+        "f028-R-c01",
+        "f028-R-c02",
+        "f028-R-c03",
+        "f028-R-c04",
+        "f028-R-c05",
+        "f028-R-c06",
+        "f028-R-c07",
+        "f028-R-c08",
+        "f028-R-c09",
+        "f028-R-c10",
+        "f028-R-edge-print",
+        "f028-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f028-L",
+      "unit_order": [
+        "f028-L-c01",
+        "f028-L-c02",
+        "f028-L-c03",
+        "f028-L-c04",
+        "f028-L-c05",
+        "f028-L-c06",
+        "f028-L-c07",
+        "f028-L-c08",
+        "f028-L-c09",
+        "f028-L-c10",
+        "f028-L-running-title",
+        "f028-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f029-R",
+      "unit_order": [
+        "f029-R-c01",
+        "f029-R-c02",
+        "f029-R-c03",
+        "f029-R-c04",
+        "f029-R-c05",
+        "f029-R-c06",
+        "f029-R-c07",
+        "f029-R-c08",
+        "f029-R-c09",
+        "f029-R-c10",
+        "f029-R-edge-print",
+        "f029-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f029-L",
+      "unit_order": [
+        "f029-L-c01",
+        "f029-L-c02",
+        "f029-L-c03",
+        "f029-L-c04",
+        "f029-L-c05",
+        "f029-L-c06",
+        "f029-L-c07",
+        "f029-L-c08",
+        "f029-L-c09",
+        "f029-L-c10",
+        "f029-L-running-title",
+        "f029-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f030-R",
+      "unit_order": [
+        "f030-R-c01",
+        "f030-R-c02",
+        "f030-R-c03",
+        "f030-R-c04",
+        "f030-R-c05",
+        "f030-R-c06",
+        "f030-R-c07",
+        "f030-R-c08",
+        "f030-R-c09",
+        "f030-R-c10",
+        "f030-R-c01-note",
+        "f030-R-edge-print",
+        "f030-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f030-L",
+      "unit_order": [
+        "f030-L-c01",
+        "f030-L-c02",
+        "f030-L-c03",
+        "f030-L-c04",
+        "f030-L-c05",
+        "f030-L-c06",
+        "f030-L-c07",
+        "f030-L-c08",
+        "f030-L-c09",
+        "f030-L-c10",
+        "f030-L-running-title",
+        "f030-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f031-R",
+      "unit_order": [
+        "f031-R-c01",
+        "f031-R-c02",
+        "f031-R-c03",
+        "f031-R-c04",
+        "f031-R-c05",
+        "f031-R-c06",
+        "f031-R-c07",
+        "f031-R-c08",
+        "f031-R-c09",
+        "f031-R-c10",
+        "f031-R-edge-print",
+        "f031-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f031-L",
+      "unit_order": [
+        "f031-L-c01",
+        "f031-L-c02",
+        "f031-L-c03",
+        "f031-L-c04",
+        "f031-L-c05",
+        "f031-L-c06",
+        "f031-L-c07",
+        "f031-L-c08",
+        "f031-L-c09",
+        "f031-L-c10",
+        "f031-L-c04-note",
+        "f031-L-c06-note",
+        "f031-L-running-title",
+        "f031-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f032-R",
+      "unit_order": [
+        "f032-R-c01",
+        "f032-R-c02",
+        "f032-R-c03",
+        "f032-R-c04",
+        "f032-R-c05",
+        "f032-R-c06",
+        "f032-R-c07",
+        "f032-R-c08",
+        "f032-R-c09",
+        "f032-R-c10",
+        "f032-R-edge-print",
+        "f032-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f032-L",
+      "unit_order": [
+        "f032-L-c01",
+        "f032-L-c02",
+        "f032-L-c03",
+        "f032-L-c04",
+        "f032-L-c05",
+        "f032-L-c06",
+        "f032-L-c07",
+        "f032-L-c08",
+        "f032-L-c09",
+        "f032-L-c10",
+        "f032-L-running-title",
+        "f032-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f033-R",
+      "unit_order": [
+        "f033-R-c01",
+        "f033-R-c02",
+        "f033-R-c03",
+        "f033-R-c04",
+        "f033-R-c05",
+        "f033-R-c06",
+        "f033-R-c07",
+        "f033-R-c08",
+        "f033-R-c09",
+        "f033-R-c10",
+        "f033-R-edge-print",
+        "f033-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f033-L",
+      "unit_order": [
+        "f033-L-c01",
+        "f033-L-c02",
+        "f033-L-c03",
+        "f033-L-c04",
+        "f033-L-c05",
+        "f033-L-c06",
+        "f033-L-c07",
+        "f033-L-c08",
+        "f033-L-c09",
+        "f033-L-c10",
+        "f033-L-running-title",
+        "f033-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f034-R",
+      "unit_order": [
+        "f034-R-c01",
+        "f034-R-c02",
+        "f034-R-c03",
+        "f034-R-c04",
+        "f034-R-c05",
+        "f034-R-c06",
+        "f034-R-c07",
+        "f034-R-c08",
+        "f034-R-c09",
+        "f034-R-c10",
+        "f034-R-edge-print",
+        "f034-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f034-L",
+      "unit_order": [
+        "f034-L-c01",
+        "f034-L-c02",
+        "f034-L-c03",
+        "f034-L-c04",
+        "f034-L-c05",
+        "f034-L-c06",
+        "f034-L-c07",
+        "f034-L-c08",
+        "f034-L-c09",
+        "f034-L-c10",
+        "f034-L-c10-note",
+        "f034-L-running-title",
+        "f034-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f035-R",
+      "unit_order": [
+        "f035-R-c01",
+        "f035-R-c02",
+        "f035-R-c03",
+        "f035-R-c04",
+        "f035-R-c05",
+        "f035-R-c06",
+        "f035-R-c07",
+        "f035-R-c08",
+        "f035-R-c09",
+        "f035-R-c10",
+        "f035-R-edge-print",
+        "f035-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f035-L",
+      "unit_order": [
+        "f035-L-c01",
+        "f035-L-c02",
+        "f035-L-c03",
+        "f035-L-c04",
+        "f035-L-c05",
+        "f035-L-c06",
+        "f035-L-c07",
+        "f035-L-c08",
+        "f035-L-c09",
+        "f035-L-c10",
+        "f035-L-running-title",
+        "f035-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f036-R",
+      "unit_order": [
+        "f036-R-c01",
+        "f036-R-c02",
+        "f036-R-c03",
+        "f036-R-c04",
+        "f036-R-c05",
+        "f036-R-c06",
+        "f036-R-c07",
+        "f036-R-c08",
+        "f036-R-c09",
+        "f036-R-c10",
+        "f036-R-c06-note",
+        "f036-R-c07-note",
+        "f036-R-edge-print",
+        "f036-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f036-L",
+      "unit_order": [
+        "f036-L-c01",
+        "f036-L-c02",
+        "f036-L-c03",
+        "f036-L-c04",
+        "f036-L-c05",
+        "f036-L-c06",
+        "f036-L-c07",
+        "f036-L-c08",
+        "f036-L-c09",
+        "f036-L-c10",
+        "f036-L-running-title",
+        "f036-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f037-R",
+      "unit_order": [
+        "f037-R-c01",
+        "f037-R-c02",
+        "f037-R-c03",
+        "f037-R-c04",
+        "f037-R-c05",
+        "f037-R-c06",
+        "f037-R-c07",
+        "f037-R-c08",
+        "f037-R-c09",
+        "f037-R-c10",
+        "f037-R-c05-note",
+        "f037-R-edge-print",
+        "f037-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f037-L",
+      "unit_order": [
+        "f037-L-c01",
+        "f037-L-c02",
+        "f037-L-c03",
+        "f037-L-c04",
+        "f037-L-c05",
+        "f037-L-c06",
+        "f037-L-c07",
+        "f037-L-c08",
+        "f037-L-c09",
+        "f037-L-c10",
+        "f037-L-running-title",
+        "f037-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f038-R",
+      "unit_order": [
+        "f038-R-c01",
+        "f038-R-c02",
+        "f038-R-c03",
+        "f038-R-c04",
+        "f038-R-c05",
+        "f038-R-c06",
+        "f038-R-c07",
+        "f038-R-c08",
+        "f038-R-long-note",
+        "f038-R-c04-note",
+        "f038-R-edge-print",
+        "f038-R-page"
+      ],
+      "source_note": "大字正文與四小行長註分層；長註按右至左逐小行，保留換行。此/若接續原樣保留，未默改成可連讀本。"
+    },
+    {
+      "page_id": "f038-L",
+      "unit_order": [
+        "f038-L-c01",
+        "f038-L-c02",
+        "f038-L-c03",
+        "f038-L-c04",
+        "f038-L-c05",
+        "f038-L-c06",
+        "f038-L-c07",
+        "f038-L-c08",
+        "f038-L-c09",
+        "f038-L-c10",
+        "f038-L-c09-note",
+        "f038-L-running-title",
+        "f038-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f039-R",
+      "unit_order": [
+        "f039-R-c01",
+        "f039-R-c02",
+        "f039-R-c03",
+        "f039-R-c04",
+        "f039-R-c05",
+        "f039-R-c06",
+        "f039-R-c07",
+        "f039-R-c08",
+        "f039-R-c09",
+        "f039-R-c10",
+        "f039-R-edge-print",
+        "f039-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f039-L",
+      "unit_order": [
+        "f039-L-c01",
+        "f039-L-c02",
+        "f039-L-c03",
+        "f039-L-c04",
+        "f039-L-c05",
+        "f039-L-c06",
+        "f039-L-c07",
+        "f039-L-c08",
+        "f039-L-c09",
+        "f039-L-c10",
+        "f039-L-running-title",
+        "f039-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f040-R",
+      "unit_order": [
+        "f040-R-c01",
+        "f040-R-c02",
+        "f040-R-c03",
+        "f040-R-c04",
+        "f040-R-c05",
+        "f040-R-c06",
+        "f040-R-c07",
+        "f040-R-c08",
+        "f040-R-c09",
+        "f040-R-c10",
+        "f040-R-c07-note",
+        "f040-R-edge-print",
+        "f040-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f040-L",
+      "unit_order": [
+        "f040-L-c01",
+        "f040-L-c02",
+        "f040-L-c03",
+        "f040-L-c04",
+        "f040-L-c05",
+        "f040-L-c06",
+        "f040-L-c07",
+        "f040-L-c08",
+        "f040-L-c09",
+        "f040-L-c10",
+        "f040-L-running-title",
+        "f040-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f041-R",
+      "unit_order": [
+        "f041-R-c01",
+        "f041-R-c02",
+        "f041-R-c03",
+        "f041-R-c04",
+        "f041-R-c05",
+        "f041-R-c06",
+        "f041-R-c07",
+        "f041-R-c08",
+        "f041-R-c09",
+        "f041-R-c10",
+        "f041-R-edge-print",
+        "f041-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f041-L",
+      "unit_order": [
+        "f041-L-c01",
+        "f041-L-c02",
+        "f041-L-c03",
+        "f041-L-c04",
+        "f041-L-c05",
+        "f041-L-c06",
+        "f041-L-c07",
+        "f041-L-c08",
+        "f041-L-c09",
+        "f041-L-c10",
+        "f041-L-c02-wrap",
+        "f041-L-c10-note",
+        "f041-L-running-title",
+        "f041-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f042-R",
+      "unit_order": [
+        "f042-R-c01",
+        "f042-R-c02",
+        "f042-R-c03",
+        "f042-R-c04",
+        "f042-R-c05",
+        "f042-R-c06",
+        "f042-R-c07",
+        "f042-R-c08",
+        "f042-R-c09",
+        "f042-R-c10",
+        "f042-R-edge-print",
+        "f042-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f042-L",
+      "unit_order": [
+        "f042-L-c01",
+        "f042-L-c02",
+        "f042-L-c03",
+        "f042-L-c04",
+        "f042-L-c05",
+        "f042-L-c06",
+        "f042-L-c07",
+        "f042-L-c08",
+        "f042-L-c09",
+        "f042-L-c10",
+        "f042-L-running-title",
+        "f042-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f043-R",
+      "unit_order": [
+        "f043-R-c01",
+        "f043-R-c02",
+        "f043-R-c03",
+        "f043-R-c04",
+        "f043-R-c05",
+        "f043-R-c06",
+        "f043-R-c07",
+        "f043-R-c08",
+        "f043-R-c09",
+        "f043-R-c10",
+        "f043-R-edge-print",
+        "f043-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f043-L",
+      "unit_order": [
+        "f043-L-c01",
+        "f043-L-c02",
+        "f043-L-c03",
+        "f043-L-c04",
+        "f043-L-c05",
+        "f043-L-c06",
+        "f043-L-c07",
+        "f043-L-c08",
+        "f043-L-c09",
+        "f043-L-c10",
+        "f043-L-running-title",
+        "f043-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f044-R",
+      "unit_order": [
+        "f044-R-c01",
+        "f044-R-c02",
+        "f044-R-c03",
+        "f044-R-c04",
+        "f044-R-c05",
+        "f044-R-c06",
+        "f044-R-c07",
+        "f044-R-c08",
+        "f044-R-c09",
+        "f044-R-c10",
+        "f044-R-c06-note",
+        "f044-R-edge-print",
+        "f044-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f044-L",
+      "unit_order": [
+        "f044-L-c01",
+        "f044-L-c02",
+        "f044-L-c03",
+        "f044-L-c04",
+        "f044-L-c05",
+        "f044-L-c06",
+        "f044-L-c07",
+        "f044-L-c08",
+        "f044-L-c09",
+        "f044-L-c10",
+        "f044-L-running-title",
+        "f044-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f045-R",
+      "unit_order": [
+        "f045-R-c01",
+        "f045-R-c02",
+        "f045-R-c03",
+        "f045-R-c04",
+        "f045-R-c05",
+        "f045-R-c06",
+        "f045-R-c07",
+        "f045-R-c08",
+        "f045-R-c09",
+        "f045-R-c10",
+        "f045-R-c01-note",
+        "f045-R-edge-print",
+        "f045-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f045-L",
+      "unit_order": [
+        "f045-L-c01",
+        "f045-L-c02",
+        "f045-L-c03",
+        "f045-L-c04",
+        "f045-L-c05",
+        "f045-L-c06",
+        "f045-L-c07",
+        "f045-L-c08",
+        "f045-L-c09",
+        "f045-L-c10",
+        "f045-L-c10-scope",
+        "f045-L-c10-wrap",
+        "f045-L-running-title",
+        "f045-L-page"
+      ],
+      "source_note": "第八冊標題、scope小字及wrap句尾分層，scope→wrap；不把小字混成正文。"
+    },
+    {
+      "page_id": "f046-R",
+      "unit_order": [
+        "f046-R-c01",
+        "f046-R-c02",
+        "f046-R-c03",
+        "f046-R-c04",
+        "f046-R-c05",
+        "f046-R-c06",
+        "f046-R-c07",
+        "f046-R-c08",
+        "f046-R-c09",
+        "f046-R-c10",
+        "f046-R-edge-print",
+        "f046-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f046-L",
+      "unit_order": [
+        "f046-L-c01",
+        "f046-L-c02",
+        "f046-L-c03",
+        "f046-L-c04",
+        "f046-L-c05",
+        "f046-L-c06",
+        "f046-L-c07",
+        "f046-L-c08",
+        "f046-L-c09",
+        "f046-L-c10",
+        "f046-L-running-title",
+        "f046-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f047-R",
+      "unit_order": [
+        "f047-R-c01",
+        "f047-R-c02",
+        "f047-R-c03",
+        "f047-R-c04",
+        "f047-R-c05",
+        "f047-R-c06",
+        "f047-R-c07",
+        "f047-R-c08",
+        "f047-R-c09",
+        "f047-R-c10",
+        "f047-R-c05-note",
+        "f047-R-edge-print",
+        "f047-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f047-L",
+      "unit_order": [
+        "f047-L-c01",
+        "f047-L-c02",
+        "f047-L-c03",
+        "f047-L-c04",
+        "f047-L-c05",
+        "f047-L-c06",
+        "f047-L-c07",
+        "f047-L-c08",
+        "f047-L-c09",
+        "f047-L-c10",
+        "f047-L-c02-note",
+        "f047-L-running-title",
+        "f047-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f048-R",
+      "unit_order": [
+        "f048-R-c01",
+        "f048-R-c02",
+        "f048-R-c03",
+        "f048-R-c04",
+        "f048-R-c05",
+        "f048-R-c06",
+        "f048-R-c07",
+        "f048-R-c08",
+        "f048-R-c09",
+        "f048-R-c10",
+        "f048-R-edge-print",
+        "f048-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f048-L",
+      "unit_order": [
+        "f048-L-c01",
+        "f048-L-c02",
+        "f048-L-c03",
+        "f048-L-c04",
+        "f048-L-c05",
+        "f048-L-c06",
+        "f048-L-c07",
+        "f048-L-c08",
+        "f048-L-c09",
+        "f048-L-c10",
+        "f048-L-running-title",
+        "f048-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f049-R",
+      "unit_order": [
+        "f049-R-c01",
+        "f049-R-c02",
+        "f049-R-c03",
+        "f049-R-c04",
+        "f049-R-c05",
+        "f049-R-c06",
+        "f049-R-c07",
+        "f049-R-c08",
+        "f049-R-c09",
+        "f049-R-c10",
+        "f049-R-c10-note",
+        "f049-R-edge-print",
+        "f049-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f049-L",
+      "unit_order": [
+        "f049-L-c01",
+        "f049-L-c02",
+        "f049-L-c03",
+        "f049-L-c04",
+        "f049-L-c05",
+        "f049-L-c06",
+        "f049-L-c07",
+        "f049-L-c08",
+        "f049-L-c09",
+        "f049-L-c10",
+        "f049-L-c01-note",
+        "f049-L-running-title",
+        "f049-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f050-R",
+      "unit_order": [
+        "f050-R-c01",
+        "f050-R-c02",
+        "f050-R-c03",
+        "f050-R-c04",
+        "f050-R-c05",
+        "f050-R-c06",
+        "f050-R-c07",
+        "f050-R-c08",
+        "f050-R-c09",
+        "f050-R-c10",
+        "f050-R-edge-print",
+        "f050-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f050-L",
+      "unit_order": [
+        "f050-L-c01",
+        "f050-L-c02",
+        "f050-L-c03",
+        "f050-L-c04",
+        "f050-L-c05",
+        "f050-L-c06",
+        "f050-L-c07",
+        "f050-L-c08",
+        "f050-L-c09",
+        "f050-L-c10",
+        "f050-L-running-title",
+        "f050-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f051-R",
+      "unit_order": [
+        "f051-R-c01",
+        "f051-R-c02",
+        "f051-R-c03",
+        "f051-R-c04",
+        "f051-R-c05",
+        "f051-R-c06",
+        "f051-R-c07",
+        "f051-R-c08",
+        "f051-R-c09",
+        "f051-R-c10",
+        "f051-R-edge-print",
+        "f051-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f051-L",
+      "unit_order": [
+        "f051-L-c01",
+        "f051-L-c02",
+        "f051-L-c03",
+        "f051-L-c04",
+        "f051-L-running-title",
+        "f051-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f052-R",
+      "unit_order": [
+        "f052-R-c01",
+        "f052-R-c02",
+        "f052-R-c03",
+        "f052-R-c04",
+        "f052-R-c05",
+        "f052-R-c06",
+        "f052-R-c07",
+        "f052-R-c08",
+        "f052-R-c09",
+        "f052-R-c10",
+        "f052-R-edge-print",
+        "f052-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f052-L",
+      "unit_order": [
+        "f052-L-c01",
+        "f052-L-c02",
+        "f052-L-c03",
+        "f052-L-c04",
+        "f052-L-c05",
+        "f052-L-c06",
+        "f052-L-c07",
+        "f052-L-c08",
+        "f052-L-c09",
+        "f052-L-c10",
+        "f052-L-running-title",
+        "f052-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f053-R",
+      "unit_order": [
+        "f053-R-c01",
+        "f053-R-c02",
+        "f053-R-c03",
+        "f053-R-c04",
+        "f053-R-c05",
+        "f053-R-c06",
+        "f053-R-c07",
+        "f053-R-c08",
+        "f053-R-c09",
+        "f053-R-c10",
+        "f053-R-edge-print",
+        "f053-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f053-L",
+      "unit_order": [
+        "f053-L-c01",
+        "f053-L-c02",
+        "f053-L-c03",
+        "f053-L-c04",
+        "f053-L-c05",
+        "f053-L-c06",
+        "f053-L-c07",
+        "f053-L-c08",
+        "f053-L-c09",
+        "f053-L-c10",
+        "f053-L-running-title",
+        "f053-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f054-R",
+      "unit_order": [
+        "f054-R-c01",
+        "f054-R-c02",
+        "f054-R-c03",
+        "f054-R-c04",
+        "f054-R-c05",
+        "f054-R-c06",
+        "f054-R-c07",
+        "f054-R-c08",
+        "f054-R-c09",
+        "f054-R-c10",
+        "f054-R-c03-water",
+        "f054-R-c05-note",
+        "f054-R-c08-note",
+        "f054-R-edge-print",
+        "f054-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f054-L",
+      "unit_order": [
+        "f054-L-c01",
+        "f054-L-c02",
+        "f054-L-c03",
+        "f054-L-c04",
+        "f054-L-c05",
+        "f054-L-c06",
+        "f054-L-c07",
+        "f054-L-c08",
+        "f054-L-c09",
+        "f054-L-c10",
+        "f054-L-running-title",
+        "f054-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f055-R",
+      "unit_order": [
+        "f055-R-c01",
+        "f055-R-c02",
+        "f055-R-c03",
+        "f055-R-c04",
+        "f055-R-c05",
+        "f055-R-c06",
+        "f055-R-c07",
+        "f055-R-c08",
+        "f055-R-c09",
+        "f055-R-c10",
+        "f055-R-edge-print",
+        "f055-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f055-L",
+      "unit_order": [
+        "f055-L-c01",
+        "f055-L-c02",
+        "f055-L-c03",
+        "f055-L-c04",
+        "f055-L-c05",
+        "f055-L-c06",
+        "f055-L-c07",
+        "f055-L-c08",
+        "f055-L-c09",
+        "f055-L-c10",
+        "f055-L-running-title",
+        "f055-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f056-R",
+      "unit_order": [
+        "f056-R-c01",
+        "f056-R-c02",
+        "f056-R-c03",
+        "f056-R-c04",
+        "f056-R-c05",
+        "f056-R-c06",
+        "f056-R-c07",
+        "f056-R-c08",
+        "f056-R-c09",
+        "f056-R-c10",
+        "f056-R-c01-note1",
+        "f056-R-c01-note2",
+        "f056-R-c03-note1",
+        "f056-R-c03-note2",
+        "f056-R-edge-print",
+        "f056-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f056-L",
+      "unit_order": [
+        "f056-L-c01",
+        "f056-L-c02",
+        "f056-L-c03",
+        "f056-L-c04",
+        "f056-L-c05",
+        "f056-L-c06",
+        "f056-L-c07",
+        "f056-L-c08",
+        "f056-L-c09",
+        "f056-L-c10",
+        "f056-L-c03-note",
+        "f056-L-running-title",
+        "f056-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f057-R",
+      "unit_order": [
+        "f057-R-c01",
+        "f057-R-c02",
+        "f057-R-c03",
+        "f057-R-c04",
+        "f057-R-c05",
+        "f057-R-c06",
+        "f057-R-c07",
+        "f057-R-c08",
+        "f057-R-c09",
+        "f057-R-c10",
+        "f057-R-edge-print",
+        "f057-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f057-L",
+      "unit_order": [
+        "f057-L-c01",
+        "f057-L-c02",
+        "f057-L-c03",
+        "f057-L-c04",
+        "f057-L-c02-note",
+        "f057-L-running-title",
+        "f057-L-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f058-R",
+      "unit_order": [
+        "f058-R-running-title",
+        "f058-R-page"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f058-L",
+      "unit_order": [
+        "f058-L-fig01-label",
+        "f058-L-fig02-label",
+        "f058-L-fig03-label",
+        "f058-L-fig04-label",
+        "f058-L-fig05-label",
+        "f058-L-outer-margin-ink"
+      ],
+      "source_note": null
+    },
+    {
+      "page_id": "f059-L",
+      "unit_order": [
+        "f059-L-category-papular",
+        "f059-L-lichen-0-zh",
+        "f059-L-lichen-0-en",
+        "f059-L-lichen-ref",
+        "f059-L-lichen-1-zh",
+        "f059-L-lichen-1-en",
+        "f059-L-lichen-2-zh",
+        "f059-L-lichen-2-en",
+        "f059-L-lichen-3-zh",
+        "f059-L-lichen-3-en",
+        "f059-L-lichen-4-zh",
+        "f059-L-lichen-4-en",
+        "f059-L-lichen-kinds",
+        "f059-L-prurigo-0-zh",
+        "f059-L-prurigo-0-en",
+        "f059-L-prurigo-refs",
+        "f059-L-prurigo-1-zh",
+        "f059-L-prurigo-1-en",
+        "f059-L-prurigo-2-zh",
+        "f059-L-prurigo-2-en",
+        "f059-L-prurigo-3-zh",
+        "f059-L-prurigo-3-en",
+        "f059-L-prurigo-4-zh",
+        "f059-L-prurigo-4-en",
+        "f059-L-prurigo-5-zh",
+        "f059-L-prurigo-5-en",
+        "f059-L-prurigo-6-zh",
+        "f059-L-prurigo-6-en",
+        "f059-L-prurigo-kinds",
+        "f059-L-category-squamous",
+        "f059-L-squamous-zh",
+        "f059-L-squamous-ref",
+        "f059-L-psoriasis-0-zh",
+        "f059-L-psoriasis-0-en",
+        "f059-L-psoriasis-ref",
+        "f059-L-psoriasis-1-zh",
+        "f059-L-psoriasis-1-en",
+        "f059-L-psoriasis-2-zh",
+        "f059-L-psoriasis-2-en",
+        "f059-L-psoriasis-3-zh",
+        "f059-L-psoriasis-3-en",
+        "f059-L-psoriasis-4-zh",
+        "f059-L-psoriasis-4-en",
+        "f059-L-psoriasis-5-zh",
+        "f059-L-psoriasis-5-en",
+        "f059-L-psoriasis-6-zh",
+        "f059-L-psoriasis-6-en",
+        "f059-L-psoriasis-7-zh",
+        "f059-L-psoriasis-7-en",
+        "f059-L-psoriasis-ref2",
+        "f059-L-psoriasis-side1",
+        "f059-L-psoriasis-side2",
+        "f059-L-running-title",
+        "f059-L-page"
+      ],
+      "source_note": "表內漢字按實見橫列左至右；同行中英以row_id掛接，行自上至下。類目/小註/章節引用另層。„為原印低位雙逗狀重複記號的所選Unicode表示，不展開前名；不聲稱原圖有Unicode。"
+    },
+    {
+      "page_id": "f060-R",
+      "unit_order": [
+        "f060-R-category-squamous",
+        "f060-R-ichthyosis-0-zh",
+        "f060-R-ichthyosis-0-en",
+        "f060-R-ichthyosis-ref",
+        "f060-R-ichthyosis-1-zh",
+        "f060-R-ichthyosis-1-en",
+        "f060-R-ichthyosis-2-zh",
+        "f060-R-ichthyosis-2-en",
+        "f060-R-ichthyosis-3-zh",
+        "f060-R-ichthyosis-3-en",
+        "f060-R-ichthyosis-kinds",
+        "f060-R-pityriasis-0-zh",
+        "f060-R-pityriasis-0-en",
+        "f060-R-pityriasis-ref",
+        "f060-R-pityriasis-1-zh",
+        "f060-R-pityriasis-1-en",
+        "f060-R-pityriasis-2-zh",
+        "f060-R-pityriasis-2-en",
+        "f060-R-pityriasis-3-zh",
+        "f060-R-pityriasis-3-en",
+        "f060-R-pityriasis-4-en",
+        "f060-R-pityriasis-5-zh",
+        "f060-R-pityriasis-5-en",
+        "f060-R-pityriasis-6-zh",
+        "f060-R-pityriasis-6-en",
+        "f060-R-pityriasis-kinds",
+        "f060-R-category-exanthematous",
+        "f060-R-roseola-0-zh",
+        "f060-R-roseola-0-en",
+        "f060-R-roseola-note",
+        "f060-R-erythema-0-zh",
+        "f060-R-erythema-0-en",
+        "f060-R-erythema-ref",
+        "f060-R-urticaria-0-zh",
+        "f060-R-urticaria-0-en",
+        "f060-R-urticaria-ref",
+        "f060-R-urticaria-1-zh",
+        "f060-R-urticaria-1-en",
+        "f060-R-edge-print",
+        "f060-R-page"
+      ],
+      "source_note": "表內漢字按實見橫列左至右；同行中英以row_id掛接，行自上至下。類目/小註/章節引用另層。„為原印低位雙逗狀重複記號的所選Unicode表示，不展開前名；不聲稱原圖有Unicode。"
+    },
+    {
+      "page_id": "f060-L",
+      "unit_order": [
+        "f060-L-category-vesicular",
+        "f060-L-eczema-0-zh",
+        "f060-L-eczema-0-en",
+        "f060-L-eczema-ref",
+        "f060-L-eczema-1-zh",
+        "f060-L-eczema-1-en",
+        "f060-L-eczema-2-zh",
+        "f060-L-eczema-2-en",
+        "f060-L-eczema-3-zh",
+        "f060-L-eczema-3-en",
+        "f060-L-eczema-4-zh",
+        "f060-L-eczema-4-en",
+        "f060-L-eczema-5-zh",
+        "f060-L-eczema-5-en",
+        "f060-L-eczema-6-zh",
+        "f060-L-eczema-6-en",
+        "f060-L-eczema-7-zh",
+        "f060-L-eczema-7-en",
+        "f060-L-eczema-8-zh",
+        "f060-L-eczema-8-en",
+        "f060-L-eczema-9-zh",
+        "f060-L-eczema-9-en",
+        "f060-L-eczema-side",
+        "f060-L-category-bullous",
+        "f060-L-herpes-0-zh",
+        "f060-L-herpes-0-en",
+        "f060-L-herpes-ref",
+        "f060-L-herpes-1-zh",
+        "f060-L-herpes-1-en",
+        "f060-L-herpes-2-zh",
+        "f060-L-herpes-2-en",
+        "f060-L-herpes-3-zh",
+        "f060-L-herpes-3-en",
+        "f060-L-herpes-4-zh",
+        "f060-L-herpes-4-en",
+        "f060-L-herpes-kinds",
+        "f060-L-herpes-ref2",
+        "f060-L-miliaria-0-zh",
+        "f060-L-miliaria-0-en",
+        "f060-L-miliaria-ref",
+        "f060-L-scabies-0-zh",
+        "f060-L-scabies-0-en",
+        "f060-L-scabies-ref",
+        "f060-L-running-title",
+        "f060-L-page"
+      ],
+      "source_note": "表內漢字按實見橫列左至右；同行中英以row_id掛接，行自上至下。類目/小註/章節引用另層。„為原印低位雙逗狀重複記號的所選Unicode表示，不展開前名；不聲稱原圖有Unicode。"
+    },
+    {
+      "page_id": "f061-R",
+      "unit_order": [
+        "f061-R-pemphigus-0-zh",
+        "f061-R-pemphigus-0-en",
+        "f061-R-pemphigus-ref",
+        "f061-R-pemphigus-1-zh",
+        "f061-R-pemphigus-1-en",
+        "f061-R-pemphigus-2-zh",
+        "f061-R-pemphigus-2-en",
+        "f061-R-pemphigus-3-zh",
+        "f061-R-pemphigus-3-en",
+        "f061-R-pemphigus-side",
+        "f061-R-category-pustular",
+        "f061-R-impetigo-0-zh",
+        "f061-R-impetigo-0-en",
+        "f061-R-impetigo-ref",
+        "f061-R-impetigo-1-zh",
+        "f061-R-impetigo-1-en",
+        "f061-R-impetigo-2-zh",
+        "f061-R-impetigo-2-en",
+        "f061-R-impetigo-3-zh",
+        "f061-R-impetigo-3-en",
+        "f061-R-impetigo-4-zh",
+        "f061-R-impetigo-4-en",
+        "f061-R-impetigo-side",
+        "f061-R-ecthyma-0-zh",
+        "f061-R-ecthyma-0-en",
+        "f061-R-ecthyma-ref",
+        "f061-R-ecthyma-1-zh",
+        "f061-R-ecthyma-1-en",
+        "f061-R-ecthyma-2-zh",
+        "f061-R-ecthyma-2-en",
+        "f061-R-ecthyma-3-zh",
+        "f061-R-ecthyma-3-en",
+        "f061-R-ecthyma-side",
+        "f061-R-furunculus-0-zh",
+        "f061-R-furunculus-0-en",
+        "f061-R-furunculus-1-zh",
+        "f061-R-furunculus-1-en",
+        "f061-R-acne-0-zh",
+        "f061-R-acne-0-en",
+        "f061-R-acne-name",
+        "f061-R-acne-ref",
+        "f061-R-acne-1-zh",
+        "f061-R-acne-1-en",
+        "f061-R-acne-2-zh",
+        "f061-R-acne-2-en",
+        "f061-R-acne-3-zh",
+        "f061-R-acne-3-en",
+        "f061-R-acne-4-zh",
+        "f061-R-acne-4-en",
+        "f061-R-acne-side",
+        "f061-R-edge-print",
+        "f061-R-page"
+      ],
+      "source_note": "表內漢字按實見橫列左至右；同行中英以row_id掛接，行自上至下。類目/小註/章節引用另層。„為原印低位雙逗狀重複記號的所選Unicode表示，不展開前名；不聲稱原圖有Unicode。"
+    },
+    {
+      "page_id": "f061-L",
+      "unit_order": [
+        "f061-L-rupia-zh-head",
+        "f061-L-rupia-ref",
+        "f061-L-rupia-en-head",
+        "f061-L-rupia-zh1",
+        "f061-L-rupia-en1",
+        "f061-L-rupia-zh2",
+        "f061-L-rupia-en2",
+        "f061-L-rupia-kinds",
+        "f061-L-tubercular-heading",
+        "f061-L-molluscum-zh-head",
+        "f061-L-molluscum-ref",
+        "f061-L-molluscum-en-head",
+        "f061-L-molluscum-comparison",
+        "f061-L-molluscum-zh1",
+        "f061-L-molluscum-en1",
+        "f061-L-molluscum-zh2",
+        "f061-L-molluscum-en2",
+        "f061-L-molluscum-zh3",
+        "f061-L-molluscum-en3",
+        "f061-L-molluscum-kinds",
+        "f061-L-lupus-zh-head",
+        "f061-L-lupus-ref",
+        "f061-L-lupus-en-head",
+        "f061-L-lupus-zh1",
+        "f061-L-lupus-en1",
+        "f061-L-lupus-zh2",
+        "f061-L-lupus-en2",
+        "f061-L-lupus-zh3",
+        "f061-L-lupus-en3",
+        "f061-L-lupus-kinds",
+        "f061-L-purpura-zh-head",
+        "f061-L-purpura-ref",
+        "f061-L-purpura-en-head",
+        "f061-L-purpura-zh1",
+        "f061-L-purpura-en1",
+        "f061-L-purpura-zh2",
+        "f061-L-purpura-en2",
+        "f061-L-purpura-zh3",
+        "f061-L-purpura-en3",
+        "f061-L-purpura-kinds",
+        "f061-L-hairy-category",
+        "f061-L-tinea-transliteration",
+        "f061-L-tinea-zh-head",
+        "f061-L-tinea-ref",
+        "f061-L-tinea-en-head",
+        "f061-L-tinea-zh1",
+        "f061-L-tinea-en1",
+        "f061-L-tinea-kinds",
+        "f061-L-running-title",
+        "f061-L-page"
+      ],
+      "source_note": "中文表詞按可見橫排左至右、各行從上至下；與同一row_id英文同行配對；旁註及章節號獨立，不把整頁直排化。天呢丫化/癬的括號圖形只描述位置，未當作普通字序；此類在下頁續。"
+    },
+    {
+      "page_id": "f062-R",
+      "unit_order": [
+        "f062-R-tinea-cont-1-zh",
+        "f062-R-tinea-cont-1-en",
+        "f062-R-tinea-cont-2-zh",
+        "f062-R-tinea-cont-2-en",
+        "f062-R-tinea-tonsorans-0-zh",
+        "f062-R-tinea-tonsorans-0-en",
+        "f062-R-tinea-tonsorans-ref",
+        "f062-R-tinea-sycosis-0-zh",
+        "f062-R-tinea-sycosis-0-en",
+        "f062-R-tinea-sycosis-note",
+        "f062-R-tinea-circinata-0-zh",
+        "f062-R-tinea-circinata-0-en",
+        "f062-R-alopecia-0-zh",
+        "f062-R-alopecia-0-en",
+        "f062-R-alopecia-ref",
+        "f062-R-alopecia-1-zh",
+        "f062-R-alopecia-1-en",
+        "f062-R-elephantiasis-0-zh",
+        "f062-R-elephantiasis-0-en",
+        "f062-R-elephantiasis-ref",
+        "f062-R-keloid-0-zh",
+        "f062-R-keloid-0-en",
+        "f062-R-keloid-ref",
+        "f062-R-epithelioma-0-zh",
+        "f062-R-epithelioma-0-en",
+        "f062-R-epithelioma-ref",
+        "f062-R-edge-print",
+        "f062-R-page"
+      ],
+      "source_note": "表內漢字按實見橫列左至右；同行中英以row_id掛接，行自上至下。類目/小註/章節引用另層。„為原印低位雙逗狀重複記號的所選Unicode表示，不展開前名；不聲稱原圖有Unicode。"
+    },
+    {
+      "page_id": "f062-L",
+      "unit_order": [
+        "f062-L-syphilis-1-zh",
+        "f062-L-syphilis-1-en",
+        "f062-L-syphilis-2-zh",
+        "f062-L-syphilis-2-en",
+        "f062-L-syphilis-3-zh",
+        "f062-L-syphilis-3-en",
+        "f062-L-syphilis-4-zh",
+        "f062-L-syphilis-4-en",
+        "f062-L-syphilis-5-zh",
+        "f062-L-syphilis-5-en",
+        "f062-L-syphilis-6-zh",
+        "f062-L-syphilis-6-en",
+        "f062-L-syphilis-7-zh",
+        "f062-L-syphilis-7-en",
+        "f062-L-syphilis-8-zh",
+        "f062-L-syphilis-8-en",
+        "f062-L-syphilis-9-zh",
+        "f062-L-syphilis-9-en",
+        "f062-L-syphilis-10-zh",
+        "f062-L-syphilis-10-en",
+        "f062-L-syphilis-11-zh",
+        "f062-L-syphilis-11-en",
+        "f062-L-syphilis-12-zh",
+        "f062-L-syphilis-12-en",
+        "f062-L-syphilis-13-zh",
+        "f062-L-syphilis-13-en",
+        "f062-L-syphilis-14-zh",
+        "f062-L-syphilis-14-en",
+        "f062-L-syphilis-15-zh",
+        "f062-L-syphilis-15-en",
+        "f062-L-syphilis-16-zh",
+        "f062-L-syphilis-16-en",
+        "f062-L-syphilis-side",
+        "f062-L-leprosy-0-zh",
+        "f062-L-leprosy-0-en",
+        "f062-L-leprosy-ref",
+        "f062-L-leprosy-1-zh",
+        "f062-L-leprosy-1-en",
+        "f062-L-leprosy-2-zh",
+        "f062-L-leprosy-2-en",
+        "f062-L-verrucae-0-zh",
+        "f062-L-verrucae-0-en",
+        "f062-L-clavus-0-zh",
+        "f062-L-clavus-0-en",
+        "f062-L-tylosis-0-zh",
+        "f062-L-tylosis-0-en",
+        "f062-L-running-title",
+        "f062-L-page"
+      ],
+      "source_note": "表內漢字按實見橫列左至右；同行中英以row_id掛接，行自上至下。類目/小註/章節引用另層。„為原印低位雙逗狀重複記號的所選Unicode表示，不展開前名；不聲稱原圖有Unicode。"
+    },
+    {
+      "page_id": "f063-R",
+      "unit_order": [
+        "f063-R-naevi-0-zh",
+        "f063-R-naevi-0-en",
+        "f063-R-varicose-0-zh",
+        "f063-R-varicose-0-en",
+        "f063-R-leucopathia-0-zh",
+        "f063-R-leucopathia-0-en",
+        "f063-R-melanopathia-0-zh",
+        "f063-R-melanopathia-0-en",
+        "f063-R-ephelis-0-zh",
+        "f063-R-ephelis-0-en",
+        "f063-R-moles-0-zh",
+        "f063-R-moles-0-en",
+        "f063-R-idrosis-0-zh",
+        "f063-R-idrosis-0-en",
+        "f063-R-anidrosis-0-zh",
+        "f063-R-anidrosis-0-en",
+        "f063-R-stearrhoea-0-zh",
+        "f063-R-stearrhoea-0-en",
+        "f063-R-xeroderma-0-zh",
+        "f063-R-xeroderma-0-en",
+        "f063-R-comedones-0-zh",
+        "f063-R-comedones-0-en",
+        "f063-R-edge-print",
+        "f063-R-page"
+      ],
+      "source_note": "表內漢字按實見橫列左至右；同行中英以row_id掛接，行自上至下。類目/小註/章節引用另層。„為原印低位雙逗狀重複記號的所選Unicode表示，不展開前名；不聲稱原圖有Unicode。"
+    }
+  ],
+  "notes": [
+    {
+      "page_id": "f008-L",
+      "note_unit_id": "f008-L-toc1-wrap",
+      "text": "端",
+      "attachment_to": null,
+      "continuation_of": "f008-L-toc1-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc1",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f008-L",
+      "note_unit_id": "f008-L-toc2-wrap",
+      "text": "症",
+      "attachment_to": null,
+      "continuation_of": "f008-L-toc2-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc2",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f008-L",
+      "note_unit_id": "f008-L-toc3-wrap",
+      "text": "濕症",
+      "attachment_to": null,
+      "continuation_of": "f008-L-toc3-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc3",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f008-L",
+      "note_unit_id": "f008-L-toc4-wrap",
+      "text": "膿瘡",
+      "attachment_to": null,
+      "continuation_of": "f008-L-toc4-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc4",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f009-R",
+      "note_unit_id": "f009-R-toc5-wrap",
+      "text": "腫",
+      "attachment_to": null,
+      "continuation_of": "f009-R-toc5-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc5",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f009-R",
+      "note_unit_id": "f009-R-toc6-wrap",
+      "text": "色變",
+      "attachment_to": null,
+      "continuation_of": "f009-R-toc6-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc6",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f009-R",
+      "note_unit_id": "f009-R-toc7-wrap",
+      "text": "皮膚之症專向毛髮等處而生",
+      "attachment_to": null,
+      "continuation_of": "f009-R-toc7-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc7",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f009-R",
+      "note_unit_id": "f009-R-toc8-wrap",
+      "text": "皮膚之症係因疔毒而致及大小雜症",
+      "attachment_to": null,
+      "continuation_of": "f009-R-toc8-main",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": "toc8",
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f010-L",
+      "note_unit_id": "f010-L-c03-note",
+      "text": "即俗名紅酒皶",
+      "attachment_to": "f010-L-c03",
+      "continuation_of": null,
+      "insertion_after": "阨呢",
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f011-R",
+      "note_unit_id": "f011-R-fig1",
+      "text": "圖見第一",
+      "attachment_to": "f011-R-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f011-R",
+      "note_unit_id": "f011-R-fig2",
+      "text": "圖見第二",
+      "attachment_to": "f011-R-c04",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f011-R",
+      "note_unit_id": "f011-R-name",
+      "text": "即俗名三角蝨",
+      "attachment_to": "f011-R-c08",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f011-R",
+      "note_unit_id": "f011-R-fig3",
+      "text": "圖見第三",
+      "attachment_to": "f011-R-c08",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f011-L",
+      "note_unit_id": "f011-L-c04-fig4",
+      "text": "圖見第四",
+      "attachment_to": "f011-L-c04",
+      "continuation_of": null,
+      "insertion_after": "八足也",
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f011-L",
+      "note_unit_id": "f011-L-c10-note",
+      "text": "此杯宜上濶下尖的蓋取其易于墜下也",
+      "attachment_to": "f011-L-c10",
+      "continuation_of": null,
+      "insertion_after": "磁杯",
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f013-R",
+      "note_unit_id": "f013-R-c03-note",
+      "text": "即西名擾近是也",
+      "attachment_to": "f013-R-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f013-R",
+      "note_unit_id": "f013-R-c04-note",
+      "text": "即西名輔萊古是也",
+      "attachment_to": "f013-R-c04",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f013-R",
+      "note_unit_id": "f013-R-c03-ending",
+      "text": "一",
+      "attachment_to": "f013-R-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f013-L",
+      "note_unit_id": "f013-L-c08-note",
+      "text": "即西醫所謂擾近圓癬了",
+      "attachment_to": "f013-L-c08",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f016-L",
+      "note_unit_id": "f016-L-c10-note",
+      "text": "但此藥不宜過濃",
+      "attachment_to": "f016-L-c10",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f017-R",
+      "note_unit_id": "f017-R-c02-note",
+      "text": "此方較為",
+      "attachment_to": "f017-R-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f017-R",
+      "note_unit_id": "f017-R-c04-note",
+      "text": "即馬",
+      "attachment_to": "f017-R-c04",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f017-L",
+      "note_unit_id": "f017-L-c02-note",
+      "text": "即西名蘇擾亞斯",
+      "attachment_to": "f017-L-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f017-L",
+      "note_unit_id": "f017-L-c03-note1",
+      "text": "即西名圓若",
+      "attachment_to": "f017-L-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f017-L",
+      "note_unit_id": "f017-L-c03-note2",
+      "text": "即西名祟底里了士",
+      "attachment_to": "f017-L-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f018-R",
+      "note_unit_id": "f018-R-c03-note",
+      "text": "即俗名鵝掌瘋",
+      "attachment_to": "f018-R-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f020-L",
+      "note_unit_id": "f020-L-c08-figure5",
+      "text": "圖見第五",
+      "attachment_to": "f020-L-c08",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f022-R",
+      "note_unit_id": "f022-R-c02-note",
+      "text": "即西醫名為管施澳喇",
+      "attachment_to": "f022-R-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f023-R",
+      "note_unit_id": "f023-R-c03-note",
+      "text": "即西醫名為依楊地蔴",
+      "attachment_to": "f023-R-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f024-R",
+      "note_unit_id": "f024-R-c02-note",
+      "text": "即西醫名為於底其喇",
+      "attachment_to": "f024-R-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f027-L",
+      "note_unit_id": "f027-L-c03-note",
+      "text": "若釋西藥十安士秤",
+      "attachment_to": "f027-L-c03",
+      "continuation_of": null,
+      "insertion_after": "藥膏",
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f030-R",
+      "note_unit_id": "f030-R-c01-note",
+      "text": "即西醫名為蘇打美拿",
+      "attachment_to": "f030-R-c01",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f031-L",
+      "note_unit_id": "f031-L-c04-note",
+      "text": "要臘沙製成的",
+      "attachment_to": "f031-L-c04",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f031-L",
+      "note_unit_id": "f031-L-c06-note",
+      "text": "即西醫名為珀輝加士",
+      "attachment_to": "f031-L-c06",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f034-L",
+      "note_unit_id": "f034-L-c10-note",
+      "text": "即西醫名為阨呢",
+      "attachment_to": "f034-L-c10",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f036-R",
+      "note_unit_id": "f036-R-c06-note",
+      "text": "此丹製法詳下第九十二節",
+      "attachment_to": "f036-R-c06",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f036-R",
+      "note_unit_id": "f036-R-c07-note",
+      "text": "即西醫名為路卑了也",
+      "attachment_to": "f036-R-c07",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f037-R",
+      "note_unit_id": "f037-R-c05-note",
+      "text": "即西醫名為摩羅士金",
+      "attachment_to": "f037-R-c05",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f038-R",
+      "note_unit_id": "f038-R-long-note",
+      "text": "製法用硝強水五安士量清水一筒牛安士量和勻即加入水\n銀四安士秤如此則水銀自化誠以此時未可用火煎也俟化\n清之後然後用火煎滾既煎滾又須俟其水冷乃可貯入玻\n樽其玻樽亦宜用玻樽塞口方安惟用以搽症方可倒出也若",
+      "attachment_to": "f038-R-c01",
+      "continuation_of": null,
+      "insertion_after": "此",
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f038-R",
+      "note_unit_id": "f038-R-c04-note",
+      "text": "即西醫名為路拔士",
+      "attachment_to": "f038-R-c04",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f038-L",
+      "note_unit_id": "f038-L-c09-note",
+      "text": "但此法比拌用加槽匿酸一分量則當用甘油十二分量和勻",
+      "attachment_to": "f038-L-c09",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f040-R",
+      "note_unit_id": "f040-R-c07-note",
+      "text": "即西醫名為秘標喇",
+      "attachment_to": "f040-R-c07",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f041-L",
+      "note_unit_id": "f041-L-c02-wrap",
+      "text": "之症專向毛髮等處而生",
+      "attachment_to": "f041-L-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f041-L",
+      "note_unit_id": "f041-L-c10-note",
+      "text": "即俗名雞屎堆",
+      "attachment_to": "f041-L-c10",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f044-R",
+      "note_unit_id": "f044-R-c06-note",
+      "text": "即伊五",
+      "attachment_to": "f044-R-c06",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f045-R",
+      "note_unit_id": "f045-R-c01-note",
+      "text": "西醫名為阿路卑士亞",
+      "attachment_to": "f045-R-c01",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f045-L",
+      "note_unit_id": "f045-L-c10-scope",
+      "text": "自第一百二十節至第一百二十八節○論皮膚",
+      "attachment_to": "f045-L-c10",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f045-L",
+      "note_unit_id": "f045-L-c10-wrap",
+      "text": "之症係因疔毒而致及大小雜症",
+      "attachment_to": "f045-L-c10",
+      "continuation_of": "f045-L-c10-scope",
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f047-R",
+      "note_unit_id": "f047-R-c05-note",
+      "text": "若服此藥而牙口內若有微腫即宜暫停之",
+      "attachment_to": "f047-R-c05",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f047-L",
+      "note_unit_id": "f047-L-c02-note",
+      "text": "九十二",
+      "attachment_to": "f047-L-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f049-R",
+      "note_unit_id": "f049-R-c10-note",
+      "text": "即治平",
+      "attachment_to": "f049-R-c10",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f049-L",
+      "note_unit_id": "f049-L-c01-note",
+      "text": "所傷等處是",
+      "attachment_to": "f049-L-c01",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f054-R",
+      "note_unit_id": "f054-R-c03-water",
+      "text": "至濃的",
+      "attachment_to": "f054-R-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f054-R",
+      "note_unit_id": "f054-R-c05-note",
+      "text": "洗法將該蘇塗在絨布上而用布頻搽患處廢畢滌去該蘇再用藥",
+      "attachment_to": "f054-R-c05",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f054-R",
+      "note_unit_id": "f054-R-c08-note",
+      "text": "研幼",
+      "attachment_to": "f054-R-c08",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f056-R",
+      "note_unit_id": "f056-R-c01-note1",
+      "text": "研末但須加入火酒數滴方能研幼",
+      "attachment_to": "f056-R-c01",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f056-R",
+      "note_unit_id": "f056-R-c01-note2",
+      "text": "詳上第四方",
+      "attachment_to": "f056-R-c01",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f056-R",
+      "note_unit_id": "f056-R-c03-note1",
+      "text": "詳上第十四方",
+      "attachment_to": "f056-R-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f056-R",
+      "note_unit_id": "f056-R-c03-note2",
+      "text": "詳上第十五方各",
+      "attachment_to": "f056-R-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f056-L",
+      "note_unit_id": "f056-L-c03-note",
+      "text": "此水重有",
+      "attachment_to": "f056-L-c03",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f057-L",
+      "note_unit_id": "f057-L-c02-note",
+      "text": "宜用火烘至乾枯以炭暑去熱至三百分為度",
+      "attachment_to": "f057-L-c02",
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-lichen-ref",
+      "text": "詳十四節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "lichen",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-lichen-kinds",
+      "text": "汗癬有四種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "lichen",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-prurigo-refs",
+      "text": "詳廿一節\n詳廿二節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "prurigo",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-prurigo-kinds",
+      "text": "癢癬有三種就患處取名",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "prurigo",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-squamous-ref",
+      "text": "詳廿六節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": null,
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": true
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-psoriasis-ref",
+      "text": "詳廿七節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "psoriasis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-psoriasis-ref2",
+      "text": "詳廿九節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "psoriasis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-psoriasis-side1",
+      "text": "此症有幾種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "psoriasis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f059-L",
+      "note_unit_id": "f059-L-psoriasis-side2",
+      "text": "就患處取名",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "psoriasis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-R",
+      "note_unit_id": "f060-R-ichthyosis-ref",
+      "text": "詳卅二節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "ichthyosis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-R",
+      "note_unit_id": "f060-R-ichthyosis-kinds",
+      "text": "此症有三種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "ichthyosis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-R",
+      "note_unit_id": "f060-R-pityriasis-ref",
+      "text": "詳卅六節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "pityriasis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-R",
+      "note_unit_id": "f060-R-pityriasis-kinds",
+      "text": "此症有幾種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "pityriasis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-R",
+      "note_unit_id": "f060-R-roseola-note",
+      "text": "即西名管施澳喇",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "roseola",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-R",
+      "note_unit_id": "f060-R-erythema-ref",
+      "text": "詳四十六節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "erythema",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-R",
+      "note_unit_id": "f060-R-urticaria-ref",
+      "text": "詳五十節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "urticaria",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-L",
+      "note_unit_id": "f060-L-eczema-ref",
+      "text": "詳五十五節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "eczema",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-L",
+      "note_unit_id": "f060-L-eczema-side",
+      "text": "此症有三種就患處取名",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "eczema",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-L",
+      "note_unit_id": "f060-L-herpes-ref",
+      "text": "詳六十節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "herpes",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-L",
+      "note_unit_id": "f060-L-herpes-kinds",
+      "text": "此症有四種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "herpes",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-L",
+      "note_unit_id": "f060-L-herpes-ref2",
+      "text": "詳一百十五節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "herpes",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-L",
+      "note_unit_id": "f060-L-miliaria-ref",
+      "text": "詳六十五節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "miliaria",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f060-L",
+      "note_unit_id": "f060-L-scabies-ref",
+      "text": "詳六十七節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "scabies",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-pemphigus-ref",
+      "text": "詳七十一節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "pemphigus",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-pemphigus-side",
+      "text": "此症有三種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "pemphigus",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-impetigo-ref",
+      "text": "詳七十五節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "impetigo",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-impetigo-side",
+      "text": "此症有四種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "impetigo",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-ecthyma-ref",
+      "text": "詳七十八節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "ecthyma",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-ecthyma-side",
+      "text": "此症有三種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "ecthyma",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-acne-name",
+      "text": "西名阨呢",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "acne",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-acne-ref",
+      "text": "詳八十二節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "acne",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-R",
+      "note_unit_id": "f061-R-acne-side",
+      "text": "此症有四種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "acne",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-rupia-ref",
+      "text": "詳八十六節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "rupia",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-rupia-kinds",
+      "text": "此症有二種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "rupia",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-molluscum-ref",
+      "text": "詳九十節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "molluscum",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-molluscum-comparison",
+      "text": "若苦瓜",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "molluscum",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-molluscum-kinds",
+      "text": "此症有三種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "molluscum",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-lupus-ref",
+      "text": "詳九十三節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "lupus",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-lupus-kinds",
+      "text": "此症有三種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "lupus",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-purpura-ref",
+      "text": "詳一百節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "purpura",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-purpura-kinds",
+      "text": "此症有三種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "purpura",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-tinea-ref",
+      "text": "詳一百零八節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "tinea",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f061-L",
+      "note_unit_id": "f061-L-tinea-kinds",
+      "text": "此症有三種",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "tinea",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-R",
+      "note_unit_id": "f062-R-tinea-tonsorans-ref",
+      "text": "詳一百十三節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "tinea-tonsorans",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-R",
+      "note_unit_id": "f062-R-tinea-sycosis-note",
+      "text": "生鬚裏的",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "tinea-sycosis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-R",
+      "note_unit_id": "f062-R-alopecia-ref",
+      "text": "詳一百十七節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "alopecia",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-R",
+      "note_unit_id": "f062-R-elephantiasis-ref",
+      "text": "詳一百廿二節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "elephantiasis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-R",
+      "note_unit_id": "f062-R-keloid-ref",
+      "text": "詳一百廿四節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "keloid",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-R",
+      "note_unit_id": "f062-R-epithelioma-ref",
+      "text": "詳一百廿六節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "epithelioma",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-L",
+      "note_unit_id": "f062-L-syphilis-side",
+      "text": "各症若因疔毒而致者宜玩一百二十及廿一節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "syphilis",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    },
+    {
+      "page_id": "f062-L",
+      "note_unit_id": "f062-L-leprosy-ref",
+      "text": "詳一百廿八節",
+      "attachment_to": null,
+      "continuation_of": null,
+      "insertion_after": null,
+      "block_id": "leprosy",
+      "row_id": null,
+      "unlocalized_attachment_is_not_guessed": false
+    }
+  ],
+  "table_row_pairing": [
+    {
+      "page_id": "f059-L",
+      "row_id": "lichen-0",
+      "unit_ids": [
+        "f059-L-lichen-0-zh",
+        "f059-L-lichen-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-lichen-0-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-lichen-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "lichen-1",
+      "unit_ids": [
+        "f059-L-lichen-1-zh",
+        "f059-L-lichen-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-lichen-1-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-lichen-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "lichen-2",
+      "unit_ids": [
+        "f059-L-lichen-2-zh",
+        "f059-L-lichen-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-lichen-2-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-lichen-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "lichen-3",
+      "unit_ids": [
+        "f059-L-lichen-3-zh",
+        "f059-L-lichen-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-lichen-3-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-lichen-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "lichen-4",
+      "unit_ids": [
+        "f059-L-lichen-4-zh",
+        "f059-L-lichen-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-lichen-4-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-lichen-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "prurigo-0",
+      "unit_ids": [
+        "f059-L-prurigo-0-zh",
+        "f059-L-prurigo-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-prurigo-0-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-prurigo-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "prurigo-1",
+      "unit_ids": [
+        "f059-L-prurigo-1-zh",
+        "f059-L-prurigo-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-prurigo-1-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-prurigo-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "prurigo-2",
+      "unit_ids": [
+        "f059-L-prurigo-2-zh",
+        "f059-L-prurigo-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-prurigo-2-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-prurigo-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "prurigo-3",
+      "unit_ids": [
+        "f059-L-prurigo-3-zh",
+        "f059-L-prurigo-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-prurigo-3-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-prurigo-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "prurigo-4",
+      "unit_ids": [
+        "f059-L-prurigo-4-zh",
+        "f059-L-prurigo-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-prurigo-4-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-prurigo-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "prurigo-5",
+      "unit_ids": [
+        "f059-L-prurigo-5-zh",
+        "f059-L-prurigo-5-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-prurigo-5-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-prurigo-5-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "prurigo-6",
+      "unit_ids": [
+        "f059-L-prurigo-6-zh",
+        "f059-L-prurigo-6-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-prurigo-6-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-prurigo-6-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-0",
+      "unit_ids": [
+        "f059-L-psoriasis-0-zh",
+        "f059-L-psoriasis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-1",
+      "unit_ids": [
+        "f059-L-psoriasis-1-zh",
+        "f059-L-psoriasis-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-1-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-2",
+      "unit_ids": [
+        "f059-L-psoriasis-2-zh",
+        "f059-L-psoriasis-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-2-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-3",
+      "unit_ids": [
+        "f059-L-psoriasis-3-zh",
+        "f059-L-psoriasis-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-3-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-4",
+      "unit_ids": [
+        "f059-L-psoriasis-4-zh",
+        "f059-L-psoriasis-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-4-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-5",
+      "unit_ids": [
+        "f059-L-psoriasis-5-zh",
+        "f059-L-psoriasis-5-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-5-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-5-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-6",
+      "unit_ids": [
+        "f059-L-psoriasis-6-zh",
+        "f059-L-psoriasis-6-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-6-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-6-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f059-L",
+      "row_id": "psoriasis-7",
+      "unit_ids": [
+        "f059-L-psoriasis-7-zh",
+        "f059-L-psoriasis-7-en"
+      ],
+      "chinese_unit_ids": [
+        "f059-L-psoriasis-7-zh"
+      ],
+      "english_unit_ids": [
+        "f059-L-psoriasis-7-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "ichthyosis-0",
+      "unit_ids": [
+        "f060-R-ichthyosis-0-zh",
+        "f060-R-ichthyosis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-ichthyosis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-ichthyosis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "ichthyosis-1",
+      "unit_ids": [
+        "f060-R-ichthyosis-1-zh",
+        "f060-R-ichthyosis-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-ichthyosis-1-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-ichthyosis-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "ichthyosis-2",
+      "unit_ids": [
+        "f060-R-ichthyosis-2-zh",
+        "f060-R-ichthyosis-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-ichthyosis-2-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-ichthyosis-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "ichthyosis-3",
+      "unit_ids": [
+        "f060-R-ichthyosis-3-zh",
+        "f060-R-ichthyosis-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-ichthyosis-3-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-ichthyosis-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "pityriasis-0",
+      "unit_ids": [
+        "f060-R-pityriasis-0-zh",
+        "f060-R-pityriasis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-pityriasis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-pityriasis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "pityriasis-1",
+      "unit_ids": [
+        "f060-R-pityriasis-1-zh",
+        "f060-R-pityriasis-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-pityriasis-1-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-pityriasis-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "pityriasis-2",
+      "unit_ids": [
+        "f060-R-pityriasis-2-zh",
+        "f060-R-pityriasis-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-pityriasis-2-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-pityriasis-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "pityriasis-3",
+      "unit_ids": [
+        "f060-R-pityriasis-3-zh",
+        "f060-R-pityriasis-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-pityriasis-3-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-pityriasis-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "pityriasis-4",
+      "unit_ids": [
+        "f060-R-pityriasis-4-en"
+      ],
+      "chinese_unit_ids": [],
+      "english_unit_ids": [
+        "f060-R-pityriasis-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "pityriasis-5",
+      "unit_ids": [
+        "f060-R-pityriasis-5-zh",
+        "f060-R-pityriasis-5-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-pityriasis-5-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-pityriasis-5-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "pityriasis-6",
+      "unit_ids": [
+        "f060-R-pityriasis-6-zh",
+        "f060-R-pityriasis-6-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-pityriasis-6-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-pityriasis-6-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "roseola-0",
+      "unit_ids": [
+        "f060-R-roseola-0-zh",
+        "f060-R-roseola-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-roseola-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-roseola-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "erythema-0",
+      "unit_ids": [
+        "f060-R-erythema-0-zh",
+        "f060-R-erythema-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-erythema-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-erythema-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "urticaria-0",
+      "unit_ids": [
+        "f060-R-urticaria-0-zh",
+        "f060-R-urticaria-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-urticaria-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-urticaria-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-R",
+      "row_id": "urticaria-1",
+      "unit_ids": [
+        "f060-R-urticaria-1-zh",
+        "f060-R-urticaria-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-R-urticaria-1-zh"
+      ],
+      "english_unit_ids": [
+        "f060-R-urticaria-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-0",
+      "unit_ids": [
+        "f060-L-eczema-0-zh",
+        "f060-L-eczema-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-1",
+      "unit_ids": [
+        "f060-L-eczema-1-zh",
+        "f060-L-eczema-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-1-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-2",
+      "unit_ids": [
+        "f060-L-eczema-2-zh",
+        "f060-L-eczema-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-2-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-3",
+      "unit_ids": [
+        "f060-L-eczema-3-zh",
+        "f060-L-eczema-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-3-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-4",
+      "unit_ids": [
+        "f060-L-eczema-4-zh",
+        "f060-L-eczema-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-4-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-5",
+      "unit_ids": [
+        "f060-L-eczema-5-zh",
+        "f060-L-eczema-5-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-5-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-5-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-6",
+      "unit_ids": [
+        "f060-L-eczema-6-zh",
+        "f060-L-eczema-6-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-6-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-6-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-7",
+      "unit_ids": [
+        "f060-L-eczema-7-zh",
+        "f060-L-eczema-7-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-7-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-7-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-8",
+      "unit_ids": [
+        "f060-L-eczema-8-zh",
+        "f060-L-eczema-8-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-8-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-8-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "eczema-9",
+      "unit_ids": [
+        "f060-L-eczema-9-zh",
+        "f060-L-eczema-9-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-eczema-9-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-eczema-9-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "herpes-0",
+      "unit_ids": [
+        "f060-L-herpes-0-zh",
+        "f060-L-herpes-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-herpes-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-herpes-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "herpes-1",
+      "unit_ids": [
+        "f060-L-herpes-1-zh",
+        "f060-L-herpes-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-herpes-1-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-herpes-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "herpes-2",
+      "unit_ids": [
+        "f060-L-herpes-2-zh",
+        "f060-L-herpes-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-herpes-2-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-herpes-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "herpes-3",
+      "unit_ids": [
+        "f060-L-herpes-3-zh",
+        "f060-L-herpes-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-herpes-3-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-herpes-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "herpes-4",
+      "unit_ids": [
+        "f060-L-herpes-4-zh",
+        "f060-L-herpes-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-herpes-4-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-herpes-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "miliaria-0",
+      "unit_ids": [
+        "f060-L-miliaria-0-zh",
+        "f060-L-miliaria-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-miliaria-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-miliaria-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f060-L",
+      "row_id": "scabies-0",
+      "unit_ids": [
+        "f060-L-scabies-0-zh",
+        "f060-L-scabies-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f060-L-scabies-0-zh"
+      ],
+      "english_unit_ids": [
+        "f060-L-scabies-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "pemphigus-0",
+      "unit_ids": [
+        "f061-R-pemphigus-0-zh",
+        "f061-R-pemphigus-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-pemphigus-0-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-pemphigus-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "pemphigus-1",
+      "unit_ids": [
+        "f061-R-pemphigus-1-zh",
+        "f061-R-pemphigus-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-pemphigus-1-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-pemphigus-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "pemphigus-2",
+      "unit_ids": [
+        "f061-R-pemphigus-2-zh",
+        "f061-R-pemphigus-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-pemphigus-2-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-pemphigus-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "pemphigus-3",
+      "unit_ids": [
+        "f061-R-pemphigus-3-zh",
+        "f061-R-pemphigus-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-pemphigus-3-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-pemphigus-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "impetigo-0",
+      "unit_ids": [
+        "f061-R-impetigo-0-zh",
+        "f061-R-impetigo-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-impetigo-0-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-impetigo-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "impetigo-1",
+      "unit_ids": [
+        "f061-R-impetigo-1-zh",
+        "f061-R-impetigo-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-impetigo-1-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-impetigo-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "impetigo-2",
+      "unit_ids": [
+        "f061-R-impetigo-2-zh",
+        "f061-R-impetigo-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-impetigo-2-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-impetigo-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "impetigo-3",
+      "unit_ids": [
+        "f061-R-impetigo-3-zh",
+        "f061-R-impetigo-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-impetigo-3-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-impetigo-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "impetigo-4",
+      "unit_ids": [
+        "f061-R-impetigo-4-zh",
+        "f061-R-impetigo-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-impetigo-4-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-impetigo-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "ecthyma-0",
+      "unit_ids": [
+        "f061-R-ecthyma-0-zh",
+        "f061-R-ecthyma-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-ecthyma-0-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-ecthyma-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "ecthyma-1",
+      "unit_ids": [
+        "f061-R-ecthyma-1-zh",
+        "f061-R-ecthyma-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-ecthyma-1-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-ecthyma-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "ecthyma-2",
+      "unit_ids": [
+        "f061-R-ecthyma-2-zh",
+        "f061-R-ecthyma-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-ecthyma-2-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-ecthyma-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "ecthyma-3",
+      "unit_ids": [
+        "f061-R-ecthyma-3-zh",
+        "f061-R-ecthyma-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-ecthyma-3-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-ecthyma-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "furunculus-0",
+      "unit_ids": [
+        "f061-R-furunculus-0-zh",
+        "f061-R-furunculus-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-furunculus-0-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-furunculus-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "furunculus-1",
+      "unit_ids": [
+        "f061-R-furunculus-1-zh",
+        "f061-R-furunculus-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-furunculus-1-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-furunculus-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "acne-0",
+      "unit_ids": [
+        "f061-R-acne-0-zh",
+        "f061-R-acne-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-acne-0-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-acne-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "acne-1",
+      "unit_ids": [
+        "f061-R-acne-1-zh",
+        "f061-R-acne-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-acne-1-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-acne-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "acne-2",
+      "unit_ids": [
+        "f061-R-acne-2-zh",
+        "f061-R-acne-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-acne-2-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-acne-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "acne-3",
+      "unit_ids": [
+        "f061-R-acne-3-zh",
+        "f061-R-acne-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-acne-3-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-acne-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-R",
+      "row_id": "acne-4",
+      "unit_ids": [
+        "f061-R-acne-4-zh",
+        "f061-R-acne-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f061-R-acne-4-zh"
+      ],
+      "english_unit_ids": [
+        "f061-R-acne-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "rupia-1",
+      "unit_ids": [
+        "f061-L-rupia-zh1",
+        "f061-L-rupia-en1"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-rupia-zh1"
+      ],
+      "english_unit_ids": [
+        "f061-L-rupia-en1"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "rupia-2",
+      "unit_ids": [
+        "f061-L-rupia-zh2",
+        "f061-L-rupia-en2"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-rupia-zh2"
+      ],
+      "english_unit_ids": [
+        "f061-L-rupia-en2"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "molluscum-1",
+      "unit_ids": [
+        "f061-L-molluscum-zh1",
+        "f061-L-molluscum-en1"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-molluscum-zh1"
+      ],
+      "english_unit_ids": [
+        "f061-L-molluscum-en1"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "molluscum-2",
+      "unit_ids": [
+        "f061-L-molluscum-zh2",
+        "f061-L-molluscum-en2"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-molluscum-zh2"
+      ],
+      "english_unit_ids": [
+        "f061-L-molluscum-en2"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "molluscum-3",
+      "unit_ids": [
+        "f061-L-molluscum-zh3",
+        "f061-L-molluscum-en3"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-molluscum-zh3"
+      ],
+      "english_unit_ids": [
+        "f061-L-molluscum-en3"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "lupus-1",
+      "unit_ids": [
+        "f061-L-lupus-zh1",
+        "f061-L-lupus-en1"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-lupus-zh1"
+      ],
+      "english_unit_ids": [
+        "f061-L-lupus-en1"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "lupus-2",
+      "unit_ids": [
+        "f061-L-lupus-zh2",
+        "f061-L-lupus-en2"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-lupus-zh2"
+      ],
+      "english_unit_ids": [
+        "f061-L-lupus-en2"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "lupus-3",
+      "unit_ids": [
+        "f061-L-lupus-zh3",
+        "f061-L-lupus-en3"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-lupus-zh3"
+      ],
+      "english_unit_ids": [
+        "f061-L-lupus-en3"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "purpura-1",
+      "unit_ids": [
+        "f061-L-purpura-zh1",
+        "f061-L-purpura-en1"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-purpura-zh1"
+      ],
+      "english_unit_ids": [
+        "f061-L-purpura-en1"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "purpura-2",
+      "unit_ids": [
+        "f061-L-purpura-zh2",
+        "f061-L-purpura-en2"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-purpura-zh2"
+      ],
+      "english_unit_ids": [
+        "f061-L-purpura-en2"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "purpura-3",
+      "unit_ids": [
+        "f061-L-purpura-zh3",
+        "f061-L-purpura-en3"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-purpura-zh3"
+      ],
+      "english_unit_ids": [
+        "f061-L-purpura-en3"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f061-L",
+      "row_id": "tinea-1",
+      "unit_ids": [
+        "f061-L-tinea-zh1",
+        "f061-L-tinea-en1"
+      ],
+      "chinese_unit_ids": [
+        "f061-L-tinea-zh1"
+      ],
+      "english_unit_ids": [
+        "f061-L-tinea-en1"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "tinea-cont-1",
+      "unit_ids": [
+        "f062-R-tinea-cont-1-zh",
+        "f062-R-tinea-cont-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-tinea-cont-1-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-tinea-cont-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "tinea-cont-2",
+      "unit_ids": [
+        "f062-R-tinea-cont-2-zh",
+        "f062-R-tinea-cont-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-tinea-cont-2-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-tinea-cont-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "tinea-tonsorans-0",
+      "unit_ids": [
+        "f062-R-tinea-tonsorans-0-zh",
+        "f062-R-tinea-tonsorans-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-tinea-tonsorans-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-tinea-tonsorans-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "tinea-sycosis-0",
+      "unit_ids": [
+        "f062-R-tinea-sycosis-0-zh",
+        "f062-R-tinea-sycosis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-tinea-sycosis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-tinea-sycosis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "tinea-circinata-0",
+      "unit_ids": [
+        "f062-R-tinea-circinata-0-zh",
+        "f062-R-tinea-circinata-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-tinea-circinata-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-tinea-circinata-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "alopecia-0",
+      "unit_ids": [
+        "f062-R-alopecia-0-zh",
+        "f062-R-alopecia-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-alopecia-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-alopecia-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "alopecia-1",
+      "unit_ids": [
+        "f062-R-alopecia-1-zh",
+        "f062-R-alopecia-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-alopecia-1-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-alopecia-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "elephantiasis-0",
+      "unit_ids": [
+        "f062-R-elephantiasis-0-zh",
+        "f062-R-elephantiasis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-elephantiasis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-elephantiasis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "keloid-0",
+      "unit_ids": [
+        "f062-R-keloid-0-zh",
+        "f062-R-keloid-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-keloid-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-keloid-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-R",
+      "row_id": "epithelioma-0",
+      "unit_ids": [
+        "f062-R-epithelioma-0-zh",
+        "f062-R-epithelioma-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-R-epithelioma-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-R-epithelioma-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-1",
+      "unit_ids": [
+        "f062-L-syphilis-1-zh",
+        "f062-L-syphilis-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-1-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-2",
+      "unit_ids": [
+        "f062-L-syphilis-2-zh",
+        "f062-L-syphilis-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-2-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-3",
+      "unit_ids": [
+        "f062-L-syphilis-3-zh",
+        "f062-L-syphilis-3-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-3-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-3-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-4",
+      "unit_ids": [
+        "f062-L-syphilis-4-zh",
+        "f062-L-syphilis-4-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-4-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-4-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-5",
+      "unit_ids": [
+        "f062-L-syphilis-5-zh",
+        "f062-L-syphilis-5-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-5-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-5-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-6",
+      "unit_ids": [
+        "f062-L-syphilis-6-zh",
+        "f062-L-syphilis-6-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-6-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-6-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-7",
+      "unit_ids": [
+        "f062-L-syphilis-7-zh",
+        "f062-L-syphilis-7-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-7-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-7-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-8",
+      "unit_ids": [
+        "f062-L-syphilis-8-zh",
+        "f062-L-syphilis-8-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-8-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-8-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-9",
+      "unit_ids": [
+        "f062-L-syphilis-9-zh",
+        "f062-L-syphilis-9-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-9-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-9-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-10",
+      "unit_ids": [
+        "f062-L-syphilis-10-zh",
+        "f062-L-syphilis-10-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-10-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-10-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-11",
+      "unit_ids": [
+        "f062-L-syphilis-11-zh",
+        "f062-L-syphilis-11-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-11-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-11-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-12",
+      "unit_ids": [
+        "f062-L-syphilis-12-zh",
+        "f062-L-syphilis-12-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-12-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-12-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-13",
+      "unit_ids": [
+        "f062-L-syphilis-13-zh",
+        "f062-L-syphilis-13-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-13-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-13-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-14",
+      "unit_ids": [
+        "f062-L-syphilis-14-zh",
+        "f062-L-syphilis-14-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-14-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-14-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-15",
+      "unit_ids": [
+        "f062-L-syphilis-15-zh",
+        "f062-L-syphilis-15-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-15-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-15-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "syphilis-16",
+      "unit_ids": [
+        "f062-L-syphilis-16-zh",
+        "f062-L-syphilis-16-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-syphilis-16-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-syphilis-16-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "leprosy-0",
+      "unit_ids": [
+        "f062-L-leprosy-0-zh",
+        "f062-L-leprosy-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-leprosy-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-leprosy-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "leprosy-1",
+      "unit_ids": [
+        "f062-L-leprosy-1-zh",
+        "f062-L-leprosy-1-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-leprosy-1-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-leprosy-1-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "leprosy-2",
+      "unit_ids": [
+        "f062-L-leprosy-2-zh",
+        "f062-L-leprosy-2-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-leprosy-2-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-leprosy-2-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "verrucae-0",
+      "unit_ids": [
+        "f062-L-verrucae-0-zh",
+        "f062-L-verrucae-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-verrucae-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-verrucae-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "clavus-0",
+      "unit_ids": [
+        "f062-L-clavus-0-zh",
+        "f062-L-clavus-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-clavus-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-clavus-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f062-L",
+      "row_id": "tylosis-0",
+      "unit_ids": [
+        "f062-L-tylosis-0-zh",
+        "f062-L-tylosis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f062-L-tylosis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f062-L-tylosis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "naevi-0",
+      "unit_ids": [
+        "f063-R-naevi-0-zh",
+        "f063-R-naevi-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-naevi-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-naevi-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "varicose-0",
+      "unit_ids": [
+        "f063-R-varicose-0-zh",
+        "f063-R-varicose-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-varicose-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-varicose-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "leucopathia-0",
+      "unit_ids": [
+        "f063-R-leucopathia-0-zh",
+        "f063-R-leucopathia-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-leucopathia-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-leucopathia-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "melanopathia-0",
+      "unit_ids": [
+        "f063-R-melanopathia-0-zh",
+        "f063-R-melanopathia-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-melanopathia-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-melanopathia-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "ephelis-0",
+      "unit_ids": [
+        "f063-R-ephelis-0-zh",
+        "f063-R-ephelis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-ephelis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-ephelis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "moles-0",
+      "unit_ids": [
+        "f063-R-moles-0-zh",
+        "f063-R-moles-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-moles-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-moles-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "idrosis-0",
+      "unit_ids": [
+        "f063-R-idrosis-0-zh",
+        "f063-R-idrosis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-idrosis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-idrosis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "anidrosis-0",
+      "unit_ids": [
+        "f063-R-anidrosis-0-zh",
+        "f063-R-anidrosis-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-anidrosis-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-anidrosis-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "stearrhoea-0",
+      "unit_ids": [
+        "f063-R-stearrhoea-0-zh",
+        "f063-R-stearrhoea-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-stearrhoea-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-stearrhoea-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "xeroderma-0",
+      "unit_ids": [
+        "f063-R-xeroderma-0-zh",
+        "f063-R-xeroderma-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-xeroderma-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-xeroderma-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    },
+    {
+      "page_id": "f063-R",
+      "row_id": "comedones-0",
+      "unit_ids": [
+        "f063-R-comedones-0-zh",
+        "f063-R-comedones-0-en"
+      ],
+      "chinese_unit_ids": [
+        "f063-R-comedones-0-zh"
+      ],
+      "english_unit_ids": [
+        "f063-R-comedones-0-en"
+      ],
+      "missing_counterpart_not_filled": true
+    }
+  ],
+  "figures": [
+    {
+      "page_id": "f058-L",
+      "unit_id": "f058-L-fig01-label",
+      "text": "第一",
+      "bbox": [
+        925,
+        1065,
+        1085,
+        1140
+      ],
+      "image_distributed": false
+    },
+    {
+      "page_id": "f058-L",
+      "unit_id": "f058-L-fig02-label",
+      "text": "第二",
+      "bbox": [
+        300,
+        1325,
+        490,
+        1405
+      ],
+      "image_distributed": false
+    },
+    {
+      "page_id": "f058-L",
+      "unit_id": "f058-L-fig03-label",
+      "text": "第三",
+      "bbox": [
+        910,
+        1620,
+        1090,
+        1710
+      ],
+      "image_distributed": false
+    },
+    {
+      "page_id": "f058-L",
+      "unit_id": "f058-L-fig04-label",
+      "text": "第四",
+      "bbox": [
+        895,
+        2240,
+        1095,
+        2340
+      ],
+      "image_distributed": false
+    },
+    {
+      "page_id": "f058-L",
+      "unit_id": "f058-L-fig05-label",
+      "text": "第五",
+      "bbox": [
+        330,
+        2170,
+        510,
+        2270
+      ],
+      "image_distributed": false
+    }
+  ]
+}

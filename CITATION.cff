@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: Please cite this dataset when using its transcription or documentation. CC-BY-4.0 identifies original documentation; historical text and excluded source images have separate statuses in RIGHTS.md.
+type: dataset
+title: '皮膚新編（1874；Bodleian Sinica 1790）：轉錄與中英醫名對照 / Pi fu xin bian [Manual of skin diseases]: Transcription and bilingual terminology'
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+url: https://github.com/poplolioi11/bodleian-sinica1790-pifu-xinbian-1874
+license: CC-BY-4.0
+abstract: Pi fu xin bian [Manual of skin diseases] was orally translated by John Glasgow Kerr (嘉約翰) and written down by Lin Xiangdong (林湘東), and published by the Boji medical institution in Canton (Guangzhou) in 1874; this copy is Bodleian Sinica 1790. Its English introductory notice identifies the latter part of Fenwick’s Medical Diagnosis as its basis and explains the use of Canton names, transliteration of foreign names and collection of terminology from other regions. The work contains 128 sections in eight internal divisions, with classifications of skin conditions, appended formulas, figure numbers and a bilingual terminology table. This dataset supports histories of medicine, translation and medical missions through an AI-assisted initial transcription of 117 original-print faces in JSON, TXT and TEI, linked to the official facsimile with note, table and uncertainty records. Source images are excluded. Uncertain readings are marked; the text has not undergone full human collation
+  or expert approval.
+keywords:
+- 皮膚新編
+- Pi fu xin bian
+- Manual of skin diseases
+- 嘉約翰
+- John Glasgow Kerr
+- 林湘東
+- Samuel Fenwick
+- 博濟醫局
+- Canton
+- Guangzhou
+- 廣州
+- '1874'
+- 晚清醫學史
+- medical history
+- medical translation
+- medical missionary
+- bilingual terminology
+- Chinese medical terminology
+- Bodleian Libraries
+- Sinica 1790
+- TEI XML
+- IIIF

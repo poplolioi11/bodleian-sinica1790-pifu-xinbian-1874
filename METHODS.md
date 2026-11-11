@@ -1,15 +1,9 @@
-# 處理方法與覆核程度
+固定初錄與獨立稿各自封存後，先保留全量對照及暫定單位映射，再實際查看117個固定全半面；差異、共同高風險項、小字、圖號、表格、版心與留白均回到來源。另14個官方原生窄區在分用途檢核後逐區看圖；先前兩輪整半面取得失敗不計入來源取得。放大只用同像素近鄰，不增加細節。
 
-固定Sinica1790官方來源、實際取得影像的版本/hash及117個原印目標面，先看整幀版式，再從實際像素面裁片初錄題頁、英文導言、漢文正文/目錄/小註、附方、圖號與中英表。書內歷史醫名和原有符號保留，不由現代病名、方書或英文對譯回填中文字。部分困難區域以同一來源像素放大檢視；放大不會增加原始細節。
+裁定已見兩稿，屬AI非盲來源覆核。每頁保留原錄、獨立錄、結果與來源定位；追加更正另列，未改封存raw。原刻重複字、異體與原句讀逐處保留，不做全域替字。表格從合併單位改為原空格／前綴／名稱／重複號／英名／節引細格，兩邊私有對齊空槽只是契約用途，不是初版原文或原印空白。
 
-本版使用OpenAI/Codex訂閱中的AI讀圖與同一讀字者的局部回圖檢查。實際原生模型識別、effort與token計數未由執行環境提供，均為未知null，不填零。初錄輸出是保存的結構化交件，並非完整供應商原始回應。原五面試錄不重讀覆寫，另112面分批完成後保字串合併；文字更動與純位置資料修正分開保留。
+實際模型識別、effort、token及現金未知，均為null。保存的是結構化原生交件，不是完整供應商原始回應。私有三維註記檢查保留實際結果；未知模型識別造成的待補不填零，不宣稱完整三維追溯。TXT、TEI、CSV由固定JSON投影，不由模型重新改寫。近似單位框不是逐字框、baseline或glyph polygon。
 
-私有共用整合實際連結1,660個文字單位、來源面與保存輸出的JSON Pointer，472處特殊疑讀各有範圍事件和base/result舊欄位連結。追溯檢查退出碼3，唯一待補類型是實際模型識別未知；沒有稱退出碼0或完整三維追溯。這個限制如實揭露，不以工程結果提高品質。另行獨立讀稿未採入此版。
+來源影像、裁片、提示、專用程式、完整私人工作紀錄不在公開包內，因此未提供從影像完整公開重跑的方法。來源hash只證明位元版本，不證明讀字或權利。
 
-JSON是原文字串及單位順序主本，TXT/TEI/表格CSV由固定資料投影，不另由模型改寫正文。來源面裁框是實際像素幾何，文字bbox只是約略欄/區；沒有虛構baseline或逐字框。TEI僅為本版單位、來源和必要外字的交換投影，沒有自訂ODD、Schematron或完整校勘apparatus認證。
-
-沒有全本人類雙校、專家審定、同儕審查或準確率量測。掃描、裁片、專用程式、提示和完整私人工作紀錄不公開；未提供由影像完整重跑的方法。來源連結及hash提供身份與位元核對，不是讀字或權利認證。
-
-## English
-
-Fixed official sources were inspected as whole frames and actual pixel face crops. A native AI reader recorded initial unit strings, notes, labels and bilingual table cells, with limited revisits by the same reader. The actual model identifier, effort and token counters are unknown (null). Saved observations are structured deliveries rather than complete provider responses. The private source/output/span contract was executed; its sole pending category is unknown model identity (exit3), so complete traceability is not claimed. No separate independent transcription is applied. JSON, TXT, TEI and CSV preserve the fixed strings; source images, private crops, programs, prompts and complete private logs are not distributed, and no complete public image-to-text rerun method is supplied.
+The fixed initial and sealed independent readings were compared, then all 117 source faces and 14 native narrow regions were actually viewed in a nonblind role. Structured deliveries, source links and exact text spans are retained privately; exact native model and counters remain unknown. No complete public image-to-text rerun procedure or source images are distributed.

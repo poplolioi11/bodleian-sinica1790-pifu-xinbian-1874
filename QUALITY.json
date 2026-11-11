@@ -1,0 +1,23 @@
+{
+  "stage": "AI independent reading followed by AI nonblind source adjudication",
+  "fixed_faces": 117,
+  "units": 2215,
+  "unicode_codepoints": 31388,
+  "current_uncertainty_records": 253,
+  "stable_gaiji_occurrences": 86,
+  "source_fullface_view_coverage": 117,
+  "additional_native_narrow_regions_viewed": 14,
+  "unprocessed_declared_faces": 0,
+  "required_layers_pending": 0,
+  "verified_textual_anchor_records": 255,
+  "independent_reading": "sealed before comparison; included via source-image adjudication; not every result unit has two readings",
+  "adjudication": "nonblind; both initial and independent readings exposed",
+  "human_full_double_collation": "not-run",
+  "expert_review": "not-run",
+  "peer_review": "not-run",
+  "accuracy_measurement": "not-run",
+  "actual_native_model": null,
+  "actual_native_effort": null,
+  "native_token_counts": null,
+  "complete_traceability_claimed": false
+}

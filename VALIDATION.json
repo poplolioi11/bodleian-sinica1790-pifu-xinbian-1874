@@ -1,81 +1,289 @@
 {
-  "schema": "publication-format-checks/1",
-  "checked_at": "2026-11-11T12:48:58.132549+00:00",
-  "scope": "117 declared original-print faces, fixed initial strings only",
-  "json_txt_tei_exact_unit_strings_and_order": "passed",
-  "faces": 117,
-  "units": 1660,
-  "unicode_codepoints": 27319,
-  "uncertainty_records": 472,
-  "gaiji_records": 62,
-  "table_cell_strings": 274,
-  "source_face_and_parent_mapping": "117of117 matched;61distinct official derivative byte objects",
-  "original_five_initial_pages_unchanged": true,
-  "tei_relaxng": {
-    "status": "passed",
-    "edition": "P5 4.12.0",
-    "schema_sha256": "b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48",
-    "edition_url": "https://www.tei-c.org/Vault/P5/4.12.0/",
-    "validation_used_existing_official_schema_cache": true,
-    "schema_refetched_in_this_phase": false
-  },
-  "cff": {
-    "status": "passed",
-    "version": "1.2.0",
-    "schema_url": "https://citation-file-format.github.io/1.2.0/schema.json",
-    "schema_sha256": "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b",
-    "validation_used_existing_official_schema_cache": true
-  },
-  "notes_row_pairing_figure_labels_and_offsets": "passed",
-  "negative_checks_once_each": [
+  "schema": "text-package-validation/1",
+  "version": "0.2.0",
+  "status": "passed",
+  "checks": [
     {
-      "case": "changed-character",
-      "rejected": true
+      "check": "all2215fixed-result-unit-strings-order",
+      "passed": true,
+      "evidence": {
+        "faces": 117,
+        "units": 2215
+      }
     },
     {
-      "case": "missing-unit",
-      "rejected": true
+      "check": "TXT-exact-unit-projection",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "changed-order",
-      "rejected": true
+      "check": "official-TEIP5-4.12.0-RNG",
+      "passed": true,
+      "evidence": ""
     },
     {
-      "case": "changed-source",
-      "rejected": true
+      "check": "TEI-exact-all-unit-id-text-order",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "duplicate-id",
-      "rejected": true
+      "check": "official-CFF1.2.0-one-curator",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "changed-uncertainty-offset",
-      "rejected": true
+      "check": "metadata-title-version-abstract",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "external-entity",
-      "rejected": true
+      "check": "all-current-uncertainty-offsets",
+      "passed": true,
+      "evidence": 253
+    },
+    {
+      "check": "gaiji-occurrence-registry-exact",
+      "passed": true,
+      "evidence": 86
+    },
+    {
+      "check": "gaiji-candidates-source-bound",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all255-global-note-id-and-exact-insertion-points",
+      "passed": true,
+      "evidence": 255
+    },
+    {
+      "check": "reading-map-note-equivalence",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all-table-cell-csv-strings-columns-original-blanks",
+      "passed": true,
+      "evidence": 660
+    },
+    {
+      "check": "all-table-row-cell-id-text-links",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all117fixed-source-image-hashes",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all-actual-view-byte-hashes",
+      "passed": true,
+      "evidence": 165
+    },
+    {
+      "check": "full117source-view-coverage",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "initial-master-byte-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all-fixed-v010-public-files-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "fixed-v010-zip-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "sealed-independent-original-byte-unchanged",
+      "passed": true,
+      "evidence": "b7455e26171b281c0c12276d740d979baddaff330359ad892358c5dc5969e3b6"
+    },
+    {
+      "check": "sealed-manifest-and-all-listed-independent-files-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all472initial-case-dispositions-accounted",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "formal-annotations-only-unknown-model",
+      "passed": true,
+      "evidence": {
+        "unknown-model": 2561
+      }
+    },
+    {
+      "check": "fresh-v020-text-publication-gate-allowed",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "explicit27text-files-only",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-ABSTRACTS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-BUILD-FACTS.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-CHANGELOG.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-CHANGES.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-CHANGES.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-CITATION.cff",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-KEYWORDS.txt",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-LICENSE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-METADATA.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-METHODS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-NOTE-ANCHORS.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-PENDING-LAYERS.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-PROVENANCE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-QUALITY.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-QUALITY.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-READING-GUIDE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-READING-MAP.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-README.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-RIGHTS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-SOURCE-MAP.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-TABLE-CELLS.csv",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-TRANSCRIPTION-POLICY.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-book.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-book.tei.xml",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-book.txt",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-gaiji.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-uncertainties.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "no-invented-DOI-or-human-expert-accuracy",
+      "passed": true,
+      "evidence": null
     }
   ],
-  "public_allowlist": "passed",
-  "source_images_crops_programs_prompts_private_paths_full_logs": "not included in checked package",
-  "private_annotation_check": {
-    "status": "incomplete",
-    "exit_code": 3,
-    "unit_output_bindings": 1660,
-    "events": 472,
-    "base_result_legacy_links": 944,
-    "pending_types": {
-      "unknown-model": 1660
-    },
-    "complete_traceability_claimed": false
+  "faces": 117,
+  "units": 2215,
+  "uncertainties": 253,
+  "gaiji_occurrences": 86,
+  "textual_anchors": 255,
+  "source_accuracy_certified": false,
+  "human_or_expert_review": false,
+  "annotations_status": "incomplete solely actual model identifier unknown; exit3, no complete traceability claim",
+  "annotation_pending": {
+    "unknown-model": 2561
   },
-  "text_publication_purpose_gate": "allowed-as-recorded; source-specific SB-SINICA1790; not legal certification",
-  "independent_work": "not-applied-in-this-initial-release",
-  "human_full_double_collation": "not-run",
-  "expert_review": "not-run",
-  "peer_review": "not-run",
-  "accuracy_measurement": "not-run",
-  "scholarly_accuracy_certified": false,
-  "full_tei_apparatus_odd_schematron": "not-run"
+  "text_publication_gate": "allowed-as-recorded; not legal certification"
 }

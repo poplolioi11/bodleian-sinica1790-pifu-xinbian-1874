@@ -1,0 +1,3211 @@
+{
+  "position_convention": "0-based codepoint insertion points in identified target unit; original note text remains separate.",
+  "records": [
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc1-main",
+      "text": "自第一節起至第十一節止○論皮膚諸症之大",
+      "anchor": {
+        "unit_id": "f008-L-toc1-head",
+        "relation": "below, two vertical columns; 端 continues at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc1-wrap",
+      "text": "端",
+      "anchor": {
+        "unit_id": "f008-L-toc1-head",
+        "relation": "below, two vertical columns; 端 continues at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc2-main",
+      "text": "自第十二節起至第五十二節止○論皮膚之乾",
+      "anchor": {
+        "unit_id": "f008-L-toc2-head",
+        "relation": "below; 症 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc2-wrap",
+      "text": "症",
+      "anchor": {
+        "unit_id": "f008-L-toc2-head",
+        "relation": "below; 症 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc3-main",
+      "text": "自第五十三節起至第七十三節止○論皮膚之",
+      "anchor": {
+        "unit_id": "f008-L-toc3-head",
+        "relation": "below; 濕症 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc3-wrap",
+      "text": "濕症",
+      "anchor": {
+        "unit_id": "f008-L-toc3-head",
+        "relation": "below; 濕症 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc4-main",
+      "text": "自第七十四節起至第八十八節止○論皮膚發",
+      "anchor": {
+        "unit_id": "f008-L-toc4-head",
+        "relation": "below; 膿瘡 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f008-L",
+      "unit_id": "f008-L-toc4-wrap",
+      "text": "膿瘡",
+      "anchor": {
+        "unit_id": "f008-L-toc4-head",
+        "relation": "below; 膿瘡 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc5-main",
+      "text": "自第八十九節起至第九十八節止○論皮膚浮",
+      "anchor": {
+        "unit_id": "f009-R-toc5-head",
+        "relation": "below; 腫 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc5-wrap",
+      "text": "腫",
+      "anchor": {
+        "unit_id": "f009-R-toc5-head",
+        "relation": "below; 腫 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc6-main",
+      "text": "自第九十九節起至第一百零六節止○論皮膚",
+      "anchor": {
+        "unit_id": "f009-R-toc6-head",
+        "relation": "below; 色變 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc6-wrap",
+      "text": "色變",
+      "anchor": {
+        "unit_id": "f009-R-toc6-head",
+        "relation": "below; 色變 at upper left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc7-main",
+      "text": "自第一百零七節起至第一百一十九節止○論",
+      "anchor": {
+        "unit_id": "f009-R-toc7-head",
+        "relation": "below, second column at left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc7-wrap",
+      "text": "皮膚之症專向毛髮等處而生",
+      "anchor": {
+        "unit_id": "f009-R-toc7-head",
+        "relation": "below, second column at left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc8-main",
+      "text": "自第一百二十節起至第一百二十八節止○論",
+      "anchor": {
+        "unit_id": "f009-R-toc8-head",
+        "relation": "below, second column at left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-R",
+      "unit_id": "f009-R-toc8-wrap",
+      "text": "皮膚之症係因疔毒而致及大小雜症",
+      "anchor": {
+        "unit_id": "f009-R-toc8-head",
+        "relation": "below, second column at left",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f009-L",
+      "unit_id": "f009-L-added-bookrange",
+      "text": "自第一節至第十一節○論皮膚諸症之大端",
+      "anchor": {
+        "unit_id": "f009-L-book1",
+        "relation": "below",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f010-L",
+      "unit_id": "f010-L-c03-note",
+      "text": "即俗名紅酒⟦g-adj-f010L-wine⟧",
+      "anchor": {
+        "unit_id": "f010-L-c03",
+        "after": "阮呢",
+        "layout": "two small vertical columns right then left",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18,
+        "before_context": {
+          "text": "醫者",
+          "start": 19,
+          "end": 21,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f011-R",
+      "unit_id": "f011-R-fig1",
+      "text": "⟦g-adj-f011R-ref⟧見第一",
+      "anchor": {
+        "unit_id": "f011-R-c02",
+        "after": "第一百零八節",
+        "position_codepoints_0_based": 7,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 7
+      }
+    },
+    {
+      "page_id": "f011-R",
+      "unit_id": "f011-R-fig2",
+      "text": "圖見第二",
+      "anchor": {
+        "unit_id": "f011-R-c04",
+        "after": "第一百一十三節",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f011-R",
+      "unit_id": "f011-R-name",
+      "text": "即俗名三角蝨",
+      "anchor": {
+        "unit_id": "f011-R-c08",
+        "after": "處",
+        "layout": "double small vertical text",
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4,
+        "before_context": {
+          "text": "患",
+          "start": 5,
+          "end": 6,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f011-R",
+      "unit_id": "f011-R-fig3",
+      "text": "圖見第三",
+      "anchor": {
+        "unit_id": "f011-R-c08",
+        "after": "生癢癬也",
+        "position_codepoints_0_based": 15,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 15
+      }
+    },
+    {
+      "page_id": "f011-L",
+      "unit_id": "f011-L-c04-fig4",
+      "text": "圖見第四",
+      "anchor": {
+        "unit_id": "f011-L-c04",
+        "after": "也",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9,
+        "before_context": {
+          "text": "醫者",
+          "start": 10,
+          "end": 12,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f011-L",
+      "unit_id": "f011-L-c10-note",
+      "text": "此杯宜上濶下尖的蓋取其易于墜下也",
+      "anchor": {
+        "unit_id": "f011-L-c10",
+        "after": "磁杯",
+        "layout": "two vertical columns",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8,
+        "before_context": {
+          "text": "次用",
+          "start": 9,
+          "end": 11,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f012-L",
+      "unit_id": "f012-L-added-bookrange",
+      "text": "自第十二節至第五十二節○論皮膚之乾症",
+      "anchor": {
+        "unit_id": "f012-L-c06",
+        "relation": "below; right then left small vertical columns",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f013-R",
+      "unit_id": "f013-R-c03-note",
+      "text": "即西名⟦g-f013R-n01-last⟧近是也",
+      "anchor": {
+        "unit_id": "f013-R-c03",
+        "after": "汗癬",
+        "before_unit": "f013-R-c03-ending",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f013-R",
+      "unit_id": "f013-R-c04-note",
+      "text": "即西名輔黎古是也",
+      "anchor": {
+        "unit_id": "f013-R-c04",
+        "after": "癢癬",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with source note region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-c08-note",
+      "text": "即西醫所謂禮近閣離丫",
+      "anchor": {
+        "unit_id": "f013-L-c08",
+        "after": "紅熱汗癬",
+        "continues_to": "f013-L-added-note01b",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f013-L",
+      "unit_id": "f013-L-added-note01b",
+      "text": "士是也",
+      "anchor": {
+        "unit_id": "f013-L-c08-note",
+        "relation": "continues at next main column top",
+        "before_unit": "f013-L-c09",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f015-L",
+      "unit_id": "f015-L-added-note01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f015-L-c09",
+        "after": "清水六安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 16,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 16
+      }
+    },
+    {
+      "page_id": "f016-L",
+      "unit_id": "f016-L-c10-note",
+      "text": "量但此藥不宜過濃",
+      "anchor": {
+        "unit_id": "f016-L-c10",
+        "after": "地廉",
+        "before": "次用",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-c02-note",
+      "text": "此方較為通行",
+      "anchor": {
+        "unit_id": "f017-R-c02",
+        "after": "止癢",
+        "continues_top_next_column": true,
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 22,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 22
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-c04-note",
+      "text": "即馬錢水",
+      "anchor": {
+        "unit_id": "f017-R-c04",
+        "after": "的年",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2,
+        "before_context": {
+          "text": "可也",
+          "start": 3,
+          "end": 5,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c01",
+        "after": "安士",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c01",
+        "after": "地廉",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c02",
+        "after": "地廉",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 7,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 7
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c02",
+        "after": "安士",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 13,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 13
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c05",
+        "after": "地廉",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c05",
+        "after": "安士",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note07",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c06",
+        "after": "安士",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note08",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c07",
+        "after": "地廉",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note09",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c07",
+        "after": "地廉",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note10",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c07",
+        "after": "地廉",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 16,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 16
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note11",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c07",
+        "after": "清水六安士",
+        "relation": "small quantity note at next column top belongs previous column end",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-added-quantity_note12",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f017-R-c09",
+        "after": "安士",
+        "relation": "small inline quantity notation",
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4
+      }
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-c02-note",
+      "text": "即西名蘇盧丫士又",
+      "anchor": {
+        "unit_id": "f017-L-c02",
+        "after": "魚鱗癬",
+        "continues_to": "f017-L-added-note01b",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 20,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 20
+      }
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-c03-note1",
+      "text": "即西名閣若漢士是也",
+      "anchor": {
+        "unit_id": "f017-L-c03",
+        "after": "牛皮癬",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 5,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 5,
+        "before_context": {
+          "text": "一曰蛇皮癬",
+          "start": 6,
+          "end": 11,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-c03-note2",
+      "text": "即西名⟦g-f017L-n03-a⟧底里丫士",
+      "anchor": {
+        "unit_id": "f017-L-c03",
+        "after": "蛇皮癬",
+        "continues_to_main_unit": "f017-L-c04",
+        "layout": "two small vertical columns; 也 continues next column",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-added-note01b",
+      "text": "名笠癬是也",
+      "anchor": {
+        "unit_id": "f017-L-c02-note",
+        "relation": "continues at next column top",
+        "before_unit": "f017-L-c03",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f018-R",
+      "unit_id": "f018-R-c03-note",
+      "text": "即俗名鵝掌瘋",
+      "anchor": {
+        "unit_id": "f018-R-c03",
+        "after": "掌內者",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f018-L",
+      "unit_id": "f018-L-added-quantity_note",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f018-L-c10",
+        "after": "安士",
+        "before": "和化",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f020-L",
+      "unit_id": "f020-L-c08-figure5",
+      "text": "圖見第五",
+      "anchor": {
+        "unit_id": "f020-L-c08",
+        "after": "也",
+        "position_codepoints_0_based": 1,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 1
+      }
+    },
+    {
+      "page_id": "f021-R",
+      "unit_id": "f021-R-added-quantity_note01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f021-R-c04",
+        "after": "地廉",
+        "before": "硼砂",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f021-R",
+      "unit_id": "f021-R-added-quantity_note02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f021-R-c09",
+        "after": "地廉",
+        "before": "甘油",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f021-R",
+      "unit_id": "f021-R-added-quantity_note03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f021-R-c10",
+        "after": "士",
+        "before": "清水",
+        "position_codepoints_0_based": 1,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 1
+      }
+    },
+    {
+      "page_id": "f021-R",
+      "unit_id": "f021-R-added-quantity_note04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f021-R-c10",
+        "after": "八安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 6,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 6
+      }
+    },
+    {
+      "page_id": "f022-R",
+      "unit_id": "f022-R-c02-note",
+      "text": "即西醫名為管施澳喇",
+      "anchor": {
+        "unit_id": "f022-R-c02",
+        "after": "梅桂紅症",
+        "before": "皮膚各處",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f023-R",
+      "unit_id": "f023-R-c03-note",
+      "text": "即西醫名為依頓地麻",
+      "anchor": {
+        "unit_id": "f023-R-c03",
+        "after": "一症",
+        "before": "亦發紅色",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f023-L",
+      "unit_id": "f023-L-added-quantity_note01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f023-L-c10",
+        "after": "安士",
+        "before": "和化",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f024-R",
+      "unit_id": "f024-R-c02-note",
+      "text": "即西醫名為於底基喇",
+      "anchor": {
+        "unit_id": "f024-R-c02",
+        "after": "一症",
+        "before": "其形",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f024-L",
+      "unit_id": "f024-L-added-bookrange",
+      "text": "自第五十三節至第七十三節○論皮膚之濕症",
+      "anchor": {
+        "unit_id": "f024-L-c03",
+        "relation": "below heading; two small vertical columns",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f026-R",
+      "unit_id": "f026-R-added-note01",
+      "text": "即膽礬",
+      "anchor": {
+        "unit_id": "f026-R-c07",
+        "after": "鐵磺養",
+        "before": "二錢",
+        "layout": "two small columns",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f026-R",
+      "unit_id": "f026-R-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f026-R-c07",
+        "after": "半安士",
+        "before": "爪沙",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f026-R",
+      "unit_id": "f026-R-added-quantity02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f026-R-c08",
+        "after": "十六安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 5,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 5
+      }
+    },
+    {
+      "page_id": "f026-R",
+      "unit_id": "f026-R-added-quantity03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f026-R-c08",
+        "after": "兩地廉",
+        "before": "或",
+        "position_codepoints_0_based": 13,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 13
+      }
+    },
+    {
+      "page_id": "f026-R",
+      "unit_id": "f026-R-added-quantity04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f026-R-c08",
+        "after": "半安士",
+        "before": "亦可",
+        "position_codepoints_0_based": 17,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 17
+      }
+    },
+    {
+      "page_id": "f026-L",
+      "unit_id": "f026-L-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f026-L-c04",
+        "after": "六安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 14,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 14
+      }
+    },
+    {
+      "page_id": "f027-R",
+      "unit_id": "f027-R-added-note01",
+      "text": "即迦路水",
+      "anchor": {
+        "unit_id": "f027-R-c06",
+        "after": "汞綠",
+        "before": "三分",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f027-R",
+      "unit_id": "f027-R-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f027-R-c07",
+        "after": "安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f027-R",
+      "unit_id": "f027-R-added-quantity02",
+      "text": "量宜濃的",
+      "anchor": {
+        "unit_id": "f027-R-c08",
+        "after": "安士",
+        "before_unit": "f027-R-c09",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f027-R",
+      "unit_id": "f027-R-added-quantity03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f027-R-c09",
+        "after": "十六安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 6,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 6
+      }
+    },
+    {
+      "page_id": "f027-L",
+      "unit_id": "f027-L-c03-note",
+      "text": "詳西藥畧釋",
+      "anchor": {
+        "unit_id": "f027-L-c03",
+        "after": "鉛養藥膏",
+        "before": "十安士",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 15,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 15
+      }
+    },
+    {
+      "page_id": "f027-L",
+      "unit_id": "f027-L-added-quantity01",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f027-L-c03",
+        "after": "十安士",
+        "before": "白欖油",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f027-L",
+      "unit_id": "f027-L-added-quantity02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f027-L-c04",
+        "after": "十六安士",
+        "before": "先行",
+        "position_codepoints_0_based": 6,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 6
+      }
+    },
+    {
+      "page_id": "f028-R",
+      "unit_id": "f028-R-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f028-R-c01",
+        "after": "五地廉",
+        "before": "和勻",
+        "position_codepoints_0_based": 14,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 14
+      }
+    },
+    {
+      "page_id": "f029-L",
+      "unit_id": "f029-L-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f029-L-c01",
+        "after": "六安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 13,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 13
+      }
+    },
+    {
+      "page_id": "f029-L",
+      "unit_id": "f029-L-added-quantity02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f029-L-c08",
+        "after": "八安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 16,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 16
+      }
+    },
+    {
+      "page_id": "f030-R",
+      "unit_id": "f030-R-c01-note",
+      "text": "即西醫名為蘇打美拿",
+      "anchor": {
+        "unit_id": "f030-R-c01",
+        "after": "小粟者",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18,
+        "before_context": {
+          "text": "其",
+          "start": 19,
+          "end": 20,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f031-L",
+      "unit_id": "f031-L-c04-note",
+      "text": "要煉沙製成的",
+      "anchor": {
+        "unit_id": "f031-L-c04",
+        "after": "蕃廉",
+        "before": "十二兩",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 16,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 16
+      }
+    },
+    {
+      "page_id": "f031-L",
+      "unit_id": "f031-L-c06-note",
+      "text": "即西醫名為珀輝加士",
+      "anchor": {
+        "unit_id": "f031-L-c06",
+        "after": "一症",
+        "before": "亦大水",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f031-L",
+      "unit_id": "f031-L-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f031-L-c01",
+        "after": "一地廉",
+        "before": "融化",
+        "position_codepoints_0_based": 47,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 47
+      }
+    },
+    {
+      "page_id": "f031-L",
+      "unit_id": "f031-L-added-quantity02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f031-L-c02",
+        "after": "兩安士",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21,
+        "layout_before_descriptor": "磺養前gaiji"
+      }
+    },
+    {
+      "page_id": "f032-R",
+      "unit_id": "f032-R-added-bookrange",
+      "text": "自第七十四節至第八十八節○論皮膚發膿瘡",
+      "anchor": {
+        "unit_id": "f032-R-c08",
+        "relation": "below chapter title; two small vertical columns",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f033-L",
+      "unit_id": "f033-L-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f033-L-c01",
+        "after": "六安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 39,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 39
+      }
+    },
+    {
+      "page_id": "f034-L",
+      "unit_id": "f034-L-c10-note",
+      "text": "即西醫名為阮呢",
+      "anchor": {
+        "unit_id": "f034-L-c10",
+        "after": "一症",
+        "before": "其生",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 19,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 19
+      }
+    },
+    {
+      "page_id": "f035-L",
+      "unit_id": "f035-L-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f035-L-c10",
+        "after": "安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f035-L",
+      "unit_id": "f035-L-added-quantity02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f035-L-c10",
+        "after": "八安士",
+        "before": "搽之",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f036-R",
+      "unit_id": "f036-R-c06-note",
+      "text": "此丹製法詳下第九十二節",
+      "anchor": {
+        "unit_id": "f036-R-c06",
+        "after": "也",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f036-R",
+      "unit_id": "f036-R-c07-note",
+      "text": "即西醫名為路卑丫也",
+      "anchor": {
+        "unit_id": "f036-R-c07",
+        "after": "一症",
+        "before": "大抵此症",
+        "layout": "two small vertical columns",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f036-R",
+      "unit_id": "f036-R-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f036-R-c01",
+        "after": "八安士",
+        "before": "洗之",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f036-R",
+      "unit_id": "f036-R-added-quantity02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f036-R-c02",
+        "after": "十六安士",
+        "before": "攪勻",
+        "position_codepoints_0_based": 47,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 47
+      }
+    },
+    {
+      "page_id": "f036-R",
+      "unit_id": "f036-R-added-quantity03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f036-R-c03",
+        "after": "一安士",
+        "before": "和化",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f036-R",
+      "unit_id": "f036-R-added-quantity04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f036-R-c05",
+        "after": "一安士",
+        "before": "清水",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f036-R",
+      "unit_id": "f036-R-added-quantity05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f036-R-c05",
+        "after": "八安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f036-L",
+      "unit_id": "f036-L-added-bookrange",
+      "text": "自第八十九節至第九十八節○論皮膚浮腫",
+      "anchor": {
+        "unit_id": "f036-L-c09",
+        "relation": "below book title, two small columns",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f037-R",
+      "unit_id": "f037-R-c05-note",
+      "text": "即西醫名為摩羅士金",
+      "anchor": {
+        "unit_id": "f037-R-c05",
+        "after": "苦瓜",
+        "before": "大抵此症",
+        "layout": "two small columns",
+        "position_codepoints_0_based": 15,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 15
+      }
+    },
+    {
+      "page_id": "f038-R",
+      "unit_id": "f038-R-long-note",
+      "text": "製法用硝強水五安士量清水一筒半安士量和勻即加入水",
+      "anchor": {
+        "unit_id": "f038-R-added-n00",
+        "continues_to": "f038-R-added-n02",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f038-R",
+      "unit_id": "f038-R-c04-note",
+      "text": "即西醫名為路拔士",
+      "anchor": {
+        "unit_id": "f038-R-c04",
+        "after": "一症",
+        "before": "其患處",
+        "layout": "two small columns",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f038-R",
+      "unit_id": "f038-R-added-n00",
+      "text": "此丹",
+      "anchor": {
+        "unit_id": "f038-R-c01",
+        "after": "亦可",
+        "continues_to": "f038-R-long-note",
+        "position_codepoints_0_based": 25,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 25
+      }
+    },
+    {
+      "page_id": "f038-R",
+      "unit_id": "f038-R-added-n02",
+      "text": "銀四安士秤如此則水銀自化誠以此時未可用火煎也俟化",
+      "anchor": {
+        "unit_id": "f038-R-long-note",
+        "continues_to": "f038-R-added-n03",
+        "position_codepoints_0_based": 24,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 24
+      }
+    },
+    {
+      "page_id": "f038-R",
+      "unit_id": "f038-R-added-n03",
+      "text": "清之後然後用火煎滾既煎滾又須候其水冷乃可貯入玻",
+      "anchor": {
+        "unit_id": "f038-R-added-n02",
+        "continues_to": "f038-R-added-n04",
+        "position_codepoints_0_based": 24,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 24
+      }
+    },
+    {
+      "page_id": "f038-R",
+      "unit_id": "f038-R-added-n04",
+      "text": "⟦g-f038R-jar⟧其玻⟦g-f038R-jar⟧亦宜用玻質塞口方妥惟用以搽症方可倒出也",
+      "anchor": {
+        "unit_id": "f038-R-added-n03",
+        "continues_to_main_unit": "f038-R-added-bridge",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f038-L",
+      "unit_id": "f038-L-c09-note",
+      "text": "但此法比如用加權匿酸一分量則當用甘油十二分量和勻",
+      "anchor": {
+        "unit_id": "f038-L-c09",
+        "after": "俱合",
+        "continues_to": "f038-L-added-n01b",
+        "layout": "two small columns",
+        "position_codepoints_0_based": 14,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 14
+      }
+    },
+    {
+      "page_id": "f038-L",
+      "unit_id": "f038-L-added-n01b",
+      "text": "方妥推之或多或寡皆宜準此用之",
+      "anchor": {
+        "unit_id": "f038-L-c09-note",
+        "continues_to_main_unit": "f038-L-c10",
+        "layout": "two small columns at next column top",
+        "position_codepoints_0_based": 24,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 24
+      }
+    },
+    {
+      "page_id": "f040-R",
+      "unit_id": "f040-R-c07-note",
+      "text": "即西醫名為秘標喇",
+      "anchor": {
+        "unit_id": "f040-R-c07",
+        "after": "一症",
+        "before": "其患處",
+        "layout": "two small columns",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f040-R",
+      "unit_id": "f040-R-added-bookrange",
+      "text": "自第九十九節至第一百零六節○論皮膚色變",
+      "anchor": {
+        "unit_id": "f040-R-c01",
+        "relation": "below book title; two small columns",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f041-R",
+      "unit_id": "f041-R-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f041-R-c03",
+        "after": "四安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 17,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 17
+      }
+    },
+    {
+      "page_id": "f041-L",
+      "unit_id": "f041-L-c02-wrap",
+      "text": "自第一百零七節至第一百一十九節○論皮膚之症專向毛髮等處而生",
+      "anchor": {
+        "unit_id": "f041-L-c02",
+        "relation": "below book title; two small columns",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f041-L",
+      "unit_id": "f041-L-c10-note",
+      "text": "即俗名雞屎堆",
+      "anchor": {
+        "unit_id": "f041-L-c10",
+        "after": "一症",
+        "before": "多有",
+        "layout": "two small columns",
+        "position_codepoints_0_based": 14,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 14
+      }
+    },
+    {
+      "page_id": "f043-R",
+      "unit_id": "f043-R-added-quantity01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f043-R-c01",
+        "after": "三安士",
+        "before": "和勻",
+        "position_codepoints_0_based": 20,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 20
+      }
+    },
+    {
+      "page_id": "f044-R",
+      "unit_id": "f044-R-c06-note",
+      "text": "即三仙丹",
+      "anchor": {
+        "unit_id": "f044-R-c06",
+        "after": "汞藥",
+        "before": "五厘",
+        "layout": "two small columns",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f044-L",
+      "unit_id": "f044-L-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f044-L-c07",
+        "after": "一安士",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f045-R",
+      "unit_id": "f045-R-c01-note",
+      "text": "西醫名為丫路卑士亞",
+      "anchor": {
+        "unit_id": "f045-R-c01",
+        "after": "脫毛一症",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12,
+        "before_context": {
+          "text": "其患處",
+          "start": 13,
+          "end": 16,
+          "reason": "right context after intervening source punctuation, not immediate insertion suffix"
+        }
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-c10-scope",
+      "text": "自第一百二十節至第一百二十八節○論皮膚",
+      "anchor": {
+        "unit_id": "f045-L-c10",
+        "after": "第八冊",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-c10-wrap",
+      "text": "之症係因疔毒而致及大小雜症",
+      "anchor": {
+        "unit_id": "f045-L-c10-scope",
+        "continues": true,
+        "position_codepoints_0_based": 19,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 19
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f045-L-c05",
+        "after": "士",
+        "occurrence": 1,
+        "position_codepoints_0_based": 1,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 1
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-added-n02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f045-L-c05",
+        "after": "二安士",
+        "occurrence": 1,
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-added-n03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f045-L-c06",
+        "after": "士",
+        "occurrence": 1,
+        "position_codepoints_0_based": 1,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 1
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f045-L-c06",
+        "after": "三筒半安士",
+        "occurrence": 1,
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-added-n05",
+      "text": "量宜濃的",
+      "anchor": {
+        "unit_id": "f045-L-c07",
+        "after": "半安士",
+        "occurrence": 1,
+        "position_codepoints_0_based": 6,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 6
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f045-L-c07",
+        "after": "蓖麻油半安士",
+        "occurrence": 1,
+        "position_codepoints_0_based": 13,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 13
+      }
+    },
+    {
+      "page_id": "f045-L",
+      "unit_id": "f045-L-added-n07",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f045-L-c07",
+        "after": "松節油半安士",
+        "occurrence": 1,
+        "position_codepoints_0_based": 20,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 20
+      }
+    },
+    {
+      "page_id": "f047-R",
+      "unit_id": "f047-R-c05-note",
+      "text": "若服此藥而至口內",
+      "anchor": {
+        "unit_id": "f047-R-c05",
+        "after": "汞藍",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f047-R",
+      "unit_id": "f047-R-added-n01l",
+      "text": "或有微腫即宜暫停",
+      "anchor": {
+        "unit_id": "f047-R-c05-note",
+        "continues": true,
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-c02-note",
+      "text": "九十二節",
+      "anchor": {
+        "unit_id": "f047-L-added-n01r",
+        "continues": true,
+        "position_codepoints_0_based": 5,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 5
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-added-n01r",
+      "text": "此丹詳上第",
+      "anchor": {
+        "unit_id": "f047-L-c02",
+        "after": "汞淡養丹",
+        "position_codepoints_0_based": 20,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 20
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-added-n02r",
+      "text": "先將清水",
+      "anchor": {
+        "unit_id": "f047-L-c06",
+        "after": "三厘",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-added-n02l",
+      "text": "少許開調",
+      "anchor": {
+        "unit_id": "f047-L-added-n02r",
+        "continues": true,
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-added-n03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f047-L-c08",
+        "after": "三十二安士",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f047-L-c09",
+        "after": "四地廉",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f047-L",
+      "unit_id": "f047-L-added-n05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f047-L-c10",
+        "after": "十六安士",
+        "position_codepoints_0_based": 13,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 13
+      }
+    },
+    {
+      "page_id": "f048-R",
+      "unit_id": "f048-R-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f048-R-c01",
+        "after": "安士",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f049-R",
+      "unit_id": "f049-R-c10-note",
+      "text": "如平",
+      "anchor": {
+        "unit_id": "f049-R-c10",
+        "after": "而生",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f049-R",
+      "unit_id": "f049-R-added-n01l",
+      "text": "日瘡",
+      "anchor": {
+        "unit_id": "f049-R-c10-note",
+        "continues": true,
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f049-L",
+      "unit_id": "f049-L-c01-note",
+      "text": "所傷等處是",
+      "anchor": {
+        "unit_id": "f049-L-added-n01r",
+        "continues": true,
+        "position_codepoints_0_based": 6,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 6
+      }
+    },
+    {
+      "page_id": "f049-L",
+      "unit_id": "f049-L-added-n01r",
+      "text": "痕及曾被水火",
+      "anchor": {
+        "unit_id": "f049-R-added-n01l",
+        "page_id": "f049-R",
+        "relation": "continues from prior face source small note",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n01",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f052-R-c02",
+        "after": "三安士",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-R-c02",
+        "after": "一筒半安士",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n03r",
+      "text": "秤宜",
+      "anchor": {
+        "unit_id": "f052-R-c03",
+        "after": "十二安士",
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n03l",
+      "text": "熔用之",
+      "anchor": {
+        "unit_id": "f052-R-added-n03r",
+        "continues": true,
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-R-c07",
+        "after": "兩安士",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-R-c08",
+        "after": "廉",
+        "position_codepoints_0_based": 1,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 1
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-R-c08",
+        "after": "三地廉",
+        "position_codepoints_0_based": 7,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 7
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n07",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-R-c08",
+        "after": "四安士",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n08",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-R-c09",
+        "after": "一地廉",
+        "position_codepoints_0_based": 20,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 20
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n09r",
+      "text": "量宜",
+      "anchor": {
+        "unit_id": "f052-R-c10",
+        "after": "半安士",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n09l",
+      "text": "濃的",
+      "anchor": {
+        "unit_id": "f052-R-added-n09r",
+        "continues": true,
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f052-R",
+      "unit_id": "f052-R-added-n10",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-R-c10",
+        "after": "十九筒半安士",
+        "position_codepoints_0_based": 32,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 32
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-L-c03",
+        "after": "四安士",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-L-c03",
+        "after": "清水四安士",
+        "position_codepoints_0_based": 17,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 17
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n03",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f052-L-c05",
+        "after": "四地廉",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-L-c05",
+        "after": "六安士",
+        "position_codepoints_0_based": 16,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 16
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-L-c07",
+        "after": "三地廉",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-L-c07",
+        "after": "兩地廉",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n07",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f052-L-c09",
+        "after": "四安士",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n08",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f052-L-c09",
+        "after": "八安士",
+        "position_codepoints_0_based": 16,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 16
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n09",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f052-L-c10",
+        "after": "一百安士",
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n10r",
+      "text": "要燒過末",
+      "anchor": {
+        "unit_id": "f052-L-c09",
+        "after": "石灰",
+        "position_codepoints_0_based": 6,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 6
+      }
+    },
+    {
+      "page_id": "f052-L",
+      "unit_id": "f052-L-added-n10l",
+      "text": "入水的",
+      "anchor": {
+        "unit_id": "f052-L-added-n10r",
+        "continues": true,
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c02",
+        "after": "兩地廉",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c02",
+        "after": "石灰水四安士",
+        "relation": "continued_at_top_of_c03",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c04",
+        "after": "四安士",
+        "position_codepoints_0_based": 14,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 14
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c06",
+        "after": "兩安士",
+        "position_codepoints_0_based": 15,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 15
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c06",
+        "after": "四安士",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c08",
+        "after": "二十安士",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n07",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c08",
+        "after": "一安士",
+        "position_codepoints_0_based": 19,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 19
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n08",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f053-R-c10",
+        "after": "一安士",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n09",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-R-c10",
+        "after": "甘油一安士",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n10r",
+      "text": "秤宜研",
+      "anchor": {
+        "unit_id": "f053-R-c04",
+        "after": "八錢",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f053-R",
+      "unit_id": "f053-R-added-n10l",
+      "text": "至極幼",
+      "anchor": {
+        "unit_id": "f053-R-added-n10r",
+        "continues": true,
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f053-L",
+      "unit_id": "f053-L-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f053-L-c03",
+        "after": "三安士",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f053-L",
+      "unit_id": "f053-L-added-n02r",
+      "text": "或用黃",
+      "anchor": {
+        "unit_id": "f053-L-c04",
+        "after": "白蠟",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f053-L",
+      "unit_id": "f053-L-added-n02l",
+      "text": "蠟亦可",
+      "anchor": {
+        "unit_id": "f053-L-added-n02r",
+        "continues": true,
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-c03-water",
+      "text": "至濃的",
+      "anchor": {
+        "unit_id": "f054-R-c03",
+        "after": "鹼水",
+        "position_codepoints_0_based": 14,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 14
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-c05-note",
+      "text": "洗法將該鹼塗在絨布上而用以",
+      "anchor": {
+        "unit_id": "f054-R-c05",
+        "after": "洗淨",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-c08-note",
+      "text": "研幼",
+      "anchor": {
+        "unit_id": "f054-R-c08",
+        "after": "乾粟粉",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-added-n02l",
+      "text": "細擦患處擦畢將去該鹼另用藥",
+      "anchor": {
+        "unit_id": "f054-R-c05-note",
+        "continues": true,
+        "position_codepoints_0_based": 13,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 13
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-added-n02r2",
+      "text": "膏敷之隨以",
+      "anchor": {
+        "unit_id": "f054-R-added-n02l",
+        "continues": true,
+        "position_codepoints_0_based": 13,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 13
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-added-n02l2",
+      "text": "布帶紥緊",
+      "anchor": {
+        "unit_id": "f054-R-added-n02r2",
+        "continues": true,
+        "position_codepoints_0_based": 5,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 5
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f054-R-c08",
+        "after": "八安士",
+        "position_codepoints_0_based": 16,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 16
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-added-n05r",
+      "text": "須以寒暑表熱至",
+      "anchor": {
+        "unit_id": "f054-R-c09",
+        "after": "熔之",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f054-R",
+      "unit_id": "f054-R-added-n05l",
+      "text": "二百四十分為度",
+      "anchor": {
+        "unit_id": "f054-R-added-n05r",
+        "continues": true,
+        "position_codepoints_0_based": 7,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 7
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n01r",
+      "text": "均用",
+      "anchor": {
+        "unit_id": "f054-L-c01",
+        "after": "四厘",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n01l",
+      "text": "西戥",
+      "anchor": {
+        "unit_id": "f054-L-added-n01r",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f054-L-c02",
+        "after": "廉",
+        "position_codepoints_0_based": 1,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 1
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n03",
+      "text": "即銀丹",
+      "anchor": {
+        "unit_id": "f054-L-c03",
+        "after": "銀淡養",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f054-L-c03",
+        "after": "一安士",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f054-L-c05",
+        "after": "一安士",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f054-L-c05",
+        "after": "火酒一安士",
+        "position_codepoints_0_based": 17,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 17
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n07r",
+      "text": "宜軟",
+      "anchor": {
+        "unit_id": "f054-L-c05",
+        "after": "番鹼",
+        "position_codepoints_0_based": 20,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 20
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n07l",
+      "text": "的",
+      "anchor": {
+        "unit_id": "f054-L-added-n07r",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n08",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f054-L-c06",
+        "after": "一安士",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n09",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f054-L-c07",
+        "after": "三地廉",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n10",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f054-L-c07",
+        "after": "五地廉",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f054-L",
+      "unit_id": "f054-L-added-n11",
+      "text": "八錢",
+      "anchor": {
+        "unit_id": "f054-L-c09",
+        "after": "養膏",
+        "position_codepoints_0_based": 39,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 39
+      }
+    },
+    {
+      "page_id": "f055-R",
+      "unit_id": "f055-R-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f055-R-c02",
+        "after": "一地廉",
+        "position_codepoints_0_based": 19,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 19
+      }
+    },
+    {
+      "page_id": "f055-R",
+      "unit_id": "f055-R-added-n02",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f055-R-c04",
+        "after": "十二兩",
+        "position_codepoints_0_based": 12,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 12
+      }
+    },
+    {
+      "page_id": "f055-R",
+      "unit_id": "f055-R-added-n03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f055-R-c05",
+        "after": "二十安士",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f055-R",
+      "unit_id": "f055-R-added-n04",
+      "text": "即三仙丹",
+      "anchor": {
+        "unit_id": "f055-R-c08",
+        "after": "汞養",
+        "position_codepoints_0_based": 33,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 33
+      }
+    },
+    {
+      "page_id": "f055-R",
+      "unit_id": "f055-R-added-n05",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f055-R-c09",
+        "after": "一安士",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f055-R",
+      "unit_id": "f055-R-added-n06",
+      "text": "即三仙丹",
+      "anchor": {
+        "unit_id": "f055-R-c10",
+        "after": "汞養",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n01",
+      "text": "秤",
+      "anchor": {
+        "unit_id": "f055-L-c01",
+        "after": "一安士",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f055-L-c03",
+        "after": "二十安士",
+        "position_codepoints_0_based": 19,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 19
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n03",
+      "text": "或生油",
+      "anchor": {
+        "unit_id": "f055-L-c03",
+        "after": "白欖油",
+        "position_codepoints_0_based": 15,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 15
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f055-L-c04",
+        "after": "兩地廉",
+        "position_codepoints_0_based": 17,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 17
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n05",
+      "text": "或生油",
+      "anchor": {
+        "unit_id": "f055-L-c05",
+        "after": "白欖油",
+        "position_codepoints_0_based": 19,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 19
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f055-L-c05",
+        "after": "十五安士",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n07r",
+      "text": "詳第二",
+      "anchor": {
+        "unit_id": "f055-L-c09",
+        "after": "杏仁膏",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n07l",
+      "text": "十四方",
+      "anchor": {
+        "unit_id": "f055-L-added-n07r",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f055-L",
+      "unit_id": "f055-L-added-n08",
+      "text": "研末",
+      "anchor": {
+        "unit_id": "f055-L-c09",
+        "after": "炭淡",
+        "position_codepoints_0_based": 28,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 28
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-c01-note1",
+      "text": "研末但須加入火",
+      "anchor": {
+        "unit_id": "f056-R-c01",
+        "after": "樟腦",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-c01-note2",
+      "text": "詳上第",
+      "anchor": {
+        "unit_id": "f056-R-c01",
+        "after": "養膏",
+        "position_codepoints_0_based": 27,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 27
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-c03-note1",
+      "text": "詳上第",
+      "anchor": {
+        "unit_id": "f056-R-c03",
+        "after": "養膏",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-c03-note2",
+      "text": "詳上第",
+      "anchor": {
+        "unit_id": "f056-R-c03",
+        "after": "汞綠膏",
+        "position_codepoints_0_based": 30,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 30
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n01l",
+      "text": "酒數滴方能研幼",
+      "anchor": {
+        "unit_id": "f056-R-c01-note1",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 7,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 7
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n02l",
+      "text": "十四方",
+      "anchor": {
+        "unit_id": "f056-R-c01-note2",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n03l",
+      "text": "十四方",
+      "anchor": {
+        "unit_id": "f056-R-c03-note1",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n04l",
+      "text": "十五方",
+      "anchor": {
+        "unit_id": "f056-R-c03-note2",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-R-c05",
+        "after": "清水八安士",
+        "relation": "continued_at_top_of_c06",
+        "position_codepoints_0_based": 24,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 24
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-R-c07",
+        "after": "兩地廉",
+        "position_codepoints_0_based": 29,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 29
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n07",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-R-c07",
+        "after": "鉛養水兩地廉",
+        "relation": "continued_at_top_of_c08",
+        "position_codepoints_0_based": 36,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 36
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n08",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-R-c08",
+        "after": "八安士",
+        "position_codepoints_0_based": 11,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 11
+      }
+    },
+    {
+      "page_id": "f056-R",
+      "unit_id": "f056-R-added-n09",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-R-c10",
+        "after": "八安士",
+        "position_codepoints_0_based": 22,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 22
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-c03-note",
+      "text": "此水內有",
+      "anchor": {
+        "unit_id": "f056-L-c03",
+        "after": "鹼沙水",
+        "position_codepoints_0_based": 5,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 5
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-L-c02",
+        "after": "六安士",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n02l",
+      "text": "鈉炭養",
+      "anchor": {
+        "unit_id": "f056-L-c03-note",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 4,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 4
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n03r",
+      "text": "宜軟",
+      "anchor": {
+        "unit_id": "f056-L-c05",
+        "after": "番鹼",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n03l",
+      "text": "的",
+      "anchor": {
+        "unit_id": "f056-L-added-n03r",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n04",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-L-c05",
+        "after": "二十安士",
+        "position_codepoints_0_based": 17,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 17
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n05",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-L-c07",
+        "after": "三地廉",
+        "position_codepoints_0_based": 18,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 18
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-L-c08",
+        "after": "士",
+        "position_codepoints_0_based": 1,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 1
+      }
+    },
+    {
+      "page_id": "f056-L",
+      "unit_id": "f056-L-added-n07",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f056-L-c09",
+        "after": "三安士",
+        "position_codepoints_0_based": 22,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 22
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n01",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f057-R-c01",
+        "after": "四安士",
+        "position_codepoints_0_based": 23,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 23
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n02",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f057-R-c04",
+        "after": "一地廉",
+        "position_codepoints_0_based": 20,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 20
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f057-R-c05",
+        "after": "安士",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n04",
+      "text": "研末",
+      "anchor": {
+        "unit_id": "f057-R-c06",
+        "after": "養",
+        "position_codepoints_0_based": 21,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 21
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n05r",
+      "text": "均用",
+      "anchor": {
+        "unit_id": "f057-R-c06",
+        "after": "鉀炭養八十厘",
+        "continues_to": "f057-R-added-n05l",
+        "position_codepoints_0_based": 31,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 31
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n05l",
+      "text": "西戥",
+      "anchor": {
+        "unit_id": "f057-R-added-n05r",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 2,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 2
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n06",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f057-R-c07",
+        "after": "二十安士",
+        "position_codepoints_0_based": 5,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 5
+      }
+    },
+    {
+      "page_id": "f057-R",
+      "unit_id": "f057-R-added-n07",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f057-R-c08",
+        "after": "五地廉",
+        "position_codepoints_0_based": 5,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 5
+      }
+    },
+    {
+      "page_id": "f057-L",
+      "unit_id": "f057-L-c02-note",
+      "text": "宜用火烘至乾枯以寒",
+      "anchor": {
+        "unit_id": "f057-L-c02",
+        "after": "靈養",
+        "position_codepoints_0_based": 8,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 8
+      }
+    },
+    {
+      "page_id": "f057-L",
+      "unit_id": "f057-L-added-n01l",
+      "text": "暑表熱至三百分為度",
+      "anchor": {
+        "unit_id": "f057-L-c02-note",
+        "relation": "continues from preceding small note",
+        "position_codepoints_0_based": 9,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 9
+      }
+    },
+    {
+      "page_id": "f057-L",
+      "unit_id": "f057-L-added-n02",
+      "text": "西戥",
+      "anchor": {
+        "unit_id": "f057-L-c02",
+        "after": "四厘",
+        "position_codepoints_0_based": 10,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 10
+      }
+    },
+    {
+      "page_id": "f057-L",
+      "unit_id": "f057-L-added-n03",
+      "text": "量",
+      "anchor": {
+        "unit_id": "f057-L-c03",
+        "after": "一安士",
+        "position_codepoints_0_based": 3,
+        "precision": "textual insertion point associated with approximate source region; no glyph polygon",
+        "point": 3
+      }
+    },
+    {
+      "page_id": "f059-L",
+      "unit_id": "f059-L-cell-alias1-cn",
+      "text": "鵝掌瘋",
+      "anchor": {
+        "unit_id": "f059-L-cell-r20-cn_name",
+        "point": 5,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 5
+      }
+    },
+    {
+      "page_id": "f060-R",
+      "unit_id": "f060-R-cell-n01-cn",
+      "text": "如有枝相連的",
+      "anchor": {
+        "unit_id": "f060-R-cell-r10-cn_name",
+        "point": 5,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 5
+      }
+    },
+    {
+      "page_id": "f060-R",
+      "unit_id": "f060-R-cell-n01-en",
+      "text": "(parasitic.)",
+      "anchor": {
+        "unit_id": "f060-R-cell-r10-cn_name",
+        "point": 5,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 5
+      }
+    },
+    {
+      "page_id": "f060-R",
+      "unit_id": "f060-R-cell-n02-cn",
+      "text": "即西名窩施淡痢",
+      "anchor": {
+        "unit_id": "f060-R-cell-r11-cn_name",
+        "point": 4,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 4
+      }
+    },
+    {
+      "page_id": "f060-L",
+      "unit_id": "f060-L-cell-n01-cn",
+      "text": "一纏腰龍",
+      "anchor": {
+        "unit_id": "f060-L-cell-r12-cn_name",
+        "point": 2,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 2
+      }
+    },
+    {
+      "page_id": "f060-L",
+      "unit_id": "f060-L-cell-n02-cn",
+      "text": "有枝相連的",
+      "anchor": {
+        "unit_id": "f060-L-cell-r15-cn_name",
+        "point": 3,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 3
+      }
+    },
+    {
+      "page_id": "f060-L",
+      "unit_id": "f060-L-cell-n03-cn",
+      "text": "詳一百十五節",
+      "anchor": {
+        "unit_id": "f060-L-cell-r15-cn_name",
+        "point": 3,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 3
+      }
+    },
+    {
+      "page_id": "f061-R",
+      "unit_id": "f061-R-cell-alias1",
+      "text": "西名阨呢",
+      "anchor": {
+        "unit_id": "f061-R-cell-r16-cn_name",
+        "point": 2,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 2
+      }
+    },
+    {
+      "page_id": "f062-R",
+      "unit_id": "f062-R-cell-n01-cn",
+      "text": "生鬚裏的",
+      "anchor": {
+        "unit_id": "f062-R-cell-r04-cn_name",
+        "point": 6,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 6
+      }
+    },
+    {
+      "page_id": "f062-L",
+      "unit_id": "f062-L-cell-r03-en_ditto_after",
+      "text": "„",
+      "anchor": {
+        "unit_id": "f062-L-cell-r03-cn_name",
+        "point": 3,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 3
+      }
+    },
+    {
+      "page_id": "f063-R",
+      "unit_id": "f063-R-cell-alias1-cn",
+      "text": "青筋",
+      "anchor": {
+        "unit_id": "f063-R-cell-r02-cn_name",
+        "point": 5,
+        "relation": "table-alias-to-row",
+        "position_codepoints_0_based": 5
+      }
+    }
+  ]
+}

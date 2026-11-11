@@ -1,13 +1,7 @@
-# 品質與適用界線
+本版完成117個宣告原印面及其必要可見層的AI回圖裁定，結果 2215 單位，253 筆目前疑讀／來源不足紀錄，其中 86 個穩定gaiji出現位置。未標記的文字也可能錯誤。部分舊初錄疑讀字串仍出現時，保守留在側檔，沒有因AI回圖便當作已由人類定字。
 
-這是117面來源影像的AI初錄，保留暫讀與472筆局部疑讀，尚未經人類全文校勘或專家審定。
-沒有疑讀標記的文字也可能讀錯；圖號、表格、數字和音譯名引用前均應核對原件。
-已讀但未解的邊字、細筆與精確編碼，和尚未處理分開；本版宣告範圍沒有未處理面或必要層。
+獨立讀稿在比對前已封存；後續裁定看過兩稿，明確非盲。f049-L一個短正文欄只在初錄保留，已據圖保留；最後圖版與表格的表示單位重新切分，不宣稱每一結果單位都有兩份獨立文字。沒有全本人類雙校、專家審定、同儕審查或準確率量測。沒有以差異減少、疑讀數、格式或識別碼證明文字正確。
 
-另行獨立讀稿沒有採入這個固定初錄版。未做人類全文雙校、專家審定、同儕審查或辨識準確率量測。格式、hash、AI一致或DOI都不證明讀字正確。此版可協助找材料及提出待查問題，精確引用、字頻、人物與數字研究需要回圖核對。
+來源中的病名、方劑、族群與療效說法只是十九世紀文字。本包供醫學史材料檢索與引用核對，不把來源改寫成現代醫療或實驗指引。引用、字頻、音譯及數字研究應同看來源和疑讀側檔。
 
-書中的病名、分類、療法、地區/族群描述與療效說法都是十九世紀來源文字，不表示整理者確認其事實或採納其醫療觀點；本資料不是生物研究或現代醫療指引。
-
-## English
-
-This is a source-linked AI initial transcription, not a human-collated or expert-approved text. The 472 local uncertainty records preserve provisional readings, visible but unresolved traces and encoding questions. Unmarked text may also be wrong. Independent work is not incorporated into this fixed first release. No full human double collation, expert approval, peer review or accuracy measurement has been performed. File validation and identifiers do not establish correct readings or validate historical medical claims.
+The independent AI reading was sealed before comparison; final source adjudication was nonblind. Current uncertainties include conservative retained legacy readings and unresolved source traces. Full-face coverage does not establish accuracy, expert approval or human double collation. Table segmentation changes are not character-error measurements.

@@ -1,1246 +1,2042 @@
 {
-  "scope": "Existing square placeholders and empty unresolved edge/graphic traces; ordinary provisional readings remain in uncertainties.json. Stable IDs do not alter faithful strings or assert source character counts for unknown-extent traces.",
-  "source_images_included": false,
+  "representation": "Stable ⟦ID⟧ tokens retain unresolved source glyphs; candidates are not adopted. No source images.",
   "records": [
     {
-      "id": "f006-R-edge-paratext-unknown-extent",
-      "page_id": "f006-R",
-      "unit_id": "f006-R-edge-paratext",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7818d319-a852-49b9-a3c8-eb8b8b1379d1.json",
-      "source_face_sha256": "236a34a8b0f9ad0e182d68a83c9a0088492a127670a33e9fc8ccb81dd5f69038",
-      "bbox": [
-        420,
-        245,
-        443,
-        767
+      "id": "f005-L-c04-gaiji-12",
+      "stable_glyph_id": "g-f005L-c04-out",
+      "unit_id": "f005-L-c04",
+      "page_id": "f005-L",
+      "start": 12,
+      "end": 29,
+      "surface": "⟦g-f005L-c04-out⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "噠"
       ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+      "reason": "原像素合筆，NEAREST不增加細節",
+      "status": "reading-unresolved",
+      "source_face_sha256": "89b4f77309d41f0a797c46fefea9ba3c554232d79d65d31a7ed254caf5dae2d6",
+      "bbox": [
+        175,
+        255,
+        209,
+        767
+      ]
     },
     {
-      "id": "f007-R-c05-square-5",
-      "page_id": "f007-R",
-      "unit_id": "f007-R-c05",
-      "start": 5,
-      "end": 6,
-      "representation": "□",
-      "kind": "selected-square-placeholder",
+      "id": "f006-R-c05-gaiji-9",
+      "stable_glyph_id": "g-f006R-c05-09",
+      "unit_id": "f006-R-c05",
+      "page_id": "f006-R",
+      "start": 9,
+      "end": 25,
+      "surface": "⟦g-f006R-c05-09⟧",
       "extent": 1,
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1862c331-2972-4cfc-9020-dec994600fd5.json",
-      "source_face_sha256": "dee07c1828749e3eea5dbd42bc97ea5664e18897e50a56e4d120ee27f56d021f",
+      "preferred": null,
+      "candidates": [
+        "⻌"
+      ],
+      "reason": "原圖低解析未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "236a34a8b0f9ad0e182d68a83c9a0088492a127670a33e9fc8ccb81dd5f69038",
       "bbox": [
         236,
         247,
         270,
         767
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+      ]
     },
     {
-      "id": "f007-R-margin-unknown-extent",
-      "page_id": "f007-R",
-      "unit_id": "f007-R-margin",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1862c331-2972-4cfc-9020-dec994600fd5.json",
-      "source_face_sha256": "dee07c1828749e3eea5dbd42bc97ea5664e18897e50a56e4d120ee27f56d021f",
+      "id": "f006-L-c06-gaiji-19",
+      "stable_glyph_id": "g-f006L-c06-out",
+      "unit_id": "f006-L-c06",
+      "page_id": "f006-L",
+      "start": 19,
+      "end": 36,
+      "surface": "⟦g-f006L-c06-out⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "噠"
+      ],
+      "reason": "原像素未定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "397a6501bf5a8b1423f3dcbf15c79b1f1cf1f6d5fff8025324e2ae5c74a311e6",
       "bbox": [
-        431,
-        245,
-        454,
+        176,
+        247,
+        210,
         767
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+      ]
     },
     {
-      "id": "f008-R-edge-print-unknown-extent",
-      "page_id": "f008-R",
-      "unit_id": "f008-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/83678ecc-a080-4c8b-84da-faad7db5c1be.json",
-      "source_face_sha256": "d244a10ca22358d3019df479c2ee3b148349abb6131c943eac8af3d3cad0297d",
+      "id": "f007-L-c03-gaiji-17",
+      "stable_glyph_id": "g-adj-f007L-c03",
+      "unit_id": "f007-L-c03",
+      "page_id": "f007-L",
+      "start": 17,
+      "end": 34,
+      "surface": "⟦g-adj-f007L-c03⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "覈",
+        "疑"
+      ],
+      "reason": "NEAREST放大不新增來源細筆，未依文意定字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "b0cc28e0c251e5237c1ddecd1623501d8999ea66418ffed6c38be7cb536277b5",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        284,
+        247,
+        318,
+        767
+      ]
     },
     {
-      "id": "f009-R-edge-print-unknown-extent",
-      "page_id": "f009-R",
-      "unit_id": "f009-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/436edb81-7be5-4af9-8703-a2998b7b1ce1.json",
-      "source_face_sha256": "f62791f9bb9670e5f0d8913ad427db088afce4dc261861ff65e72bdc57f3d217",
+      "id": "f007-L-c09-gaiji-16",
+      "stable_glyph_id": "g-adj-f007L-kuan",
+      "unit_id": "f007-L-c09",
+      "page_id": "f007-L",
+      "start": 16,
+      "end": 34,
+      "surface": "⟦g-adj-f007L-kuan⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "欵",
+        "款"
+      ],
+      "reason": "原字選碼未唯一確定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "b0cc28e0c251e5237c1ddecd1623501d8999ea66418ffed6c38be7cb536277b5",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        68,
+        247,
+        102,
+        767
+      ]
     },
     {
-      "id": "f010-R-edge-print-unknown-extent",
+      "id": "f010-R-c08-gaiji-26",
+      "stable_glyph_id": "g-f010R-c08-last",
+      "unit_id": "f010-R-c08",
       "page_id": "f010-R",
-      "unit_id": "f010-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f034d7a2-ac63-4b7b-87dc-91cd2f42b8ca.json",
+      "start": 26,
+      "end": 44,
+      "surface": "⟦g-f010R-c08-last⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "嘘",
+        "嚧"
+      ],
+      "reason": "低解析筆畫未解",
+      "status": "reading-unresolved",
       "source_face_sha256": "fddeec79e569a123a5d4cc1641e0ccf347730a417ef638627c97df42bb0a86dd",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f011-R-c10-square-22",
-      "page_id": "f011-R",
-      "unit_id": "f011-R-c10",
-      "start": 22,
-      "end": 23,
-      "representation": "□",
-      "kind": "selected-square-placeholder",
-      "extent": 1,
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a35dca6e-f133-4340-a9f1-45cfd5026e9a.json",
-      "source_face_sha256": "f53848a60ad5e970d0f495a42f990fc166b845ef8ef091bd74e42a5a41147052",
-      "bbox": [
-        56,
+        128,
         247,
-        90,
+        162,
         767
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+      ]
     },
     {
-      "id": "f011-R-edge-print-unknown-extent",
+      "id": "f010-L-c02-gaiji-26",
+      "stable_glyph_id": "g-adj-f010L-fiber",
+      "unit_id": "f010-L-c02",
+      "page_id": "f010-L",
+      "start": 26,
+      "end": 45,
+      "surface": "⟦g-adj-f010L-fiber⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "纖",
+        "繊"
+      ],
+      "reason": "原字選碼不唯一",
+      "status": "reading-unresolved",
+      "source_face_sha256": "aaca9a4ed6124a1c40a0fb34a0316f8426a77fc7c123f19c4c66119081d6d908",
+      "bbox": [
+        326,
+        247,
+        360,
+        767
+      ]
+    },
+    {
+      "id": "f010-L-c09-gaiji-13",
+      "stable_glyph_id": "g-f010L-c09-a",
+      "unit_id": "f010-L-c09",
+      "page_id": "f010-L",
+      "start": 13,
+      "end": 28,
+      "surface": "⟦g-f010L-c09-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鉼",
+        "鋼"
+      ],
+      "reason": "低解析筆畫合併",
+      "status": "reading-unresolved",
+      "source_face_sha256": "aaca9a4ed6124a1c40a0fb34a0316f8426a77fc7c123f19c4c66119081d6d908",
+      "bbox": [
+        74,
+        247,
+        108,
+        767
+      ]
+    },
+    {
+      "id": "f010-L-c03-note-gaiji-5",
+      "stable_glyph_id": "g-adj-f010L-wine",
+      "unit_id": "f010-L-c03-note",
+      "page_id": "f010-L",
+      "start": 5,
+      "end": 23,
+      "surface": "⟦g-adj-f010L-wine⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "皶",
+        "螆"
+      ],
+      "reason": "小字細筆未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "aaca9a4ed6124a1c40a0fb34a0316f8426a77fc7c123f19c4c66119081d6d908",
+      "bbox": [
+        278,
+        580,
+        320,
+        659
+      ]
+    },
+    {
+      "id": "f011-R-fig1-gaiji-0",
+      "stable_glyph_id": "g-adj-f011R-ref",
+      "unit_id": "f011-R-fig1",
       "page_id": "f011-R",
-      "unit_id": "f011-R-edge-print",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a35dca6e-f133-4340-a9f1-45cfd5026e9a.json",
+      "end": 17,
+      "surface": "⟦g-adj-f011R-ref⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "圖",
+        "同"
+      ],
+      "reason": "同像素NEAREST4仍不能唯一讀定",
+      "status": "reading-unresolved",
       "source_face_sha256": "f53848a60ad5e970d0f495a42f990fc166b845ef8ef091bd74e42a5a41147052",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        349,
+        295,
+        379,
+        355
+      ]
     },
     {
-      "id": "f012-R-edge-print-unknown-extent",
-      "page_id": "f012-R",
-      "unit_id": "f012-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ba1ea370-03ec-41c1-a50f-06e07a97ac3e.json",
-      "source_face_sha256": "058a2f16fe8fc287a0cd7d760888b849c6a51610f4f26b7f2c8667f11eb2a628",
+      "id": "f011-L-c09-gaiji-5",
+      "stable_glyph_id": "g-f011L-c09-a",
+      "unit_id": "f011-L-c09",
+      "page_id": "f011-L",
+      "start": 5,
+      "end": 20,
+      "surface": "⟦g-f011L-c09-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鉼",
+        "鋼"
+      ],
+      "reason": "低解析未解；與f010-L同類字形",
+      "status": "reading-unresolved",
+      "source_face_sha256": "7cf17b59367c341ecfa8cfe6eaa6aebe407051d3d55105eaf3ba1aa45a43b692",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        74,
+        247,
+        108,
+        767
+      ]
     },
     {
-      "id": "f013-R-edge-print-unknown-extent",
+      "id": "f013-R-c03-note-gaiji-3",
+      "stable_glyph_id": "g-f013R-n01-last",
+      "unit_id": "f013-R-c03-note",
       "page_id": "f013-R",
-      "unit_id": "f013-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c9920550-a4a9-4074-9e51-e4172925b419.json",
+      "start": 3,
+      "end": 21,
+      "surface": "⟦g-f013R-n01-last⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "墟",
+        "壚"
+      ],
+      "reason": "小字低解析未解",
+      "status": "reading-unresolved",
       "source_face_sha256": "c11f7735d3bda7b34b859d4466421e281622dba8f88e678e43862b78acc0f19d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        345,
+        635,
+        379,
+        757
+      ]
     },
     {
-      "id": "f014-R-edge-print-unknown-extent",
+      "id": "f014-R-c02-gaiji-0",
+      "stable_glyph_id": "g-f014R-c02-a",
+      "unit_id": "f014-R-c02",
       "page_id": "f014-R",
-      "unit_id": "f014-R-edge-print",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4a370fdd-7909-4db2-9c20-7d72a53c2b6c.json",
+      "end": 15,
+      "surface": "⟦g-f014R-c02-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "噠",
+        "膿"
+      ],
+      "reason": "低解析未解",
+      "status": "reading-unresolved",
       "source_face_sha256": "2724c7ada5baa3c46323ed8a10b96bb3c3e30d7063092809d5cd0ce60d9d81d5",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        344,
+        247,
+        378,
+        767
+      ]
     },
     {
-      "id": "f015-R-edge-print-unknown-extent",
-      "page_id": "f015-R",
-      "unit_id": "f015-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5b38122a-5a76-49fc-ae9e-a7e1d7167fe4.json",
-      "source_face_sha256": "7639c7386f05481b31a4f9c43f2894d3664bd7743e1d14ce895ad153841d131b",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f016-R-edge-print-unknown-extent",
-      "page_id": "f016-R",
-      "unit_id": "f016-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4bf172c2-ceb0-49cf-9b41-6cf8ac8bbf53.json",
-      "source_face_sha256": "53ef5f03e2fab8d84dbbc5c63c40c5c6a10473c3c34db90e594704bbdcac7435",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f017-R-edge-print-unknown-extent",
-      "page_id": "f017-R",
-      "unit_id": "f017-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1b690a7-cf35-43eb-b50e-78a176c66e6f.json",
-      "source_face_sha256": "a9eafd582ec0e39a3b1034180b1cff474c922aa81cde95812136f1c71edfd0ed",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f018-R-edge-print-unknown-extent",
-      "page_id": "f018-R",
-      "unit_id": "f018-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d2e7fa3c-ced8-464e-813e-de72ea3561a7.json",
-      "source_face_sha256": "ea254950a6e43f860ecc67575a384521622a9e315863348923341cb354624610",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f019-R-edge-print-unknown-extent",
-      "page_id": "f019-R",
-      "unit_id": "f019-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c23823cb-d45b-458a-964d-caa7c5fc76e5.json",
-      "source_face_sha256": "d382da39190926287fcf86464801eb8d0ddb08208819a79c6320b0d78f6bedad",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f020-R-edge-print-unknown-extent",
-      "page_id": "f020-R",
-      "unit_id": "f020-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/126713c0-8a81-4182-af8e-2503a826ccdd.json",
-      "source_face_sha256": "f5be8363f09664ecabb15583d386c4e769524ef9fe65981e4f4c674c9052c324",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f021-R-edge-print-unknown-extent",
-      "page_id": "f021-R",
-      "unit_id": "f021-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e26ad2f4-5f61-4e1c-8d33-156f1048e1e4.json",
-      "source_face_sha256": "b86d82fd1a6cb6f7a8471791646eeda704af6802680c2bd1f2aa0e8a876f5874",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f022-R-edge-print-unknown-extent",
-      "page_id": "f022-R",
-      "unit_id": "f022-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/90a8dea8-2e78-4389-8314-05e6ec3b9d0a.json",
-      "source_face_sha256": "f72a4d594c4a273aba3ac6d1fd741483eb0cb0cbd10a10507814b4c5501f6bcf",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f023-R-c10-square-8",
-      "page_id": "f023-R",
-      "unit_id": "f023-R-c10",
-      "start": 8,
-      "end": 9,
-      "representation": "□",
-      "kind": "selected-square-placeholder",
+      "id": "f014-R-c05-gaiji-7",
+      "stable_glyph_id": "g-f014R-c05-a",
+      "unit_id": "f014-R-c05",
+      "page_id": "f014-R",
+      "start": 7,
+      "end": 22,
+      "surface": "⟦g-f014R-c05-a⟧",
       "extent": 1,
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/654857df-88c9-4907-8a13-1429bae80f75.json",
-      "source_face_sha256": "48dab3225ea2fe2f53d32d761d6ef699721f618034d2c2684828fc4e4897a1d2",
+      "preferred": null,
+      "candidates": [
+        "噠"
+      ],
+      "reason": "低解析未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "2724c7ada5baa3c46323ed8a10b96bb3c3e30d7063092809d5cd0ce60d9d81d5",
+      "bbox": [
+        236,
+        247,
+        270,
+        767
+      ]
+    },
+    {
+      "id": "f014-R-c10-gaiji-21",
+      "stable_glyph_id": "g-f014R-c10-water",
+      "unit_id": "f014-R-c10",
+      "page_id": "f014-R",
+      "start": 21,
+      "end": 40,
+      "surface": "⟦g-f014R-c10-water⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "螆"
+      ],
+      "reason": "此字筆畫細密，留形不依現代名詞替換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "2724c7ada5baa3c46323ed8a10b96bb3c3e30d7063092809d5cd0ce60d9d81d5",
       "bbox": [
         56,
         247,
         90,
         767
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+      ]
     },
     {
-      "id": "f023-R-edge-print-unknown-extent",
-      "page_id": "f023-R",
-      "unit_id": "f023-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/654857df-88c9-4907-8a13-1429bae80f75.json",
-      "source_face_sha256": "48dab3225ea2fe2f53d32d761d6ef699721f618034d2c2684828fc4e4897a1d2",
+      "id": "f014-L-c01-gaiji-19",
+      "stable_glyph_id": "g-f014L-c01-water",
+      "unit_id": "f014-L-c01",
+      "page_id": "f014-L",
+      "start": 19,
+      "end": 38,
+      "surface": "⟦g-f014L-c01-water⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "螆"
+      ],
+      "reason": "低解析細密字形；與f014-R末欄相同類字形",
+      "status": "reading-unresolved",
+      "source_face_sha256": "4de5986cb1eb8ca816a6682cb6750b4259fcd9a3f47450abdffa25032767a704",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        362,
+        247,
+        396,
+        767
+      ]
     },
     {
-      "id": "f024-R-edge-print-unknown-extent",
-      "page_id": "f024-R",
-      "unit_id": "f024-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/867c6268-9d02-4555-a1f9-b440d365ed1c.json",
-      "source_face_sha256": "ea22fa33ae15b01b36847974d661f6dbc7bfda786442613337c3329c21690b25",
+      "id": "f014-L-c07-gaiji-17",
+      "stable_glyph_id": "g-f014L-c07-drug",
+      "unit_id": "f014-L-c07",
+      "page_id": "f014-L",
+      "start": 17,
+      "end": 35,
+      "surface": "⟦g-f014L-c07-drug⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鉅",
+        "鋅"
+      ],
+      "reason": "可見形狀未解，不用現代藥名推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "4de5986cb1eb8ca816a6682cb6750b4259fcd9a3f47450abdffa25032767a704",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        146,
+        247,
+        180,
+        767
+      ]
     },
     {
-      "id": "f025-R-edge-print-unknown-extent",
-      "page_id": "f025-R",
-      "unit_id": "f025-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e865405b-fecf-4dd3-bde8-a377c243171a.json",
-      "source_face_sha256": "b30cd74074106fabd578b163a5388a287393f73a85688caeb10e2d232fec8c90",
+      "id": "f016-L-c07-gaiji-7",
+      "stable_glyph_id": "g-f016L-c07-a",
+      "unit_id": "f016-L-c07",
+      "page_id": "f016-L",
+      "start": 7,
+      "end": 22,
+      "surface": "⟦g-f016L-c07-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "細筆未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f0d96a1e76635627b161a0eaebe6e3994c0ab173d575708e793efbb2d13264eb",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        146,
+        247,
+        180,
+        767
+      ]
     },
     {
-      "id": "f026-R-edge-print-unknown-extent",
-      "page_id": "f026-R",
-      "unit_id": "f026-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/39b3d33e-66a0-40eb-ac6d-f3938f83a870.json",
-      "source_face_sha256": "2af051c702646bd8cc2bde85014d22ec178120f150935f382e22385228462831",
+      "id": "f017-L-c03-note2-gaiji-3",
+      "stable_glyph_id": "g-f017L-n03-a",
+      "unit_id": "f017-L-c03-note2",
+      "page_id": "f017-L",
+      "start": 3,
+      "end": 18,
+      "surface": "⟦g-f017L-n03-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "倚"
+      ],
+      "reason": "小字未能定字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "5ba164e87c444f4671e43121910b78a483695c3aefce5817151f8cbd4b5e4a84",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        309,
+        606,
+        346,
+        761
+      ]
     },
     {
-      "id": "f027-R-edge-print-unknown-extent",
+      "id": "f018-R-c06-gaiji-25",
+      "stable_glyph_id": "g-f018R-c06-water",
+      "unit_id": "f018-R-c06",
+      "page_id": "f018-R",
+      "start": 25,
+      "end": 44,
+      "surface": "⟦g-f018R-c06-water⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "螆"
+      ],
+      "reason": "字形細密不定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "ea254950a6e43f860ecc67575a384521622a9e315863348923341cb354624610",
+      "bbox": [
+        200,
+        247,
+        234,
+        767
+      ]
+    },
+    {
+      "id": "f018-R-c07-gaiji-24",
+      "stable_glyph_id": "g-f018R-c07-water",
+      "unit_id": "f018-R-c07",
+      "page_id": "f018-R",
+      "start": 24,
+      "end": 43,
+      "surface": "⟦g-f018R-c07-water⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "螆"
+      ],
+      "reason": "字形細密不定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "ea254950a6e43f860ecc67575a384521622a9e315863348923341cb354624610",
+      "bbox": [
+        164,
+        247,
+        198,
+        767
+      ]
+    },
+    {
+      "id": "f018-L-c07-gaiji-8",
+      "stable_glyph_id": "g-f018L-c07-a",
+      "unit_id": "f018-L-c07",
+      "page_id": "f018-L",
+      "start": 8,
+      "end": 23,
+      "surface": "⟦g-f018L-c07-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋰",
+        "鋥"
+      ],
+      "reason": "藥名只依形狀，未定字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "81b75a52c680bb2f614e580a6a229d165727bc543144a757640ddad7dd6ce1bb",
+      "bbox": [
+        146,
+        247,
+        180,
+        767
+      ]
+    },
+    {
+      "id": "f020-R-c06-gaiji-18",
+      "stable_glyph_id": "g-f020R-c06-a",
+      "unit_id": "f020-R-c06",
+      "page_id": "f020-R",
+      "start": 18,
+      "end": 33,
+      "surface": "⟦g-f020R-c06-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋰",
+        "鋥"
+      ],
+      "reason": "低解析未定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f5be8363f09664ecabb15583d386c4e769524ef9fe65981e4f4c674c9052c324",
+      "bbox": [
+        200,
+        247,
+        234,
+        767
+      ]
+    },
+    {
+      "id": "f020-R-c07-gaiji-15",
+      "stable_glyph_id": "g-f020R-c07-a",
+      "unit_id": "f020-R-c07",
+      "page_id": "f020-R",
+      "start": 15,
+      "end": 30,
+      "surface": "⟦g-f020R-c07-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鈉",
+        "鋼"
+      ],
+      "reason": "低解析未定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f5be8363f09664ecabb15583d386c4e769524ef9fe65981e4f4c674c9052c324",
+      "bbox": [
+        164,
+        247,
+        198,
+        767
+      ]
+    },
+    {
+      "id": "f022-R-c07-gaiji-6",
+      "stable_glyph_id": "g-f022R-c07-a",
+      "unit_id": "f022-R-c07",
+      "page_id": "f022-R",
+      "start": 6,
+      "end": 21,
+      "surface": "⟦g-f022R-c07-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "麻",
+        "痳"
+      ],
+      "reason": "低解析未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f72a4d594c4a273aba3ac6d1fd741483eb0cb0cbd10a10507814b4c5501f6bcf",
+      "bbox": [
+        164,
+        247,
+        198,
+        767
+      ]
+    },
+    {
+      "id": "f022-L-c02-gaiji-17",
+      "stable_glyph_id": "g-f022L-c02-bone",
+      "unit_id": "f022-L-c02",
+      "page_id": "f022-L",
+      "start": 17,
+      "end": 35,
+      "surface": "⟦g-f022L-c02-bone⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "較"
+      ],
+      "reason": "低解析未定，未依現代身體部位推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a72f49a49f17fc6729573f85dbf9de5ba4f507f7f940bd34192a4fe94ba9b940",
+      "bbox": [
+        326,
+        247,
+        360,
+        767
+      ]
+    },
+    {
+      "id": "f023-L-c04-gaiji-3",
+      "stable_glyph_id": "g-f023L-c04-drug",
+      "unit_id": "f023-L-c04",
+      "page_id": "f023-L",
+      "start": 3,
+      "end": 21,
+      "surface": "⟦g-f023L-c04-drug⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鉅",
+        "鋅"
+      ],
+      "reason": "低解析細筆未定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f60c648b38845a7021f26b374f46d12d00f4dd615839d793fe9f7d2de79e510d",
+      "bbox": [
+        254,
+        247,
+        288,
+        767
+      ]
+    },
+    {
+      "id": "f023-L-c08-gaiji-20",
+      "stable_glyph_id": "g-f023L-c08-drug",
+      "unit_id": "f023-L-c08",
+      "page_id": "f023-L",
+      "start": 20,
+      "end": 38,
+      "surface": "⟦g-f023L-c08-drug⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "低解析細筆未定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f60c648b38845a7021f26b374f46d12d00f4dd615839d793fe9f7d2de79e510d",
+      "bbox": [
+        110,
+        247,
+        144,
+        767
+      ]
+    },
+    {
+      "id": "f026-L-c03-gaiji-26",
+      "stable_glyph_id": "g-f026L-c03-a",
+      "unit_id": "f026-L-c03",
+      "page_id": "f026-L",
+      "start": 26,
+      "end": 41,
+      "surface": "⟦g-f026L-c03-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "不依現代藥名推換；原像素細筆未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "682c5a4f85e567d9a22f42d35716ae12640f5097a030beba030686ea6f76f92a",
+      "bbox": [
+        290,
+        247,
+        324,
+        767
+      ]
+    },
+    {
+      "id": "f027-R-c03-gaiji-5",
+      "stable_glyph_id": "g-f027R-c03-a",
+      "unit_id": "f027-R-c03",
       "page_id": "f027-R",
-      "unit_id": "f027-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b132bb56-0605-4863-a4a6-dd49af461d77.json",
+      "start": 5,
+      "end": 20,
+      "surface": "⟦g-f027R-c03-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "不依現代藥名推換；原像素細筆未解",
+      "status": "reading-unresolved",
       "source_face_sha256": "741fb661e400bfd83e0044220f222db6dcbff7bf628fd07ffddef8811f3aa294",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        308,
+        247,
+        342,
+        767
+      ]
     },
     {
-      "id": "f028-R-edge-print-unknown-extent",
-      "page_id": "f028-R",
-      "unit_id": "f028-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/21764c32-c6b3-4d0b-9c1b-ee6e11ecd09f.json",
-      "source_face_sha256": "9d259d1eda514dc72350365da31230a1432d7016570533649e6d1e3b365248fd",
+      "id": "f027-R-c05-gaiji-20",
+      "stable_glyph_id": "g-f027R-c05-a",
+      "unit_id": "f027-R-c05",
+      "page_id": "f027-R",
+      "start": 20,
+      "end": 35,
+      "surface": "⟦g-f027R-c05-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "不依現代藥名推換；原像素細筆未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "741fb661e400bfd83e0044220f222db6dcbff7bf628fd07ffddef8811f3aa294",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        236,
+        247,
+        270,
+        767
+      ]
     },
     {
-      "id": "f029-R-edge-print-unknown-extent",
+      "id": "f027-R-c07-gaiji-11",
+      "stable_glyph_id": "g-f027R-c07-a",
+      "unit_id": "f027-R-c07",
+      "page_id": "f027-R",
+      "start": 11,
+      "end": 26,
+      "surface": "⟦g-f027R-c07-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "不依現代藥名推換；原像素細筆未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "741fb661e400bfd83e0044220f222db6dcbff7bf628fd07ffddef8811f3aa294",
+      "bbox": [
+        164,
+        247,
+        198,
+        767
+      ]
+    },
+    {
+      "id": "f027-L-c10-gaiji-9",
+      "stable_glyph_id": "g-f027L-c10-a",
+      "unit_id": "f027-L-c10",
+      "page_id": "f027-L",
+      "start": 9,
+      "end": 24,
+      "surface": "⟦g-f027L-c10-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "不依現代藥名推換；原像素細筆未解",
+      "status": "reading-unresolved",
+      "source_face_sha256": "41e13a37a679b5789e130700f8fd5120c93c455c5c6264e87349fbc2a768114e",
+      "bbox": [
+        38,
+        247,
+        72,
+        767
+      ]
+    },
+    {
+      "id": "f029-R-c10-gaiji-16",
+      "stable_glyph_id": "g-f029R-c10-a",
+      "unit_id": "f029-R-c10",
       "page_id": "f029-R",
-      "unit_id": "f029-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/7b68aa97-94fa-41a6-8725-fe63f8678b12.json",
+      "start": 16,
+      "end": 31,
+      "surface": "⟦g-f029R-c10-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "5bdd795df25f15c97656d44f1e1d471f58b67b2a8d60e35367bbf9bf5084a43d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        56,
+        247,
+        90,
+        767
+      ]
     },
     {
-      "id": "f030-R-edge-print-unknown-extent",
+      "id": "f029-L-c06-gaiji-19",
+      "stable_glyph_id": "g-f029L-c06-a",
+      "unit_id": "f029-L-c06",
+      "page_id": "f029-L",
+      "start": 19,
+      "end": 34,
+      "surface": "⟦g-f029L-c06-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "284b9ff73660eacf713c1b6c94c61be25370c43936c671f13b99615b93f962d4",
+      "bbox": [
+        182,
+        247,
+        216,
+        767
+      ]
+    },
+    {
+      "id": "f029-L-c07-gaiji-20",
+      "stable_glyph_id": "g-f029L-c07-a",
+      "unit_id": "f029-L-c07",
+      "page_id": "f029-L",
+      "start": 20,
+      "end": 35,
+      "surface": "⟦g-f029L-c07-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "284b9ff73660eacf713c1b6c94c61be25370c43936c671f13b99615b93f962d4",
+      "bbox": [
+        146,
+        247,
+        180,
+        767
+      ]
+    },
+    {
+      "id": "f030-R-c02-gaiji-10",
+      "stable_glyph_id": "g-f030R-c02-a",
+      "unit_id": "f030-R-c02",
       "page_id": "f030-R",
-      "unit_id": "f030-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2ee64a71-7b12-4349-b1d3-8d1eae34e333.json",
+      "start": 10,
+      "end": 25,
+      "surface": "⟦g-f030R-c02-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "穀",
+        "粟"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "4c6c44f5615faadf1ea8b46cfa325631dca6fe48d76503010eece1f05af8c123",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        344,
+        247,
+        378,
+        767
+      ]
     },
     {
-      "id": "f031-R-edge-print-unknown-extent",
+      "id": "f031-R-c10-gaiji-11",
+      "stable_glyph_id": "g-f031R-c10-a",
+      "unit_id": "f031-R-c10",
       "page_id": "f031-R",
-      "unit_id": "f031-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6107b422-4233-4e79-9c3b-fee513eda63a.json",
+      "start": 11,
+      "end": 26,
+      "surface": "⟦g-f031R-c10-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "467dc972d929eb397c7b466323809fe2d849e7567b9b8df2d6f4ca9e08dd664f",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        56,
+        247,
+        90,
+        767
+      ]
     },
     {
-      "id": "f032-R-edge-print-unknown-extent",
-      "page_id": "f032-R",
-      "unit_id": "f032-R-edge-print",
+      "id": "f031-L-c01-gaiji-0",
+      "stable_glyph_id": "g-f031L-c01-a",
+      "unit_id": "f031-L-c01",
+      "page_id": "f031-L",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/fc5aa67d-f0a3-4620-b5e7-34214cf21213.json",
+      "end": 15,
+      "surface": "⟦g-f031L-c01-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鈑"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "71213a69ff1f970c59bb354fd6102fb59da1f7fea97aafa144c1bdaa5384f867",
+      "bbox": [
+        362,
+        247,
+        396,
+        767
+      ]
+    },
+    {
+      "id": "f031-L-c01-gaiji-19",
+      "stable_glyph_id": "g-f031L-c01-b",
+      "unit_id": "f031-L-c01",
+      "page_id": "f031-L",
+      "start": 19,
+      "end": 34,
+      "surface": "⟦g-f031L-c01-b⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鈑"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "71213a69ff1f970c59bb354fd6102fb59da1f7fea97aafa144c1bdaa5384f867",
+      "bbox": [
+        362,
+        247,
+        396,
+        767
+      ]
+    },
+    {
+      "id": "f031-L-c02-gaiji-21",
+      "stable_glyph_id": "g-f031L-c02-a",
+      "unit_id": "f031-L-c02",
+      "page_id": "f031-L",
+      "start": 21,
+      "end": 36,
+      "surface": "⟦g-f031L-c02-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鈑"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "71213a69ff1f970c59bb354fd6102fb59da1f7fea97aafa144c1bdaa5384f867",
+      "bbox": [
+        326,
+        247,
+        360,
+        767
+      ]
+    },
+    {
+      "id": "f032-R-c05-gaiji-4",
+      "stable_glyph_id": "g-f032R-c05-a",
+      "unit_id": "f032-R-c05",
+      "page_id": "f032-R",
+      "start": 4,
+      "end": 19,
+      "surface": "⟦g-f032R-c05-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "bbf1c7b0aca0bfc6d933d232148d242d5f521645f2dd018c946cd51bbef13703",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        236,
+        247,
+        270,
+        767
+      ]
     },
     {
-      "id": "f033-R-edge-print-unknown-extent",
-      "page_id": "f033-R",
-      "unit_id": "f033-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c59121f-920e-4aa6-b40c-0f00dac83efd.json",
-      "source_face_sha256": "ffa634c07b7615426b02f1b6d7f6e7ce4914599642573cacdbe8f0f5f37ddd3e",
+      "id": "f032-R-c10-gaiji-1",
+      "stable_glyph_id": "g-f032R-c10-a",
+      "unit_id": "f032-R-c10",
+      "page_id": "f032-R",
+      "start": 1,
+      "end": 16,
+      "surface": "⟦g-f032R-c10-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "菴",
+        "庵"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "bbf1c7b0aca0bfc6d933d232148d242d5f521645f2dd018c946cd51bbef13703",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        56,
+        247,
+        90,
+        767
+      ]
     },
     {
-      "id": "f034-R-edge-print-unknown-extent",
-      "page_id": "f034-R",
-      "unit_id": "f034-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/95327660-2d4f-4459-8e16-ceb8b3ecb59a.json",
-      "source_face_sha256": "8c4aa584291a4951eb9024bfd103acb298c061feeba3fa417335da05520d7281",
+      "id": "f033-L-c01-gaiji-14",
+      "stable_glyph_id": "g-f033L-metal",
+      "unit_id": "f033-L-c01",
+      "page_id": "f033-L",
+      "start": 14,
+      "end": 29,
+      "surface": "⟦g-f033L-metal⟧",
+      "extent": 1,
+      "preferred": "鈉",
+      "candidates": [
+        "鈉",
+        "鋼"
+      ],
+      "reason": "原生窄區已回看；右內細筆仍不宜硬定，撤回低清鋼字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "4c50d92a1a4cd0c166ad3873173ccce6a9ef30363d65628014be5e4360abe09d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        362,
+        247,
+        396,
+        767
+      ]
     },
     {
-      "id": "f035-R-edge-print-unknown-extent",
+      "id": "f034-L-c10-gaiji-7",
+      "stable_glyph_id": "g-wine-3",
+      "unit_id": "f034-L-c10",
+      "page_id": "f034-L",
+      "start": 7,
+      "end": 17,
+      "surface": "⟦g-wine-3⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "皶",
+        "螆"
+      ],
+      "reason": "同可見字形穩定代號；未依現代診斷名補字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "d9a749b5b3495e262518692f4e3d79d14ca448f028f83dfbd811590e88bb0ee3",
+      "bbox": [
+        38,
+        247,
+        72,
+        767
+      ]
+    },
+    {
+      "id": "f035-R-c04-gaiji-7",
+      "stable_glyph_id": "g-wine-3",
+      "unit_id": "f035-R-c04",
       "page_id": "f035-R",
-      "unit_id": "f035-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8924cc80-9a4d-47c1-a8ca-5224b6df8b8e.json",
+      "start": 7,
+      "end": 17,
+      "surface": "⟦g-wine-3⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "皶",
+        "螆"
+      ],
+      "reason": "同可見字形穩定代號；未依現代診斷名補字",
+      "status": "reading-unresolved",
       "source_face_sha256": "29a7279f20f1c1a3374fa26034bbc2728e53da0ea9c76444b9e2807fcf01443e",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        272,
+        247,
+        306,
+        767
+      ]
     },
     {
-      "id": "f036-R-edge-print-unknown-extent",
+      "id": "f035-R-c09-gaiji-7",
+      "stable_glyph_id": "g-wine-3",
+      "unit_id": "f035-R-c09",
+      "page_id": "f035-R",
+      "start": 7,
+      "end": 17,
+      "surface": "⟦g-wine-3⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "皶",
+        "螆"
+      ],
+      "reason": "同可見字形穩定代號；未依現代診斷名補字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "29a7279f20f1c1a3374fa26034bbc2728e53da0ea9c76444b9e2807fcf01443e",
+      "bbox": [
+        92,
+        247,
+        126,
+        767
+      ]
+    },
+    {
+      "id": "f035-L-c05-gaiji-10",
+      "stable_glyph_id": "g-wine-3",
+      "unit_id": "f035-L-c05",
+      "page_id": "f035-L",
+      "start": 10,
+      "end": 20,
+      "surface": "⟦g-wine-3⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "皶",
+        "螆"
+      ],
+      "reason": "同可見字形穩定代號；未依現代診斷名補字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "d26ba018c1bab3929053eecd3c8ee1e6c68d796ca5dcd3548af83c7bda474e85",
+      "bbox": [
+        218,
+        247,
+        252,
+        767
+      ]
+    },
+    {
+      "id": "f035-L-c08-gaiji-16",
+      "stable_glyph_id": "g-wine-3",
+      "unit_id": "f035-L-c08",
+      "page_id": "f035-L",
+      "start": 16,
+      "end": 26,
+      "surface": "⟦g-wine-3⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "皶",
+        "螆"
+      ],
+      "reason": "同可見字形穩定代號；未依現代診斷名補字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "d26ba018c1bab3929053eecd3c8ee1e6c68d796ca5dcd3548af83c7bda474e85",
+      "bbox": [
+        110,
+        247,
+        144,
+        767
+      ]
+    },
+    {
+      "id": "f036-R-c02-gaiji-7",
+      "stable_glyph_id": "g-f036R-x01",
+      "unit_id": "f036-R-c02",
       "page_id": "f036-R",
-      "unit_id": "f036-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/27c69eed-2f40-4ad4-a7e1-40b34052a512.json",
+      "start": 7,
+      "end": 20,
+      "surface": "⟦g-f036R-x01⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "雀",
+        "苔"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "a4e0226d6b3705e47a45f46e71624a3e58a8379cbdbccd014f7c75af256ca11e",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        344,
+        247,
+        378,
+        767
+      ]
     },
     {
-      "id": "f037-R-edge-print-unknown-extent",
+      "id": "f036-R-c02-gaiji-20",
+      "stable_glyph_id": "g-f036R-x02",
+      "unit_id": "f036-R-c02",
+      "page_id": "f036-R",
+      "start": 20,
+      "end": 33,
+      "surface": "⟦g-f036R-x02⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鹼"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a4e0226d6b3705e47a45f46e71624a3e58a8379cbdbccd014f7c75af256ca11e",
+      "bbox": [
+        344,
+        247,
+        378,
+        767
+      ]
+    },
+    {
+      "id": "f036-R-c04-gaiji-5",
+      "stable_glyph_id": "g-f036R-x01",
+      "unit_id": "f036-R-c04",
+      "page_id": "f036-R",
+      "start": 5,
+      "end": 18,
+      "surface": "⟦g-f036R-x01⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "雀",
+        "苔"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a4e0226d6b3705e47a45f46e71624a3e58a8379cbdbccd014f7c75af256ca11e",
+      "bbox": [
+        272,
+        247,
+        306,
+        767
+      ]
+    },
+    {
+      "id": "f036-R-c04-gaiji-18",
+      "stable_glyph_id": "g-f036R-x02",
+      "unit_id": "f036-R-c04",
+      "page_id": "f036-R",
+      "start": 18,
+      "end": 31,
+      "surface": "⟦g-f036R-x02⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鹼"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a4e0226d6b3705e47a45f46e71624a3e58a8379cbdbccd014f7c75af256ca11e",
+      "bbox": [
+        272,
+        247,
+        306,
+        767
+      ]
+    },
+    {
+      "id": "f037-R-c02-gaiji-8",
+      "stable_glyph_id": "g-f037R-c02-a",
+      "unit_id": "f037-R-c02",
       "page_id": "f037-R",
-      "unit_id": "f037-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/061c4cfc-f2b2-49f1-be36-c3c3eb058f02.json",
+      "start": 8,
+      "end": 23,
+      "surface": "⟦g-f037R-c02-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "噓",
+        "嚧"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "d640114824a59cff7db1ee2cecd61c4d1d7bb4941dd9ec34664498511fde11ca",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        344,
+        247,
+        378,
+        767
+      ]
     },
     {
-      "id": "f038-R-edge-print-unknown-extent",
+      "id": "f038-R-c02-gaiji-25",
+      "stable_glyph_id": "g-f038R-c04-a",
+      "unit_id": "f038-R-c02",
       "page_id": "f038-R",
-      "unit_id": "f038-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3bf796f1-8b86-4f1c-a731-7d0f1b2e7d40.json",
+      "start": 25,
+      "end": 40,
+      "surface": "⟦g-f038R-c04-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "202d1017b928479304967840a925799266c8bf7e837ee5fc2baa8d6cae50a9ca",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        272,
+        247,
+        306,
+        767
+      ]
     },
     {
-      "id": "f039-R-edge-print-unknown-extent",
-      "page_id": "f039-R",
-      "unit_id": "f039-R-edge-print",
+      "id": "f038-R-added-n04-gaiji-0",
+      "stable_glyph_id": "g-f038R-jar",
+      "unit_id": "f038-R-added-n04",
+      "page_id": "f038-R",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0c0608cf-d77b-42c6-a99a-ef0a6b2799e2.json",
+      "end": 13,
+      "surface": "⟦g-f038R-jar⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鐏",
+        "樽",
+        "罇"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "202d1017b928479304967840a925799266c8bf7e837ee5fc2baa8d6cae50a9ca",
+      "bbox": [
+        291,
+        248,
+        310,
+        748
+      ]
+    },
+    {
+      "id": "f038-R-added-n04-gaiji-15",
+      "stable_glyph_id": "g-f038R-jar",
+      "unit_id": "f038-R-added-n04",
+      "page_id": "f038-R",
+      "start": 15,
+      "end": 28,
+      "surface": "⟦g-f038R-jar⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鐏",
+        "樽",
+        "罇"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "202d1017b928479304967840a925799266c8bf7e837ee5fc2baa8d6cae50a9ca",
+      "bbox": [
+        291,
+        248,
+        310,
+        748
+      ]
+    },
+    {
+      "id": "f038-L-c05-gaiji-11",
+      "stable_glyph_id": "g-f038L-half",
+      "unit_id": "f038-L-c05",
+      "page_id": "f038-L",
+      "start": 11,
+      "end": 25,
+      "surface": "⟦g-f038L-half⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "半",
+        "牛"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a751d939dac173822395a0b07550cda4b4f7a027af88eaa7f968e5d5f05b51a9",
+      "bbox": [
+        218,
+        247,
+        252,
+        767
+      ]
+    },
+    {
+      "id": "f038-L-c05-gaiji-31",
+      "stable_glyph_id": "g-f038L-half",
+      "unit_id": "f038-L-c05",
+      "page_id": "f038-L",
+      "start": 31,
+      "end": 45,
+      "surface": "⟦g-f038L-half⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "半",
+        "牛"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a751d939dac173822395a0b07550cda4b4f7a027af88eaa7f968e5d5f05b51a9",
+      "bbox": [
+        218,
+        247,
+        252,
+        767
+      ]
+    },
+    {
+      "id": "f038-L-c10-gaiji-18",
+      "stable_glyph_id": "g-f038L-c10-a",
+      "unit_id": "f038-L-c10",
+      "page_id": "f038-L",
+      "start": 18,
+      "end": 33,
+      "surface": "⟦g-f038L-c10-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a751d939dac173822395a0b07550cda4b4f7a027af88eaa7f968e5d5f05b51a9",
+      "bbox": [
+        38,
+        247,
+        72,
+        767
+      ]
+    },
+    {
+      "id": "f039-R-c02-gaiji-3",
+      "stable_glyph_id": "g-f039R-c02-a",
+      "unit_id": "f039-R-c02",
+      "page_id": "f039-R",
+      "start": 3,
+      "end": 18,
+      "surface": "⟦g-f039R-c02-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鈑"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "0813b13451c6917a5f794f384a38f133306f697b3d3743345f87999b0d672121",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        344,
+        247,
+        378,
+        767
+      ]
     },
     {
-      "id": "f040-R-edge-print-unknown-extent",
-      "page_id": "f040-R",
-      "unit_id": "f040-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/43ade626-0b43-4ddc-a37a-e8be098fb9c4.json",
-      "source_face_sha256": "dd6fc69ae70f0b08adfebf976e78a0a865c0c21ce4c815f6dad4f7dac8c30dfc",
+      "id": "f042-L-c02-gaiji-13",
+      "stable_glyph_id": "g-f042L-c02-a",
+      "unit_id": "f042-L-c02",
+      "page_id": "f042-L",
+      "start": 13,
+      "end": 28,
+      "surface": "⟦g-f042L-c02-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "殆",
+        "冶",
+        "治"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "c7945dc6594fe47adb03c4185ffead26d05dd0754cf7b313f1151a83e42b358d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        326,
+        247,
+        360,
+        767
+      ]
     },
     {
-      "id": "f041-R-edge-print-unknown-extent",
-      "page_id": "f041-R",
-      "unit_id": "f041-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6a593265-a16e-4b17-ac9c-0dda63867185.json",
-      "source_face_sha256": "b15af3f090a0e85f5c46350f90b8cb7745a3be86c4890a4c3bec7b92380015f7",
+      "id": "f042-L-c09-gaiji-5",
+      "stable_glyph_id": "g-f042L-c09-b",
+      "unit_id": "f042-L-c09",
+      "page_id": "f042-L",
+      "start": 5,
+      "end": 20,
+      "surface": "⟦g-f042L-c09-b⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "礬",
+        "磺"
+      ],
+      "reason": "石旁密筆不足，初錄硫及獨立磺均不確定",
+      "status": "reading-unresolved",
+      "source_face_sha256": "c7945dc6594fe47adb03c4185ffead26d05dd0754cf7b313f1151a83e42b358d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        74,
+        247,
+        108,
+        767
+      ]
     },
     {
-      "id": "f042-R-edge-print-unknown-extent",
-      "page_id": "f042-R",
-      "unit_id": "f042-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f7238afa-c133-4702-abf5-495350209764.json",
-      "source_face_sha256": "7a5476de758bd170635941dbfa4fd2c8ab9e0a70a7ec82c90e8e6304b64adb66",
+      "id": "f042-L-c09-gaiji-24",
+      "stable_glyph_id": "g-f042L-c09-a",
+      "unit_id": "f042-L-c09",
+      "page_id": "f042-L",
+      "start": 24,
+      "end": 39,
+      "surface": "⟦g-f042L-c09-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "銅",
+        "鉬"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "c7945dc6594fe47adb03c4185ffead26d05dd0754cf7b313f1151a83e42b358d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        74,
+        247,
+        108,
+        767
+      ]
     },
     {
-      "id": "f043-R-edge-print-unknown-extent",
+      "id": "f043-R-c02-gaiji-23",
+      "stable_glyph_id": "g-f043R-c02-a",
+      "unit_id": "f043-R-c02",
       "page_id": "f043-R",
-      "unit_id": "f043-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ffff825-1c18-477e-abbd-2c0be05c0586.json",
+      "start": 23,
+      "end": 38,
+      "surface": "⟦g-f043R-c02-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "拔",
+        "髮"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "540980fc0cb71811fa5c28545964870038b9b82c08efa45eb5db447023d3f646",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        344,
+        247,
+        378,
+        767
+      ]
     },
     {
-      "id": "f044-R-edge-print-unknown-extent",
+      "id": "f044-R-c08-gaiji-0",
+      "stable_glyph_id": "g-f044R-c08-a",
+      "unit_id": "f044-R-c08",
       "page_id": "f044-R",
-      "unit_id": "f044-R-edge-print",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b91ec29e-8b8a-4437-88ea-968829feae5d.json",
+      "end": 15,
+      "surface": "⟦g-f044R-c08-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "擦",
+        "麻"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "ca19f847c86eb4861fc30cc739787f6199c7b5485530d5e1cc415e05c1b3086c",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        128,
+        247,
+        162,
+        767
+      ]
     },
     {
-      "id": "f045-R-edge-print-unknown-extent",
-      "page_id": "f045-R",
-      "unit_id": "f045-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/167e5493-6538-40cc-b40c-5de3e7e0f811.json",
-      "source_face_sha256": "5fe9d42e7d523b2d1460346f2e245461047bfddca0f72e1d57484900aaa57aa0",
+      "id": "f047-L-c04-gaiji-23",
+      "stable_glyph_id": "g-f047L-c04-metal",
+      "unit_id": "f047-L-c04",
+      "page_id": "f047-L",
+      "start": 23,
+      "end": 42,
+      "surface": "⟦g-f047L-c04-metal⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鎳",
+        "鏐"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "411b9225748c69dbcfd05a6521eb203a376820015d7e2711602ebb39df757eee",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        254,
+        247,
+        288,
+        767
+      ]
     },
     {
-      "id": "f046-R-edge-print-unknown-extent",
-      "page_id": "f046-R",
-      "unit_id": "f046-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/29e39fb0-8565-4697-8603-e5e03d12aa9b.json",
-      "source_face_sha256": "11e828d4ae6564464632e1ef90ba009b5d5dcb1199d6e987a4d0d445f8af9fca",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f047-R-edge-print-unknown-extent",
-      "page_id": "f047-R",
-      "unit_id": "f047-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8dffaaa1-14c0-4c71-9e07-e52b38bc70d2.json",
-      "source_face_sha256": "98b1e6f1100a28ebe7f283ab502b8799412cc0c808adf40f24f2c9ad12bcd24d",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f048-R-edge-print-unknown-extent",
-      "page_id": "f048-R",
-      "unit_id": "f048-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac6891dc-32a1-4392-87b5-191a0d506dff.json",
-      "source_face_sha256": "1ea0ae19557d254bf1ed461de1d6d8aaf897ae433b86d70881d5b8f4bb54d091",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f049-R-edge-print-unknown-extent",
+      "id": "f049-R-c07-gaiji-8",
+      "stable_glyph_id": "g-kuan-zhui",
+      "unit_id": "f049-R-c07",
       "page_id": "f049-R",
-      "unit_id": "f049-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9be8220f-c01b-4bd9-ae3a-b6bcac8bc886.json",
+      "start": 8,
+      "end": 21,
+      "surface": "⟦g-kuan-zhui⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "欵",
+        "軟"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "73d37c7cbdf445066d9ddd88a5601d4ddae988aa8e0251a9270a9d68551cd81a",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        164,
+        247,
+        198,
+        767
+      ]
     },
     {
-      "id": "f050-R-edge-print-unknown-extent",
+      "id": "f049-L-c03-gaiji-12",
+      "stable_glyph_id": "g-kuan-zhui",
+      "unit_id": "f049-L-c03",
+      "page_id": "f049-L",
+      "start": 12,
+      "end": 25,
+      "surface": "⟦g-kuan-zhui⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "欵",
+        "軟"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f2300e9eb6792af1a88d75d38f4398a6c805607c78e1d15817311a990158101e",
+      "bbox": [
+        290,
+        247,
+        324,
+        767
+      ]
+    },
+    {
+      "id": "f049-L-c04-gaiji-14",
+      "stable_glyph_id": "g-f049L-c03-a",
+      "unit_id": "f049-L-c04",
+      "page_id": "f049-L",
+      "start": 14,
+      "end": 29,
+      "surface": "⟦g-f049L-c03-a⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鐵",
+        "撥"
+      ],
+      "reason": "密筆不清，不以常用藥名補字",
+      "status": "reading-unresolved",
+      "source_face_sha256": "f2300e9eb6792af1a88d75d38f4398a6c805607c78e1d15817311a990158101e",
+      "bbox": [
+        254,
+        247,
+        288,
+        767
+      ]
+    },
+    {
+      "id": "f050-R-c02-gaiji-16",
+      "stable_glyph_id": "g-f050R-c02",
+      "unit_id": "f050-R-c02",
       "page_id": "f050-R",
-      "unit_id": "f050-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6117791b-6c71-40a9-8604-5880feb7be92.json",
+      "start": 16,
+      "end": 29,
+      "surface": "⟦g-f050R-c02⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "於",
+        "次"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "c107e825058227048c0ca8b59b48f32a0a8af5dabc7a26808bb05f4b46690291",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        344,
+        247,
+        378,
+        767
+      ]
     },
     {
-      "id": "f051-R-edge-print-unknown-extent",
-      "page_id": "f051-R",
-      "unit_id": "f051-R-edge-print",
+      "id": "f051-L-c01-gaiji-0",
+      "stable_glyph_id": "g-f051L-c01",
+      "unit_id": "f051-L-c01",
+      "page_id": "f051-L",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5eeca509-3143-46b7-9704-d42adedccd5c.json",
-      "source_face_sha256": "b33db60c72217ee0959fb09c99039b58388f4b22e539dae144284055049725a0",
+      "end": 13,
+      "surface": "⟦g-f051L-c01⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "覺",
+        "昏"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "21e0c8862dec01978f92a639f898e7d6f8a41f7017283e47cfd245f307423726",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        362,
+        247,
+        396,
+        767
+      ]
     },
     {
-      "id": "f052-R-edge-print-unknown-extent",
+      "id": "f052-R-c07-gaiji-18",
+      "stable_glyph_id": "g-f052R-c07",
+      "unit_id": "f052-R-c07",
       "page_id": "f052-R",
-      "unit_id": "f052-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1d5bec8c-d0c6-49c5-bcaa-060326d3107a.json",
+      "start": 18,
+      "end": 31,
+      "surface": "⟦g-f052R-c07⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "寮",
+        "窠"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "0ac438650af314587c2233bed68ebd8d8d2e423e900687c4b3e1f66de750628d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        164,
+        247,
+        198,
+        767
+      ]
     },
     {
-      "id": "f053-R-edge-print-unknown-extent",
-      "page_id": "f053-R",
-      "unit_id": "f053-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c13f248b-6674-46c4-8bd6-d622f89d1446.json",
-      "source_face_sha256": "dda970a30c34abc6da1e29056579ad2220c500f682845056d116b8d0c0930682",
+      "id": "f052-R-c10-gaiji-5",
+      "stable_glyph_id": "g-f052R-c10",
+      "unit_id": "f052-R-c10",
+      "page_id": "f052-R",
+      "start": 5,
+      "end": 18,
+      "surface": "⟦g-f052R-c10⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "楷",
+        "檸"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "0ac438650af314587c2233bed68ebd8d8d2e423e900687c4b3e1f66de750628d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        56,
+        247,
+        90,
+        767
+      ]
     },
     {
-      "id": "f054-R-edge-print-unknown-extent",
-      "page_id": "f054-R",
-      "unit_id": "f054-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/24032c95-6596-433e-b289-6715b421f767.json",
-      "source_face_sha256": "ef2d5ccc202021d8ff38eda1219b12f2ce2e43058683bb5418bcad9c42018eb0",
+      "id": "f053-L-c08-gaiji-5",
+      "stable_glyph_id": "g-f053L-c08",
+      "unit_id": "f053-L-c08",
+      "page_id": "f053-L",
+      "start": 5,
+      "end": 18,
+      "surface": "⟦g-f053L-c08⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "緹",
+        "鋅"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "ec2a6c75780c629832a411f1dc14f8f8d3451ff792ad61f528437641a8f6788d",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        110,
+        247,
+        144,
+        767
+      ]
     },
     {
-      "id": "f055-R-edge-print-unknown-extent",
+      "id": "f054-L-c01-gaiji-6",
+      "stable_glyph_id": "g-f054L-c01",
+      "unit_id": "f054-L-c01",
+      "page_id": "f054-L",
+      "start": 6,
+      "end": 19,
+      "surface": "⟦g-f054L-c01⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "輿",
+        "銳"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a3803a43c52137fb673aa14bb6e20f191c2d9ea532660eb1a19303204c053120",
+      "bbox": [
+        362,
+        247,
+        396,
+        767
+      ]
+    },
+    {
+      "id": "f054-L-c09-gaiji-7",
+      "stable_glyph_id": "g-mu-nic",
+      "unit_id": "f054-L-c09",
+      "page_id": "f054-L",
+      "start": 7,
+      "end": 17,
+      "surface": "⟦g-mu-nic⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "楷",
+        "橘"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a3803a43c52137fb673aa14bb6e20f191c2d9ea532660eb1a19303204c053120",
+      "bbox": [
+        74,
+        247,
+        108,
+        767
+      ]
+    },
+    {
+      "id": "f054-L-c09-gaiji-23",
+      "stable_glyph_id": "g-metal-yang",
+      "unit_id": "f054-L-c09",
+      "page_id": "f054-L",
+      "start": 23,
+      "end": 37,
+      "surface": "⟦g-metal-yang⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅",
+        "緹"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "a3803a43c52137fb673aa14bb6e20f191c2d9ea532660eb1a19303204c053120",
+      "bbox": [
+        74,
+        247,
+        108,
+        767
+      ]
+    },
+    {
+      "id": "f055-R-c08-gaiji-13",
+      "stable_glyph_id": "g-metal-yang",
+      "unit_id": "f055-R-c08",
       "page_id": "f055-R",
-      "unit_id": "f055-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d1d602c3-de69-437b-8fbe-2c67b01e8103.json",
+      "start": 13,
+      "end": 27,
+      "surface": "⟦g-metal-yang⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅",
+        "緹"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "00eb38658653c5098bd16242f1671e851823b562b9bbf795c3600f2f7a826f25",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        128,
+        247,
+        162,
+        767
+      ]
     },
     {
-      "id": "f056-R-edge-print-unknown-extent",
+      "id": "f055-L-c09-gaiji-12",
+      "stable_glyph_id": "g-metal-yang",
+      "unit_id": "f055-L-c09",
+      "page_id": "f055-L",
+      "start": 12,
+      "end": 26,
+      "surface": "⟦g-metal-yang⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅",
+        "緹"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "469d1ba0adead0ddc33ff37a54ba97d9342af705bd93027f679cb7ce270172c3",
+      "bbox": [
+        74,
+        247,
+        108,
+        767
+      ]
+    },
+    {
+      "id": "f056-R-c01-gaiji-11",
+      "stable_glyph_id": "g-metal-yang",
+      "unit_id": "f056-R-c01",
       "page_id": "f056-R",
-      "unit_id": "f056-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/96557f02-db09-4224-bb2e-6692f9bde49f.json",
+      "start": 11,
+      "end": 25,
+      "surface": "⟦g-metal-yang⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅",
+        "緹"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "5090e3fc9d09ab14b343a88aac06d56e42cd1b042a679b7c4a0effaae1e18251",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        380,
+        247,
+        414,
+        767
+      ]
     },
     {
-      "id": "f057-R-edge-print-unknown-extent",
+      "id": "f056-R-c03-gaiji-7",
+      "stable_glyph_id": "g-metal-yang",
+      "unit_id": "f056-R-c03",
+      "page_id": "f056-R",
+      "start": 7,
+      "end": 21,
+      "surface": "⟦g-metal-yang⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅",
+        "緹"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "5090e3fc9d09ab14b343a88aac06d56e42cd1b042a679b7c4a0effaae1e18251",
+      "bbox": [
+        308,
+        247,
+        342,
+        767
+      ]
+    },
+    {
+      "id": "f056-R-c07-gaiji-6",
+      "stable_glyph_id": "g-metal-yang",
+      "unit_id": "f056-R-c07",
+      "page_id": "f056-R",
+      "start": 6,
+      "end": 20,
+      "surface": "⟦g-metal-yang⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "鋅",
+        "緹"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
+      "source_face_sha256": "5090e3fc9d09ab14b343a88aac06d56e42cd1b042a679b7c4a0effaae1e18251",
+      "bbox": [
+        164,
+        247,
+        198,
+        767
+      ]
+    },
+    {
+      "id": "f057-R-c06-gaiji-6",
+      "stable_glyph_id": "g-f057R-yang",
+      "unit_id": "f057-R-c06",
       "page_id": "f057-R",
-      "unit_id": "f057-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a800ea43-755d-46d9-9c7a-96f45680485e.json",
+      "start": 6,
+      "end": 20,
+      "surface": "⟦g-f057R-yang⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "銻",
+        "砒"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "033555c67b845e8d5c36b2e2b170dac669ba00d8e81892c03d3b9ef23256a3fb",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        200,
+        247,
+        234,
+        767
+      ]
     },
     {
-      "id": "f058-R-running-title-square-0",
-      "page_id": "f058-R",
-      "unit_id": "f058-R-running-title",
-      "start": 0,
-      "end": 1,
-      "representation": "□",
-      "kind": "selected-square-placeholder",
-      "extent": 1,
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f26db0aa-caf6-458c-95fb-22424d964e70.json",
-      "source_face_sha256": "a3d408cb471d3e586525071348c952598c1c6bc17a57a0bc5002ca3cdc5c34e4",
-      "bbox": [
-        1260,
-        720,
-        1328,
-        1018
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f058-R-page-unknown-extent",
-      "page_id": "f058-R",
-      "unit_id": "f058-R-page",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f26db0aa-caf6-458c-95fb-22424d964e70.json",
-      "source_face_sha256": "a3d408cb471d3e586525071348c952598c1c6bc17a57a0bc5002ca3cdc5c34e4",
-      "bbox": [
-        1240,
-        1940,
-        1334,
-        2060
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f058-L-outer-margin-ink-unknown-extent",
-      "page_id": "f058-L",
-      "unit_id": "f058-L-outer-margin-ink",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f26db0aa-caf6-458c-95fb-22424d964e70.json",
-      "source_face_sha256": "d3ed1204b5eab285d6ab806b0be76c22785a629bbc3792cad7710ad142fde1ac",
-      "bbox": [
-        0,
-        650,
-        75,
-        2420
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f060-R-edge-print-unknown-extent",
-      "page_id": "f060-R",
-      "unit_id": "f060-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/96042247-785e-4a0c-87d8-59949a5c012e.json",
-      "source_face_sha256": "a1852335c703da5f2a1cbbd4d6a2378093948eb8ee8c53eb9191157d0b2ac324",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f061-R-edge-print-unknown-extent",
-      "page_id": "f061-R",
-      "unit_id": "f061-R-edge-print",
-      "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bf61418a-686c-4fcf-8c10-f6bdc1c15969.json",
-      "source_face_sha256": "b6dbc6c812f287c3807738765fb70633259b14eefc079f96729172166a599938",
-      "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
-    },
-    {
-      "id": "f062-R-edge-print-unknown-extent",
+      "id": "f062-R-cell-r09-cn_name-gaiji-0",
+      "stable_glyph_id": "g-kuan-zhui",
+      "unit_id": "f062-R-cell-r09-cn_name",
       "page_id": "f062-R",
-      "unit_id": "f062-R-edge-print",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/977ee076-6d5f-42b2-b5f3-27cbcdf1c8a7.json",
+      "end": 13,
+      "surface": "⟦g-kuan-zhui⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "欵",
+        "軟"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "7fbbc3e827962456fca858d06b917a4b20f49aefd73b973d54901cc2c4247f66",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        58,
+        547,
+        221,
+        581
+      ]
     },
     {
-      "id": "f063-R-edge-print-unknown-extent",
+      "id": "f063-R-cell-r06-cn_name-gaiji-0",
+      "stable_glyph_id": "g-f063R-moles",
+      "unit_id": "f063-R-cell-r06-cn_name",
       "page_id": "f063-R",
-      "unit_id": "f063-R-edge-print",
       "start": 0,
-      "end": 0,
-      "representation": "",
-      "kind": "unresolved-visible-trace-unknown-extent",
-      "extent": "unknown",
-      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3edbbeb1-7fb2-4efc-abee-6ffb11c205a8.json",
+      "end": 15,
+      "surface": "⟦g-f063R-moles⟧",
+      "extent": 1,
+      "preferred": null,
+      "candidates": [
+        "痣",
+        "瘤"
+      ],
+      "reason": "原像素細筆未解，不依現代詞彙推換",
+      "status": "reading-unresolved",
       "source_face_sha256": "70111f5b1ca5ee0ebffafb084d1abc2c42fc5ac575d488c4d95d7077f46e1767",
       "bbox": [
-        429,
-        245,
-        453,
-        470
-      ],
-      "exact_encoding_status": "unknown",
-      "source_images_included": false
+        58,
+        393,
+        221,
+        427
+      ]
     }
   ]
 }

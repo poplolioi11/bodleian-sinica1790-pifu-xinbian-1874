@@ -2,9 +2,9 @@
   "declared_original_print_faces": 117,
   "unprocessed_declared_faces": [],
   "required_layers_pending": [],
-  "unresolved_reading_records": 472,
+  "unresolved_reading_records": 253,
   "unresolved_is_not_unprocessed": true,
-  "independent_work": "not-applied-in-this-initial-release",
+  "independent_work": "sealed independent117faces followed by nonblind original-image adjudication; no human/expert review",
   "excluded_binding_blank_modern_surfaces": [
     {
       "face_id": "f001-cover",

@@ -7,3 +7,7 @@ Pi fu xin bian [Manual of skin diseases] was orally translated by John Glasgow K
 book.json 為主本，book.txt 與 book.tei.xml 保留相同單位字串。SOURCE-MAP.json 可回到官方原件；NOTE-ANCHORS.json 有 255 個文字插入點／接續定位；READING-MAP.json 與 TABLE-CELLS.csv 保留中英表細格。CHANGES.json 說明與固定 v0.1.0 的差異，表格表示轉換與原文改讀分開。
 
 整理者：曲宸宇／Chu, Chen-Yu，帳號 poplolioi11。引用見 CITATION.cff；底本、分層權利與限制見 PROVENANCE.md、RIGHTS.md、QUALITY.md、METHODS.md。固定版本見 [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica1790-pifu-xinbian-1874/releases/tag/v0.2.0)；本版 DOI 尚未建立。
+
+[0.1.0 DOI](https://doi.org/10.5281/zenodo.24147383) · [0.2.0 DOI](https://doi.org/10.5281/zenodo.24147444) · [所有版本](https://doi.org/10.5281/zenodo.24147382) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica1790-pifu-xinbian-1874/releases/tag/v0.2.0) · [醫學史社群](https://zenodo.org/communities/late-qing-medical-history/)
+
+本主分支於固定版公開後補入 DOI 與引用連結。SHA256SUMS 驗證固定 release 內容；封存包保留製備時的文件，現行發布狀態以本頁與 DOI 頁為準。
